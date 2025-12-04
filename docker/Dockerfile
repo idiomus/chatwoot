@@ -147,6 +147,9 @@ COPY --from=pre-builder /app /app
 # Copy .git_sha file from pre-builder stage
 COPY --from=pre-builder /app/.git_sha /app/.git_sha
 
+RUN chmod +x /app/docker/entrypoints/*.sh \
+  && chmod +x /app/docker/entrypoints/helpers/*.sh 2>/dev/null || true
+
 WORKDIR /app
 
 EXPOSE 3000

@@ -27,11 +27,11 @@
     },
     "FRONTEND_URL": {
       "description": "Public root URL of the Chatwoot installation. This will be used in the emails.",
-      "value": "https://CHANGE.herokuapp.com"
+      "value": "https://cs.idiomus.com"
     },
     "INSTALLATION_ENV": {
       "description": "Installation method used for Chatwoot.",
-      "value": "heroku"
+      "value": "docker"
     },
     "REDIS_OPENSSL_VERIFY_MODE":{
       "description": "OpenSSL verification mode for Redis connections. ref https://help.heroku.com/HC0F8CUS/redis-connection-issues",

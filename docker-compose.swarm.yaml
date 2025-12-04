@@ -1,0 +1,178 @@
+version: '3.8'
+
+services:
+  base: &base
+    image: idiomusdocker/chatwoot:latest
+    environment:
+      NODE_ENV: production
+      RAILS_ENV: production
+      INSTALLATION_ENV: docker
+      SECRET_KEY_BASE_FILE: /run/secrets/chatwoot_secret_key_base
+      FRONTEND_URL: http://144.202.41.139:8127
+      DEFAULT_LOCALE: pt_BR
+      FORCE_SSL: 'false'
+      ENABLE_ACCOUNT_SIGNUP: 'true'
+      REDIS_URL: redis://chatwoot_redis:6379
+      REDIS_PASSWORD_FILE: /run/secrets/chatwoot_redis_password
+      POSTGRES_HOST: chatwoot_postgres
+      POSTGRES_DATABASE: chatwoot
+      POSTGRES_USERNAME: postgres
+      POSTGRES_PASSWORD_FILE: /run/secrets/chatwoot_postgres_password
+      RAILS_MAX_THREADS: 5
+      MAILER_SENDER_EMAIL: 'Idiomus <notifications@idiomus.com>'
+      SMTP_DOMAIN: notifications@idiomus.com
+      SMTP_ADDRESS: in-v3.mailjet.com
+      SMTP_PORT: 587
+      SMTP_USERNAME_FILE: /run/secrets/chatwoot_smtp_username
+      SMTP_PASSWORD_FILE: /run/secrets/chatwoot_smtp_password
+      SMTP_ENABLE_STARTTLS_AUTO: 'true'
+      SMTP_OPENSSL_VERIFY_MODE: peer
+      ACTIVE_STORAGE_SERVICE: s3_compatible
+      STORAGE_BUCKET_NAME: chatwoot-production
+      STORAGE_ACCESS_KEY_ID_FILE: /run/secrets/chatwoot_s3_access_key
+      STORAGE_SECRET_ACCESS_KEY_FILE: /run/secrets/chatwoot_s3_secret
+      STORAGE_REGION: sjc1
+      STORAGE_ENDPOINT: https://sjc1.vultrobjects.com
+      RAILS_LOG_TO_STDOUT: 'true'
+      LOG_LEVEL: info
+      LOG_SIZE: 500
+      ENABLE_PUSH_RELAY_SERVER: 'true'
+      OPENAI_API_KEY_FILE: /run/secrets/chatwoot_openai_key
+    secrets:
+      - chatwoot_secret_key_base
+      - chatwoot_postgres_password
+      - chatwoot_redis_password
+      - chatwoot_smtp_username
+      - chatwoot_smtp_password
+      - chatwoot_openai_key
+      - chatwoot_s3_access_key
+      - chatwoot_s3_secret
+    volumes:
+      - chatwoot_storage_data:/app/storage
+    networks:
+      - public
+
+  chatwoot_rails:
+    <<: *base
+    depends_on:
+      - chatwoot_postgres
+      - chatwoot_redis
+    ports:
+      - '8127:3000'
+    networks:
+      - public
+    entrypoint: docker/entrypoints/rails.sh
+    command: ['bundle', 'exec', 'rails', 's', '-p', '3000', '-b', '0.0.0.0']
+    restart: always
+    labels:
+      - com.docker.stack.namespace=chatwoot
+      - com.docker.swarm.service.name=rails
+    deploy:
+      mode: replicated
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+      update_config:
+        parallelism: 1
+        delay: 10s
+        failure_action: rollback
+
+  chatwoot_sidekiq:
+    <<: *base
+    depends_on:
+      - chatwoot_postgres
+      - chatwoot_redis
+    networks:
+      - public
+    entrypoint: docker/entrypoints/sidekiq.sh
+    command: ['bundle', 'exec', 'sidekiq', '-C', 'config/sidekiq.yml']
+    restart: always
+    labels:
+      - com.docker.stack.namespace=chatwoot
+      - com.docker.swarm.service.name=sidekiq
+    deploy:
+      mode: replicated
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+
+  chatwoot_postgres:
+    image: pgvector/pgvector:pg16
+    restart: always
+    networks:
+      - public
+    labels:
+      - com.docker.stack.namespace=chatwoot
+      - com.docker.swarm.service.name=postgres
+    volumes:
+      - chatwoot_postgres_data:/var/lib/postgresql/data
+    secrets:
+      - chatwoot_postgres_password
+    environment:
+      - POSTGRES_DB=chatwoot
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD_FILE=/run/secrets/chatwoot_postgres_password
+    deploy:
+      mode: replicated
+      replicas: 1
+      placement:
+        constraints:
+          - node.role == manager
+      resources:
+        limits:
+          cpus: '4.0'
+          memory: 8G
+        reservations:
+          cpus: '0.5'
+          memory: 256M
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+
+  chatwoot_redis:
+    image: redis:alpine
+    restart: always
+    command: ["sh", "-c", "redis-server --requirepass $$(cat /run/secrets/chatwoot_redis_password)"]
+    secrets:
+      - chatwoot_redis_password
+    volumes:
+      - chatwoot_redis_data:/data
+    networks:
+      - public
+    labels:
+      - com.docker.stack.namespace=chatwoot
+      - com.docker.swarm.service.name=redis
+    deploy:
+      mode: replicated
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+
+secrets:
+  chatwoot_secret_key_base:
+    external: true
+  chatwoot_postgres_password:
+    external: true
+  chatwoot_redis_password:
+    external: true
+  chatwoot_smtp_username:
+    external: true
+  chatwoot_smtp_password:
+    external: true
+  chatwoot_openai_key:
+    external: true
+  chatwoot_s3_access_key:
+    external: true
+  chatwoot_s3_secret:
+    external: true
+
+volumes:
+  chatwoot_storage_data:
+  chatwoot_postgres_data:
+  chatwoot_redis_data:
+
+networks:
+  public:
+    external: true

@@ -2,7 +2,7 @@ version: '3'
 
 services:
   base: &base
-    image: chatwoot/chatwoot:latest
+    image: idiomusdocker/chatwoot:latest
     env_file: .env ## Change this file for customized env variables
     volumes:
       - storage_data:/app/storage
@@ -13,7 +13,9 @@ services:
       - postgres
       - redis
     ports:
-      - '127.0.0.1:3000:3000'
+      - '8127:3000'
+    networks:
+      - public
     environment:
       - NODE_ENV=production
       - RAILS_ENV=production
@@ -38,7 +40,9 @@ services:
     image: pgvector/pgvector:pg16
     restart: always
     ports:
-      - '127.0.0.1:5432:5432'
+      - '5432:5432'
+    networks:
+      - public
     volumes:
       - postgres_data:/var/lib/postgresql/data
     environment:
@@ -54,10 +58,14 @@ services:
     env_file: .env
     volumes:
       - redis_data:/data
-    ports:
-      - '127.0.0.1:6379:6379'
+    networks:
+      - public
 
 volumes:
   storage_data:
   postgres_data:
   redis_data:
+
+networks:
+  public:
+    external: true

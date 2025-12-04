@@ -1,5 +1,11 @@
 #!/bin/sh
 
+if [ -f /app/docker/entrypoints/helpers/load_secrets.sh ]; then
+  set +x
+  echo "Loading secrets from _FILE variables..."
+  . /app/docker/entrypoints/helpers/load_secrets.sh
+fi
+
 set -x
 
 # Remove a potentially pre-existing server.pid for Rails.
@@ -29,6 +35,10 @@ until $BUNDLE
 do
   sleep 2;
 done
+
+echo "Running database setup..."
+bundle exec rails db:prepare
+echo "Database setup completed."
 
 # Execute the main process of the container
 exec "$@"
