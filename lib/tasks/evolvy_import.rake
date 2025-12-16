@@ -94,25 +94,26 @@ class EvolvyImporter
   # All agents (active + ex-employees) mapped by Evolvy user_id
   # The import dynamically finds or creates users by email, so this works in any environment
   # (production where users exist, or dev/staging where they need to be created)
+  # Emails synced with Evolvy/Chatwoot production on 2025-12-16
   AGENTS = {
     # Active agents
-    17_370 => { email: 'betina@idiomus.com', name: 'Betina Ogliari' },
+    17_370 => { email: 'betina.ogliari@idiomus.com', name: 'Betina Ogliari' },
     18_090 => { email: 'bruno.araujo@idiomus.com', name: 'Bruno Araujo' },
-    18_075 => { email: 'caio@idiomus.com', name: 'Caio Passos' },
-    17_313 => { email: 'catherine@idiomus.com', name: 'Catherine' },
-    16_396 => { email: 'fabio@idiomus.com', name: 'Fabio' },
-    17_951 => { email: 'felipe.foiato@idiomus.com', name: 'Felipe Foiato' },
-    17_861 => { email: 'herison@idiomus.com', name: 'Herison Pereira' },
+    18_075 => { email: 'caio.passos@idiomus.com', name: 'Caio Passos' },
+    17_313 => { email: 'catherine.mello@idiomus.com', name: 'Catherine' },
+    16_396 => { email: 'fabio.gregorio@idiomus.com', name: 'Fabio' },
+    17_951 => { email: 'foiato@idiomus.com', name: 'Felipe Foiato' },
+    17_861 => { email: 'herison.pereira@idiomus.com', name: 'Herison Pereira' },
     5883 => { email: 'israel@idiomus.com', name: 'Israel' },
     16_887 => { email: 'ivison.freire@idiomus.com', name: 'Ivison' },
     15_861 => { email: 'jorge.frizzo@idiomus.com', name: 'Jorge Frizzo' },
     5986 => { email: 'juliana@idiomus.com', name: 'Juliana Nizer' },
-    17_854 => { email: 'laura@idiomus.com', name: 'Laura' },
+    17_854 => { email: 'laura.moreira@idiomus.com', name: 'Laura' },
     17_297 => { email: 'pablo@idiomus.com', name: 'Pablo Luz' },
-    18_077 => { email: 'pedro.lobao@idiomus.com', name: 'Pedro Lobão' },
+    18_077 => { email: 'admin@slever.com.br', name: 'Pedro Lobão' },
     17_840 => { email: 'rachel@idiomus.com', name: 'Rachel' },
     18_106 => { email: 'rafaela.lamim@idiomus.com', name: 'Rafaela Lamim' },
-    17_824 => { email: 'vanessa@idiomus.com', name: 'Vanessa' },
+    17_824 => { email: 'vanessa.abreu@idiomus.com', name: 'Vanessa' },
     5995 => { email: 'vinicius@idiomus.com', name: 'Vinicius' },
     # Ex-employees (inactive - for historical data preservation)
     6 => { email: 'adm.sistema@idiomus.com', name: 'ADM (Sistema)', inactive: true, note: 'Bot/Sistema JustSell' },
