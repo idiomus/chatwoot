@@ -69,19 +69,19 @@ class EvolvyImporter
   # nil = skip (emails will be synced via IMAP)
   INBOX_MAPPING = {
     # Suporte Oficial (+558393940644)
-    14_483 => 10, # API Oficial onboarding (+558393940644)
-    14_450 => 10, # Onboarding API (same line 0644)
+    # 14_483 => 10, # API Oficial onboarding (+558393940644)
+    # 14_450 => 10, # Onboarding API (same line 0644)
     # Teacher Poli
-    5601 => 8,    # Teacher Poli - (83)92000-5321
-    13_726 => 8,  # Teacher Poli Oficial (41) 99866-0291
-    13_984 => 8,  # Teacher Poli (41) 98765-0291
+    # 5601 => 8,    # Teacher Poli - (83) 92000-5321 (Whatsapp)
+    # 13_726 => 8,  # Teacher Poli Oficial (41) 99866-0291 (Whatsapp)
+    # 13_984 => 8,  # Teacher Poli (41) 98765-0291 (Whatsapp)
     14_515 => 8,  # Teacher Poli (Facebook)
     # Teacher Poli Latam
     14_535 => 9,  # Teacher Poli para hispanohablantes (Facebook)
     # Idiomus
-    5598 => 7,    # Idiomus Oficial (41) 99907-1709
-    5599 => 7,    # Idiomus - (84) 99411-8931
-    5600 => 7,    # Onboarding (83)99115-3226
+    # 5598 => 7,    # Idiomus Oficial (41) 99907-1709 (Whatsapp)
+    # 5599 => 7,    # Idiomus - (84) 99411-8931 (Whatsapp)
+    # 5600 => 7,    # Onboarding (83) 99115-3226
     5608 => 7,    # Idiomus App (Facebook)
     5871 => 7,    # Idiomus (Facebook)
     # SKIP - Emails (will sync via IMAP)
