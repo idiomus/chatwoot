@@ -38,6 +38,9 @@ services:
       LOG_SIZE: 500
       ENABLE_PUSH_RELAY_SERVER: 'true'
       OPENAI_API_KEY_FILE: /run/secrets/chatwoot_openai_key
+      FB_VERIFY_TOKEN_FILE: /run/secrets/chatwoot_fb_verify_token
+      FB_APP_SECRET_FILE: /run/secrets/chatwoot_fb_app_secret
+      FB_APP_ID: 839780908663206
     secrets:
       - chatwoot_secret_key_base
       - chatwoot_postgres_password
@@ -47,6 +50,8 @@ services:
       - chatwoot_openai_key
       - chatwoot_s3_access_key
       - chatwoot_s3_secret
+      - chatwoot_fb_verify_token
+      - chatwoot_fb_app_secret
     volumes:
       - chatwoot_storage_data:/app/storage
     networks:
@@ -166,6 +171,10 @@ secrets:
   chatwoot_s3_access_key:
     external: true
   chatwoot_s3_secret:
+    external: true
+  chatwoot_fb_verify_token:
+    external: true
+  chatwoot_fb_app_secret:
     external: true
 
 volumes:
