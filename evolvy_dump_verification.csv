@@ -1,0 +1,18 @@
+inbox_id,inbox_name,status,chatwoot_inbox_id,api_total_atual,dump_total,dump_no_periodo,dump_apos_periodo,delta_api_vs_periodo,primeira_conv_data,primeira_conv_id,ultima_conv_data,ultima_conv_id,verificado
+13536,Teste Nivelamento,inactive,,0,0,0,0,0,,,,,OK - completo
+13726,Teacher Poli Oficial WA (41) 99866-0291,active,11,22353,22353,22353,0,0,2024-09-05 13:13,120513,2025-12-19 11:29,252331,OK - completo
+13984,Teacher Poli WA (41) 98765-0291,active,11,8927,8927,8927,0,0,2024-10-17 12:35,136733,2025-11-17 23:22,239033,OK - completo
+14448,Email Suporte,active,12,14403,14235,14208,27,195,2025-05-07 12:00,188859,2026-01-03 12:50,258785,OK - delta são conversas após 19/12
+14450,Onboarding API,active,10,11,11,11,0,0,2025-05-19 18:03,191817,2025-11-30 15:02,243888,OK - completo
+14453,Email Teacher Poli,active,13,11508,10168,8615,1553,2893,2025-05-08 13:42,189228,2026-01-05 18:30,260433,OK - delta são conversas após 19/12
+14483,API Oficial Onboarding,active,10,0,16545,13094,3451,-13094,2025-05-16 19:45,191169,2026-01-05 18:31,260435,OK - inbox arquivado/extra
+14515,Teacher Poli FB,active,8,4832,4704,4284,420,548,2025-06-06 22:48,196048,2026-01-05 17:30,260391,OK - delta são conversas após 19/12
+14535,Teacher Poli Hispanohablantes FB,active,9,2176,2122,1967,155,209,2025-06-14 16:30,197995,2026-01-05 17:16,260379,OK - delta são conversas após 19/12
+14638,Suporte (extra),unknown,,0,1677,925,752,-925,2025-12-04 13:45,245316,2026-01-05 18:20,260427,OK - inbox arquivado/extra
+14639,Extra,unknown,,0,2979,1423,1556,-1423,2025-12-04 14:05,245436,2026-01-05 18:30,260432,OK - inbox arquivado/extra
+5598,Idiomus Oficial WA (41) 99907-1709,inactive,1,27357,26179,26179,0,1178,2024-01-01 05:57,31325,2025-10-03 14:43,225243,OK - delta são conversas antes de 01/01/2024
+5599,Idiomus WA (84) 99411-8931,inactive,1,5515,5336,5336,0,179,2024-01-01 04:27,31322,2025-09-03 11:07,217072,OK - delta são conversas antes de 01/01/2024
+5600,Onboarding WA (83) 99115-3226,inactive,1,8323,8269,8269,0,54,2024-01-15 15:33,36944,2025-10-12 14:50,227564,OK - delta são conversas antes de 01/01/2024
+5601,Teacher Poli WA (83) 92000-5321,active,11,7098,6962,6962,0,136,2024-02-14 14:20,51117,2025-12-19 11:46,252339,OK - delta são conversas após 19/12
+5608,Idiomus App FB,active,7,23,23,23,0,0,2024-11-01 18:39,143039,2025-04-10 22:04,184851,OK - completo
+5871,Idiomus FB,active,7,8715,8374,8355,19,360,2024-01-01 00:10,31276,2026-01-05 10:12,260079,OK - delta são conversas após 19/12

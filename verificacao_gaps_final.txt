@@ -1,0 +1,48 @@
+================================================================================
+ANÁLISE FINAL DE GAPS NA IMPORTAÇÃO EVOLVY → CHATWOOT
+Data: $(date)
+================================================================================
+
+RESUMO EXECUTIVO
+--------------------------------------------------------------------------------
+A maioria dos "gaps" são conversas APÓS 19/12/2025, que não precisam ser
+importadas pois o Chatwoot já está ativo e gerenciando essas conversas.
+
+CONVERSAS QUE REALMENTE FALTAM IMPORTAR (dentro do período 01/01/2024-19/12/2025):
+--------------------------------------------------------------------------------
+| Inbox   | Total Gap | Após Cutoff | FALTA IMPORTAR |
+|---------|-----------|-------------|----------------|
+| 14483   | 3,545     | 3,453       | 92             |
+| 14515   | 466       | 421         | 45             |
+| 14535   | 175       | 155         | 20             |
+| 5871    | 54        | 19          | 35             |
+| 5598    | 13        | 0           | 13             |
+| 5599    | 3         | 0           | 3              |
+| 5600    | 2         | 0           | 2              |
+| 5601    | 4         | 0           | 4              |
+|---------|-----------|-------------|----------------|
+| SUBTOTAL|           |             | 214            |
+--------------------------------------------------------------------------------
+
+INBOXES EXTRAS (em importação agora):
+- 14638: 1,677 conversas (mapeado → Chatwoot 12)
+- 14639: 2,979 conversas (mapeado → Chatwoot 13)
+
+INBOXES 100% COMPLETOS:
+- 5608 (Idiomus App FB)
+- 13726 (Teacher Poli Oficial WA)
+- 13984 (Teacher Poli WA)
+- 14448 (Email Suporte)
+- 14450 (Onboarding API)
+- 14453 (Email Teacher Poli)
+
+CONCLUSÃO:
+- 214 conversas dentro do período precisam ser reimportadas
+- 4,656 conversas extras (14638+14639) em processo de importação
+- O restante dos "gaps" são conversas pós-migração (já no Chatwoot)
+
+PRÓXIMOS PASSOS:
+1. Aguardar conclusão da importação de 14638/14639
+2. Investigar as 214 conversas faltantes (possível erro de import anterior)
+3. Reimportar se necessário
+================================================================================

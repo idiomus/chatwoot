@@ -1,0 +1,47 @@
+=== VERIFICAÇÃO: IDs no Banco vs IDs no Dump ===
+Data: Thu Jan 15 07:54:42 PM -03 2026
+
+=== RESULTADO ===
+IDs no dump: 138,864
+IDs no banco: 129,947
+IDs faltando importar: 8918
+IDs extras no banco: 1
+
+Amostra dos IDs faltando (primeiros 20):
+42829
+70818
+80303
+80498
+86216
+86217
+86262
+97303
+100923
+102161
+103500
+105911
+108090
+110470
+110810
+113549
+113721
+114021
+116048
+117507
+Inbox 5598: Dump=0, Banco=0, Falta=0
+Inbox 5599: Dump=5336, Banco=25611, Falta=3
+Inbox 5600: Dump=8269, Banco=8280, Falta=2
+Inbox 5601: Dump=6962, Banco=18953, Falta=4
+Inbox 5608: Dump=23, Banco=23, Falta=0
+Inbox 5871: Dump=8374, Banco=118288, Falta=4772
+Inbox 13536: Dump=0, Banco=0, Falta=0
+Inbox 13726: Dump=0, Banco=0, Falta=0
+Inbox 13984: Dump=8927, Banco=8927, Falta=0
+Inbox 14448: Dump=14235, Banco=14235, Falta=0
+Inbox 14450: Dump=11, Banco=11, Falta=0
+Inbox 14453: Dump=10168, Banco=10168, Falta=0
+Inbox 14483: Dump=0, Banco=0, Falta=0
+Inbox 14515: Dump=4704, Banco=4238, Falta=466
+Inbox 14535: Dump=2122, Banco=1947, Falta=175
+Inbox 14638: Dump=1677, Banco=0, Falta=1677
+Inbox 14639: Dump=2979, Banco=0, Falta=2979

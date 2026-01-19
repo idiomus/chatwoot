@@ -102,5 +102,8 @@ CLAUDE.local.md
 .pnpm-store/*
 local/
 
-# Evolvy migration dump (download manually for import)
-12_12_2025_evolvy_dump/
+# Evolvy migration dumps (download manually for import)
+*_evolvy_dump/
+
+# Database backups
+*.sql
