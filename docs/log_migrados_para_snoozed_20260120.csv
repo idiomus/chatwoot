@@ -1,0 +1,2790 @@
+chatwoot_id,evolvy_id,inbox_id,inbox_name,status_anterior,status_novo,created_at
+270298,242355,7,Idiomus,open,snoozed,2025-11-26 11:04:20
+270305,251806,7,Idiomus,open,snoozed,2025-12-17 17:23:10
+157284,225156,10,Suporte Oficial,pending,snoozed,2025-10-03 01:27:06
+157318,225300,10,Suporte Oficial,pending,snoozed,2025-10-03 19:11:39
+157447,225702,10,Suporte Oficial,pending,snoozed,2025-10-06 13:28:24
+157500,225854,10,Suporte Oficial,pending,snoozed,2025-10-06 22:24:01
+157624,226507,10,Suporte Oficial,pending,snoozed,2025-10-09 01:58:17
+157633,226570,10,Suporte Oficial,pending,snoozed,2025-10-09 10:58:15
+157692,226957,10,Suporte Oficial,open,snoozed,2025-10-10 12:58:19
+157704,226980,10,Suporte Oficial,pending,snoozed,2025-10-10 14:53:22
+157705,226983,10,Suporte Oficial,pending,snoozed,2025-10-10 15:14:48
+157706,226984,10,Suporte Oficial,pending,snoozed,2025-10-10 15:23:31
+157707,226985,10,Suporte Oficial,pending,snoozed,2025-10-10 15:24:43
+157720,227053,10,Suporte Oficial,pending,snoozed,2025-10-10 18:17:30
+157732,227129,10,Suporte Oficial,pending,snoozed,2025-10-10 23:33:35
+159274,227343,10,Suporte Oficial,pending,snoozed,2025-10-11 17:36:41
+159293,227572,10,Suporte Oficial,pending,snoozed,2025-10-12 15:01:11
+159362,227916,10,Suporte Oficial,pending,snoozed,2025-10-13 21:18:05
+159409,228119,10,Suporte Oficial,pending,snoozed,2025-10-14 14:53:18
+159410,228121,10,Suporte Oficial,pending,snoozed,2025-10-14 15:01:09
+159411,228124,10,Suporte Oficial,pending,snoozed,2025-10-14 15:04:31
+159432,228209,10,Suporte Oficial,pending,snoozed,2025-10-14 21:19:45
+159441,228325,10,Suporte Oficial,pending,snoozed,2025-10-15 13:13:37
+159442,228334,10,Suporte Oficial,pending,snoozed,2025-10-15 13:37:56
+159444,228342,10,Suporte Oficial,pending,snoozed,2025-10-15 14:54:37
+159445,228346,10,Suporte Oficial,pending,snoozed,2025-10-15 15:10:14
+159446,228413,10,Suporte Oficial,pending,snoozed,2025-10-15 19:30:06
+159448,228464,10,Suporte Oficial,pending,snoozed,2025-10-15 23:25:55
+159449,228537,10,Suporte Oficial,pending,snoozed,2025-10-16 11:57:57
+159450,228584,10,Suporte Oficial,pending,snoozed,2025-10-16 14:56:18
+159451,228585,10,Suporte Oficial,pending,snoozed,2025-10-16 15:00:58
+159452,228589,10,Suporte Oficial,pending,snoozed,2025-10-16 15:08:06
+159453,228597,10,Suporte Oficial,pending,snoozed,2025-10-16 15:55:46
+159455,228612,10,Suporte Oficial,pending,snoozed,2025-10-16 16:26:09
+159465,228640,10,Suporte Oficial,pending,snoozed,2025-10-16 18:22:55
+159474,228679,10,Suporte Oficial,pending,snoozed,2025-10-17 00:04:29
+159489,228790,10,Suporte Oficial,pending,snoozed,2025-10-17 15:24:51
+159495,228805,10,Suporte Oficial,pending,snoozed,2025-10-17 17:05:02
+159498,228819,10,Suporte Oficial,pending,snoozed,2025-10-17 17:44:46
+159499,228826,10,Suporte Oficial,pending,snoozed,2025-10-17 18:17:35
+159500,228828,10,Suporte Oficial,pending,snoozed,2025-10-17 18:21:49
+159501,228832,10,Suporte Oficial,pending,snoozed,2025-10-17 18:32:13
+159503,228845,10,Suporte Oficial,pending,snoozed,2025-10-17 19:46:59
+159504,228847,10,Suporte Oficial,pending,snoozed,2025-10-17 19:54:48
+159521,228937,10,Suporte Oficial,pending,snoozed,2025-10-18 12:40:52
+159526,228975,10,Suporte Oficial,pending,snoozed,2025-10-18 14:41:51
+159530,228982,10,Suporte Oficial,pending,snoozed,2025-10-18 15:04:44
+159535,228997,10,Suporte Oficial,pending,snoozed,2025-10-18 16:58:42
+159536,228999,10,Suporte Oficial,pending,snoozed,2025-10-18 17:05:01
+159540,229018,10,Suporte Oficial,pending,snoozed,2025-10-18 19:05:20
+159582,229323,10,Suporte Oficial,pending,snoozed,2025-10-20 07:49:12
+159594,229409,10,Suporte Oficial,pending,snoozed,2025-10-20 14:10:15
+159597,229432,10,Suporte Oficial,pending,snoozed,2025-10-20 14:45:06
+159598,229441,10,Suporte Oficial,pending,snoozed,2025-10-20 15:03:53
+159599,229442,10,Suporte Oficial,pending,snoozed,2025-10-20 15:05:09
+159602,229445,10,Suporte Oficial,pending,snoozed,2025-10-20 15:12:45
+159605,229451,10,Suporte Oficial,pending,snoozed,2025-10-20 15:34:19
+159616,229505,10,Suporte Oficial,pending,snoozed,2025-10-20 18:17:46
+159617,229507,10,Suporte Oficial,pending,snoozed,2025-10-20 18:19:46
+159620,229525,10,Suporte Oficial,pending,snoozed,2025-10-20 18:39:30
+159625,229539,10,Suporte Oficial,pending,snoozed,2025-10-20 19:19:46
+159630,229562,10,Suporte Oficial,pending,snoozed,2025-10-20 20:54:07
+159631,229566,10,Suporte Oficial,pending,snoozed,2025-10-20 21:05:25
+159639,229613,10,Suporte Oficial,pending,snoozed,2025-10-20 22:26:15
+159660,229797,10,Suporte Oficial,pending,snoozed,2025-10-21 12:33:02
+159663,229808,10,Suporte Oficial,pending,snoozed,2025-10-21 13:02:39
+159669,229852,10,Suporte Oficial,pending,snoozed,2025-10-21 15:14:12
+159670,229853,10,Suporte Oficial,pending,snoozed,2025-10-21 15:20:50
+159671,229856,10,Suporte Oficial,pending,snoozed,2025-10-21 15:21:57
+159672,229858,10,Suporte Oficial,pending,snoozed,2025-10-21 15:32:04
+159673,229860,10,Suporte Oficial,pending,snoozed,2025-10-21 15:32:21
+159676,229870,10,Suporte Oficial,pending,snoozed,2025-10-21 15:47:32
+159679,229888,10,Suporte Oficial,pending,snoozed,2025-10-21 16:57:43
+159688,229960,10,Suporte Oficial,pending,snoozed,2025-10-21 20:27:45
+159689,229971,10,Suporte Oficial,pending,snoozed,2025-10-21 21:05:32
+159694,229991,10,Suporte Oficial,pending,snoozed,2025-10-21 22:11:18
+159724,230280,10,Suporte Oficial,pending,snoozed,2025-10-22 16:42:01
+159727,230294,10,Suporte Oficial,pending,snoozed,2025-10-22 17:12:34
+159730,230307,10,Suporte Oficial,pending,snoozed,2025-10-22 17:47:23
+159731,230309,10,Suporte Oficial,pending,snoozed,2025-10-22 17:55:18
+161505,230562,10,Suporte Oficial,pending,snoozed,2025-10-23 12:04:26
+161506,230564,10,Suporte Oficial,pending,snoozed,2025-10-23 12:06:22
+161508,230580,10,Suporte Oficial,pending,snoozed,2025-10-23 12:53:26
+161511,230600,10,Suporte Oficial,pending,snoozed,2025-10-23 13:35:14
+161514,230605,10,Suporte Oficial,pending,snoozed,2025-10-23 13:54:31
+161515,230622,10,Suporte Oficial,pending,snoozed,2025-10-23 15:22:06
+161517,230641,10,Suporte Oficial,pending,snoozed,2025-10-23 16:30:11
+161518,230652,10,Suporte Oficial,pending,snoozed,2025-10-23 17:02:06
+161523,230677,10,Suporte Oficial,pending,snoozed,2025-10-23 19:08:12
+161525,230691,10,Suporte Oficial,pending,snoozed,2025-10-23 19:53:51
+161549,230914,10,Suporte Oficial,pending,snoozed,2025-10-24 15:06:29
+161550,230917,10,Suporte Oficial,pending,snoozed,2025-10-24 15:08:50
+161555,230928,10,Suporte Oficial,pending,snoozed,2025-10-24 15:57:28
+161575,231060,10,Suporte Oficial,open,snoozed,2025-10-25 00:31:00
+161583,231124,10,Suporte Oficial,pending,snoozed,2025-10-25 10:34:32
+161592,231187,10,Suporte Oficial,pending,snoozed,2025-10-25 15:25:58
+161594,231213,10,Suporte Oficial,pending,snoozed,2025-10-25 16:12:09
+161598,231268,10,Suporte Oficial,pending,snoozed,2025-10-25 22:06:19
+161611,231408,10,Suporte Oficial,pending,snoozed,2025-10-26 12:56:58
+161618,231445,10,Suporte Oficial,pending,snoozed,2025-10-26 14:51:11
+161622,231459,10,Suporte Oficial,pending,snoozed,2025-10-26 15:34:28
+161629,231531,10,Suporte Oficial,pending,snoozed,2025-10-26 19:21:07
+161632,231563,10,Suporte Oficial,pending,snoozed,2025-10-26 20:49:40
+161641,231645,10,Suporte Oficial,pending,snoozed,2025-10-27 02:22:27
+161658,231762,10,Suporte Oficial,pending,snoozed,2025-10-27 13:15:52
+161659,231764,10,Suporte Oficial,pending,snoozed,2025-10-27 13:24:10
+161671,231833,10,Suporte Oficial,pending,snoozed,2025-10-27 16:05:56
+161672,231850,10,Suporte Oficial,pending,snoozed,2025-10-27 16:34:54
+161690,231925,10,Suporte Oficial,pending,snoozed,2025-10-27 20:14:44
+161692,231937,10,Suporte Oficial,pending,snoozed,2025-10-27 20:39:51
+161694,231946,10,Suporte Oficial,pending,snoozed,2025-10-27 21:09:16
+161704,232060,10,Suporte Oficial,pending,snoozed,2025-10-28 02:26:17
+161707,232116,10,Suporte Oficial,pending,snoozed,2025-10-28 11:47:38
+161709,232121,10,Suporte Oficial,pending,snoozed,2025-10-28 11:56:49
+161720,232171,10,Suporte Oficial,pending,snoozed,2025-10-28 14:03:45
+161722,232186,10,Suporte Oficial,pending,snoozed,2025-10-28 15:02:25
+161724,232198,10,Suporte Oficial,pending,snoozed,2025-10-28 15:31:35
+161725,232204,10,Suporte Oficial,pending,snoozed,2025-10-28 15:41:08
+161726,232205,10,Suporte Oficial,pending,snoozed,2025-10-28 15:42:53
+161732,232251,10,Suporte Oficial,pending,snoozed,2025-10-28 18:43:11
+161733,232252,10,Suporte Oficial,pending,snoozed,2025-10-28 18:47:07
+161735,232257,10,Suporte Oficial,pending,snoozed,2025-10-28 19:05:47
+161737,232262,10,Suporte Oficial,pending,snoozed,2025-10-28 19:20:36
+161740,232286,10,Suporte Oficial,pending,snoozed,2025-10-28 20:33:15
+161744,232322,10,Suporte Oficial,pending,snoozed,2025-10-28 22:26:39
+161759,232450,10,Suporte Oficial,pending,snoozed,2025-10-29 11:34:37
+161767,232482,10,Suporte Oficial,pending,snoozed,2025-10-29 12:58:48
+161768,232484,10,Suporte Oficial,pending,snoozed,2025-10-29 13:05:04
+161770,232491,10,Suporte Oficial,pending,snoozed,2025-10-29 13:16:03
+161772,232516,10,Suporte Oficial,pending,snoozed,2025-10-29 14:32:09
+161774,232520,10,Suporte Oficial,pending,snoozed,2025-10-29 14:38:17
+161776,232525,10,Suporte Oficial,pending,snoozed,2025-10-29 15:00:39
+161777,232526,10,Suporte Oficial,pending,snoozed,2025-10-29 15:00:49
+161778,232528,10,Suporte Oficial,pending,snoozed,2025-10-29 15:02:43
+161779,232529,10,Suporte Oficial,pending,snoozed,2025-10-29 15:02:52
+161780,232531,10,Suporte Oficial,pending,snoozed,2025-10-29 15:19:18
+161782,232534,10,Suporte Oficial,pending,snoozed,2025-10-29 15:41:22
+161784,232544,10,Suporte Oficial,pending,snoozed,2025-10-29 16:12:57
+161785,232546,10,Suporte Oficial,pending,snoozed,2025-10-29 16:13:17
+161788,232565,10,Suporte Oficial,pending,snoozed,2025-10-29 17:38:02
+161789,232569,10,Suporte Oficial,pending,snoozed,2025-10-29 17:39:42
+161790,232580,10,Suporte Oficial,pending,snoozed,2025-10-29 18:28:08
+161794,232605,10,Suporte Oficial,pending,snoozed,2025-10-29 20:57:57
+161795,232610,10,Suporte Oficial,pending,snoozed,2025-10-29 21:13:53
+161797,232614,10,Suporte Oficial,pending,snoozed,2025-10-29 21:17:07
+161798,232617,10,Suporte Oficial,open,snoozed,2025-10-29 21:24:56
+161801,232623,10,Suporte Oficial,pending,snoozed,2025-10-29 21:43:15
+161803,232626,10,Suporte Oficial,pending,snoozed,2025-10-29 21:57:10
+161813,232753,10,Suporte Oficial,pending,snoozed,2025-10-30 12:01:30
+161818,232772,10,Suporte Oficial,pending,snoozed,2025-10-30 12:52:47
+161820,232784,10,Suporte Oficial,pending,snoozed,2025-10-30 13:34:44
+161824,232814,10,Suporte Oficial,pending,snoozed,2025-10-30 16:00:30
+161825,232817,10,Suporte Oficial,pending,snoozed,2025-10-30 16:08:13
+161826,232832,10,Suporte Oficial,pending,snoozed,2025-10-30 16:43:10
+161831,232851,10,Suporte Oficial,pending,snoozed,2025-10-30 18:02:03
+161832,232856,10,Suporte Oficial,pending,snoozed,2025-10-30 18:20:51
+161837,232881,10,Suporte Oficial,pending,snoozed,2025-10-30 19:52:07
+161864,233050,10,Suporte Oficial,pending,snoozed,2025-10-31 10:42:28
+161953,233236,10,Suporte Oficial,pending,snoozed,2025-10-31 15:00:58
+161955,233239,10,Suporte Oficial,pending,snoozed,2025-10-31 15:03:42
+161957,233245,10,Suporte Oficial,pending,snoozed,2025-10-31 15:07:31
+161960,233249,10,Suporte Oficial,pending,snoozed,2025-10-31 15:18:42
+161969,233286,10,Suporte Oficial,pending,snoozed,2025-10-31 16:23:56
+162987,233332,10,Suporte Oficial,pending,snoozed,2025-10-31 18:06:55
+162990,233347,10,Suporte Oficial,pending,snoozed,2025-10-31 18:44:48
+162996,233373,10,Suporte Oficial,pending,snoozed,2025-10-31 19:38:17
+162999,233380,10,Suporte Oficial,pending,snoozed,2025-10-31 19:57:14
+163005,233394,10,Suporte Oficial,pending,snoozed,2025-10-31 20:52:11
+163011,233413,10,Suporte Oficial,pending,snoozed,2025-10-31 21:17:15
+163012,233416,10,Suporte Oficial,pending,snoozed,2025-10-31 21:26:58
+163020,233435,10,Suporte Oficial,pending,snoozed,2025-10-31 22:45:23
+163061,233595,10,Suporte Oficial,pending,snoozed,2025-11-01 13:36:23
+163065,233612,10,Suporte Oficial,pending,snoozed,2025-11-01 14:29:57
+163066,233615,10,Suporte Oficial,pending,snoozed,2025-11-01 14:33:06
+163070,233629,10,Suporte Oficial,pending,snoozed,2025-11-01 14:58:09
+163072,233634,10,Suporte Oficial,pending,snoozed,2025-11-01 15:04:29
+163077,233639,10,Suporte Oficial,pending,snoozed,2025-11-01 15:12:42
+163078,233643,10,Suporte Oficial,pending,snoozed,2025-11-01 15:15:04
+163081,233649,10,Suporte Oficial,pending,snoozed,2025-11-01 15:25:22
+163084,233673,10,Suporte Oficial,pending,snoozed,2025-11-01 16:04:55
+163087,233688,10,Suporte Oficial,pending,snoozed,2025-11-01 16:34:11
+163096,233734,10,Suporte Oficial,pending,snoozed,2025-11-01 20:05:16
+163111,233811,10,Suporte Oficial,pending,snoozed,2025-11-02 02:08:43
+163128,233901,10,Suporte Oficial,pending,snoozed,2025-11-02 13:01:31
+163132,233918,10,Suporte Oficial,pending,snoozed,2025-11-02 14:17:33
+163137,233948,10,Suporte Oficial,pending,snoozed,2025-11-02 15:41:08
+163138,233951,10,Suporte Oficial,pending,snoozed,2025-11-02 15:47:26
+163142,233970,10,Suporte Oficial,pending,snoozed,2025-11-02 17:02:17
+163145,233985,10,Suporte Oficial,pending,snoozed,2025-11-02 17:34:25
+163150,234005,10,Suporte Oficial,pending,snoozed,2025-11-02 17:56:10
+163158,234074,10,Suporte Oficial,pending,snoozed,2025-11-02 20:34:27
+163203,234266,10,Suporte Oficial,pending,snoozed,2025-11-03 12:57:49
+163209,234287,10,Suporte Oficial,pending,snoozed,2025-11-03 13:40:58
+163217,234313,10,Suporte Oficial,pending,snoozed,2025-11-03 14:34:05
+163223,234342,10,Suporte Oficial,pending,snoozed,2025-11-03 16:25:28
+163248,234449,10,Suporte Oficial,pending,snoozed,2025-11-03 21:52:33
+163252,234459,10,Suporte Oficial,pending,snoozed,2025-11-03 22:29:36
+163291,234677,10,Suporte Oficial,pending,snoozed,2025-11-04 14:01:40
+163298,234699,10,Suporte Oficial,pending,snoozed,2025-11-04 15:03:43
+163299,234701,10,Suporte Oficial,pending,snoozed,2025-11-04 15:04:44
+163300,234703,10,Suporte Oficial,pending,snoozed,2025-11-04 15:08:20
+163301,234707,10,Suporte Oficial,pending,snoozed,2025-11-04 15:13:00
+163304,234714,10,Suporte Oficial,pending,snoozed,2025-11-04 15:18:01
+163305,234719,10,Suporte Oficial,pending,snoozed,2025-11-04 15:28:41
+163307,234722,10,Suporte Oficial,pending,snoozed,2025-11-04 15:31:52
+163311,234736,10,Suporte Oficial,pending,snoozed,2025-11-04 16:04:41
+163313,234741,10,Suporte Oficial,pending,snoozed,2025-11-04 16:10:53
+163317,234749,10,Suporte Oficial,pending,snoozed,2025-11-04 16:23:53
+163318,234751,10,Suporte Oficial,pending,snoozed,2025-11-04 16:24:19
+163320,234761,10,Suporte Oficial,pending,snoozed,2025-11-04 16:38:11
+163321,234763,10,Suporte Oficial,pending,snoozed,2025-11-04 16:42:36
+163327,234781,10,Suporte Oficial,pending,snoozed,2025-11-04 17:23:39
+163328,234788,10,Suporte Oficial,pending,snoozed,2025-11-04 17:28:27
+163332,234797,10,Suporte Oficial,pending,snoozed,2025-11-04 18:32:10
+163335,234809,10,Suporte Oficial,pending,snoozed,2025-11-04 18:45:57
+163336,234816,10,Suporte Oficial,pending,snoozed,2025-11-04 18:55:47
+163337,234820,10,Suporte Oficial,pending,snoozed,2025-11-04 19:02:30
+163340,234841,10,Suporte Oficial,pending,snoozed,2025-11-04 19:51:59
+163341,234844,10,Suporte Oficial,pending,snoozed,2025-11-04 19:57:49
+163343,234857,10,Suporte Oficial,pending,snoozed,2025-11-04 20:45:27
+163345,234867,10,Suporte Oficial,pending,snoozed,2025-11-04 21:01:06
+163347,234869,10,Suporte Oficial,pending,snoozed,2025-11-04 21:04:03
+163356,234909,10,Suporte Oficial,pending,snoozed,2025-11-04 22:46:38
+163358,234942,10,Suporte Oficial,pending,snoozed,2025-11-04 23:56:48
+163366,234957,10,Suporte Oficial,pending,snoozed,2025-11-05 00:59:09
+163367,234959,10,Suporte Oficial,pending,snoozed,2025-11-05 01:08:25
+163382,235020,10,Suporte Oficial,pending,snoozed,2025-11-05 11:39:16
+163390,235044,10,Suporte Oficial,pending,snoozed,2025-11-05 13:07:00
+163395,235066,10,Suporte Oficial,pending,snoozed,2025-11-05 13:58:43
+163398,235099,10,Suporte Oficial,pending,snoozed,2025-11-05 15:04:34
+163400,235110,10,Suporte Oficial,pending,snoozed,2025-11-05 15:13:41
+163401,235111,10,Suporte Oficial,pending,snoozed,2025-11-05 15:14:25
+163406,235124,10,Suporte Oficial,pending,snoozed,2025-11-05 15:34:12
+163408,235138,10,Suporte Oficial,pending,snoozed,2025-11-05 16:19:07
+163409,235139,10,Suporte Oficial,pending,snoozed,2025-11-05 16:19:23
+163410,235146,10,Suporte Oficial,pending,snoozed,2025-11-05 16:21:34
+163412,235155,10,Suporte Oficial,pending,snoozed,2025-11-05 16:37:42
+163418,235168,10,Suporte Oficial,pending,snoozed,2025-11-05 16:58:32
+163419,235175,10,Suporte Oficial,pending,snoozed,2025-11-05 17:12:33
+163430,235210,10,Suporte Oficial,pending,snoozed,2025-11-05 18:31:09
+163431,235212,10,Suporte Oficial,pending,snoozed,2025-11-05 18:33:26
+163437,235248,10,Suporte Oficial,pending,snoozed,2025-11-05 19:44:21
+163441,235257,10,Suporte Oficial,pending,snoozed,2025-11-05 20:38:38
+163442,235264,10,Suporte Oficial,pending,snoozed,2025-11-05 20:45:36
+163445,235269,10,Suporte Oficial,pending,snoozed,2025-11-05 21:00:16
+163447,235274,10,Suporte Oficial,pending,snoozed,2025-11-05 21:17:16
+163455,235315,10,Suporte Oficial,pending,snoozed,2025-11-05 22:47:48
+163461,235342,10,Suporte Oficial,pending,snoozed,2025-11-05 23:37:12
+163464,235349,10,Suporte Oficial,pending,snoozed,2025-11-05 23:54:22
+163469,235360,10,Suporte Oficial,pending,snoozed,2025-11-06 00:30:05
+164986,235439,10,Suporte Oficial,pending,snoozed,2025-11-06 11:03:10
+164996,235491,10,Suporte Oficial,pending,snoozed,2025-11-06 12:36:18
+165003,235523,10,Suporte Oficial,pending,snoozed,2025-11-06 13:44:57
+165009,235539,10,Suporte Oficial,pending,snoozed,2025-11-06 14:21:34
+165011,235544,10,Suporte Oficial,pending,snoozed,2025-11-06 14:30:57
+165016,235561,10,Suporte Oficial,pending,snoozed,2025-11-06 15:09:18
+165017,235564,10,Suporte Oficial,pending,snoozed,2025-11-06 15:11:31
+165018,235566,10,Suporte Oficial,pending,snoozed,2025-11-06 15:12:55
+165019,235569,10,Suporte Oficial,pending,snoozed,2025-11-06 15:13:26
+165020,235571,10,Suporte Oficial,pending,snoozed,2025-11-06 15:15:04
+165021,235574,10,Suporte Oficial,pending,snoozed,2025-11-06 15:18:15
+165023,235580,10,Suporte Oficial,pending,snoozed,2025-11-06 15:32:01
+165024,235590,10,Suporte Oficial,pending,snoozed,2025-11-06 15:53:15
+165038,235634,10,Suporte Oficial,pending,snoozed,2025-11-06 17:36:13
+165050,235670,10,Suporte Oficial,pending,snoozed,2025-11-06 19:53:49
+165054,235685,10,Suporte Oficial,pending,snoozed,2025-11-06 20:57:06
+165056,235688,10,Suporte Oficial,pending,snoozed,2025-11-06 21:07:22
+165078,235793,10,Suporte Oficial,pending,snoozed,2025-11-07 03:40:09
+165099,235866,10,Suporte Oficial,pending,snoozed,2025-11-07 11:54:43
+165108,235899,10,Suporte Oficial,pending,snoozed,2025-11-07 13:11:04
+165110,235905,10,Suporte Oficial,pending,snoozed,2025-11-07 13:27:33
+165113,235922,10,Suporte Oficial,pending,snoozed,2025-11-07 14:13:52
+165120,235942,10,Suporte Oficial,pending,snoozed,2025-11-07 15:04:57
+165125,235949,10,Suporte Oficial,pending,snoozed,2025-11-07 15:18:16
+165131,235982,10,Suporte Oficial,pending,snoozed,2025-11-07 16:15:52
+165141,236008,10,Suporte Oficial,pending,snoozed,2025-11-07 17:31:50
+165148,236037,10,Suporte Oficial,pending,snoozed,2025-11-07 18:42:52
+165165,236095,10,Suporte Oficial,pending,snoozed,2025-11-07 22:10:10
+165182,236169,10,Suporte Oficial,pending,snoozed,2025-11-08 04:11:08
+165183,236172,10,Suporte Oficial,pending,snoozed,2025-11-08 04:20:40
+165196,236225,10,Suporte Oficial,pending,snoozed,2025-11-08 12:20:05
+165201,236236,10,Suporte Oficial,pending,snoozed,2025-11-08 13:32:45
+165210,236287,10,Suporte Oficial,pending,snoozed,2025-11-08 14:55:31
+165211,236289,10,Suporte Oficial,pending,snoozed,2025-11-08 15:01:54
+165212,236290,10,Suporte Oficial,pending,snoozed,2025-11-08 15:02:02
+165221,236323,10,Suporte Oficial,pending,snoozed,2025-11-08 16:23:13
+165227,236341,10,Suporte Oficial,pending,snoozed,2025-11-08 17:06:30
+165229,236350,10,Suporte Oficial,pending,snoozed,2025-11-08 17:14:27
+165230,236351,10,Suporte Oficial,pending,snoozed,2025-11-08 17:20:43
+165236,236369,10,Suporte Oficial,pending,snoozed,2025-11-08 18:35:14
+165241,236396,10,Suporte Oficial,pending,snoozed,2025-11-08 20:30:47
+165243,236405,10,Suporte Oficial,pending,snoozed,2025-11-08 21:06:45
+165248,236415,10,Suporte Oficial,pending,snoozed,2025-11-08 21:34:26
+165264,236505,10,Suporte Oficial,pending,snoozed,2025-11-09 11:03:25
+165279,236582,10,Suporte Oficial,pending,snoozed,2025-11-09 14:44:43
+165282,236589,10,Suporte Oficial,pending,snoozed,2025-11-09 15:01:17
+165283,236595,10,Suporte Oficial,pending,snoozed,2025-11-09 15:07:00
+165287,236606,10,Suporte Oficial,pending,snoozed,2025-11-09 15:41:00
+165299,236651,10,Suporte Oficial,pending,snoozed,2025-11-09 17:37:49
+165326,236747,10,Suporte Oficial,pending,snoozed,2025-11-09 23:49:07
+165355,236877,10,Suporte Oficial,pending,snoozed,2025-11-10 11:17:01
+165356,236889,10,Suporte Oficial,pending,snoozed,2025-11-10 12:14:49
+165359,236920,10,Suporte Oficial,pending,snoozed,2025-11-10 13:08:59
+165361,236925,10,Suporte Oficial,pending,snoozed,2025-11-10 13:17:01
+165363,236930,10,Suporte Oficial,pending,snoozed,2025-11-10 13:23:44
+165365,236934,10,Suporte Oficial,pending,snoozed,2025-11-10 13:28:32
+165366,236935,10,Suporte Oficial,pending,snoozed,2025-11-10 13:28:50
+165368,236950,10,Suporte Oficial,pending,snoozed,2025-11-10 13:55:58
+165372,236960,10,Suporte Oficial,pending,snoozed,2025-11-10 14:13:52
+165373,236963,10,Suporte Oficial,pending,snoozed,2025-11-10 14:15:40
+165374,236967,10,Suporte Oficial,pending,snoozed,2025-11-10 14:24:41
+165377,236977,10,Suporte Oficial,pending,snoozed,2025-11-10 14:46:11
+165378,236978,10,Suporte Oficial,pending,snoozed,2025-11-10 14:46:17
+165379,236988,10,Suporte Oficial,pending,snoozed,2025-11-10 15:04:48
+165383,236999,10,Suporte Oficial,pending,snoozed,2025-11-10 15:24:04
+165388,237019,10,Suporte Oficial,pending,snoozed,2025-11-10 16:02:32
+165391,237028,10,Suporte Oficial,pending,snoozed,2025-11-10 16:18:37
+165397,237050,10,Suporte Oficial,pending,snoozed,2025-11-10 17:39:16
+165405,237079,10,Suporte Oficial,pending,snoozed,2025-11-10 19:16:59
+165408,237084,10,Suporte Oficial,pending,snoozed,2025-11-10 19:33:17
+165412,237113,10,Suporte Oficial,pending,snoozed,2025-11-10 20:52:54
+165434,237221,10,Suporte Oficial,pending,snoozed,2025-11-11 12:07:30
+165444,237286,10,Suporte Oficial,pending,snoozed,2025-11-11 14:57:26
+165446,237289,10,Suporte Oficial,pending,snoozed,2025-11-11 14:58:32
+165447,237291,10,Suporte Oficial,pending,snoozed,2025-11-11 15:00:38
+165448,237293,10,Suporte Oficial,pending,snoozed,2025-11-11 15:03:23
+165449,237295,10,Suporte Oficial,pending,snoozed,2025-11-11 15:03:39
+165450,237297,10,Suporte Oficial,pending,snoozed,2025-11-11 15:04:04
+165451,237299,10,Suporte Oficial,pending,snoozed,2025-11-11 15:07:55
+165453,237309,10,Suporte Oficial,pending,snoozed,2025-11-11 15:50:54
+165456,237319,10,Suporte Oficial,pending,snoozed,2025-11-11 16:44:02
+165459,237324,10,Suporte Oficial,pending,snoozed,2025-11-11 17:04:00
+165470,237361,10,Suporte Oficial,pending,snoozed,2025-11-11 20:04:23
+165472,237367,10,Suporte Oficial,pending,snoozed,2025-11-11 20:32:30
+165473,237370,10,Suporte Oficial,pending,snoozed,2025-11-11 20:38:16
+167489,237418,10,Suporte Oficial,pending,snoozed,2025-11-12 02:23:46
+167495,237443,10,Suporte Oficial,pending,snoozed,2025-11-12 08:31:47
+167504,237461,10,Suporte Oficial,pending,snoozed,2025-11-12 11:46:19
+167506,237465,10,Suporte Oficial,pending,snoozed,2025-11-12 12:06:10
+167507,237468,10,Suporte Oficial,pending,snoozed,2025-11-12 12:13:35
+167511,237475,10,Suporte Oficial,pending,snoozed,2025-11-12 12:42:34
+167512,237494,10,Suporte Oficial,pending,snoozed,2025-11-12 13:00:11
+167514,237500,10,Suporte Oficial,pending,snoozed,2025-11-12 13:25:46
+167515,237509,10,Suporte Oficial,pending,snoozed,2025-11-12 13:45:28
+167516,237514,10,Suporte Oficial,pending,snoozed,2025-11-12 14:06:04
+167517,237517,10,Suporte Oficial,pending,snoozed,2025-11-12 14:14:15
+167519,237524,10,Suporte Oficial,pending,snoozed,2025-11-12 14:31:32
+167525,237539,10,Suporte Oficial,pending,snoozed,2025-11-12 15:00:49
+167527,237548,10,Suporte Oficial,pending,snoozed,2025-11-12 15:17:11
+167529,237553,10,Suporte Oficial,pending,snoozed,2025-11-12 15:29:33
+167531,237557,10,Suporte Oficial,pending,snoozed,2025-11-12 15:41:57
+167533,237563,10,Suporte Oficial,pending,snoozed,2025-11-12 15:57:10
+167534,237566,10,Suporte Oficial,pending,snoozed,2025-11-12 16:07:36
+167540,237578,10,Suporte Oficial,pending,snoozed,2025-11-12 16:25:01
+167550,237604,10,Suporte Oficial,pending,snoozed,2025-11-12 18:09:29
+167552,237609,10,Suporte Oficial,pending,snoozed,2025-11-12 18:23:56
+167557,237629,10,Suporte Oficial,pending,snoozed,2025-11-12 19:53:50
+167565,237645,10,Suporte Oficial,pending,snoozed,2025-11-12 21:34:39
+167570,237652,10,Suporte Oficial,pending,snoozed,2025-11-12 22:57:22
+167572,237660,10,Suporte Oficial,pending,snoozed,2025-11-12 23:29:05
+167578,237679,10,Suporte Oficial,pending,snoozed,2025-11-13 00:57:44
+167582,237699,10,Suporte Oficial,pending,snoozed,2025-11-13 04:21:29
+167594,237759,10,Suporte Oficial,pending,snoozed,2025-11-13 12:02:48
+167598,237770,10,Suporte Oficial,pending,snoozed,2025-11-13 12:44:11
+167604,237789,10,Suporte Oficial,pending,snoozed,2025-11-13 13:51:17
+167606,237791,10,Suporte Oficial,pending,snoozed,2025-11-13 14:01:26
+167607,237793,10,Suporte Oficial,pending,snoozed,2025-11-13 14:05:54
+167610,237797,10,Suporte Oficial,pending,snoozed,2025-11-13 14:22:05
+167612,237811,10,Suporte Oficial,pending,snoozed,2025-11-13 15:03:40
+167614,237815,10,Suporte Oficial,pending,snoozed,2025-11-13 15:10:39
+167621,237824,10,Suporte Oficial,pending,snoozed,2025-11-13 15:47:32
+167628,237840,10,Suporte Oficial,pending,snoozed,2025-11-13 16:41:40
+167629,237845,10,Suporte Oficial,pending,snoozed,2025-11-13 17:03:34
+167630,237853,10,Suporte Oficial,pending,snoozed,2025-11-13 17:46:21
+167632,237861,10,Suporte Oficial,pending,snoozed,2025-11-13 18:07:23
+167635,237865,10,Suporte Oficial,pending,snoozed,2025-11-13 18:24:46
+167639,237876,10,Suporte Oficial,pending,snoozed,2025-11-13 19:10:48
+167640,237877,10,Suporte Oficial,pending,snoozed,2025-11-13 19:16:12
+167641,237880,10,Suporte Oficial,pending,snoozed,2025-11-13 19:38:24
+167653,237924,10,Suporte Oficial,pending,snoozed,2025-11-13 23:07:51
+167655,237930,10,Suporte Oficial,pending,snoozed,2025-11-13 23:16:58
+167657,237933,10,Suporte Oficial,pending,snoozed,2025-11-13 23:19:47
+167658,237937,10,Suporte Oficial,pending,snoozed,2025-11-13 23:34:55
+167680,238016,10,Suporte Oficial,pending,snoozed,2025-11-14 11:29:50
+167690,238043,10,Suporte Oficial,pending,snoozed,2025-11-14 13:39:38
+167691,238047,10,Suporte Oficial,pending,snoozed,2025-11-14 13:47:05
+167693,238054,10,Suporte Oficial,pending,snoozed,2025-11-14 14:14:25
+167694,238057,10,Suporte Oficial,pending,snoozed,2025-11-14 14:18:55
+167700,238066,10,Suporte Oficial,pending,snoozed,2025-11-14 15:07:44
+167701,238068,10,Suporte Oficial,pending,snoozed,2025-11-14 15:10:03
+167702,238072,10,Suporte Oficial,pending,snoozed,2025-11-14 15:13:22
+167709,238093,10,Suporte Oficial,pending,snoozed,2025-11-14 16:25:22
+167711,238098,10,Suporte Oficial,pending,snoozed,2025-11-14 16:55:00
+167712,238101,10,Suporte Oficial,pending,snoozed,2025-11-14 16:55:24
+167713,238102,10,Suporte Oficial,pending,snoozed,2025-11-14 16:55:40
+167715,238105,10,Suporte Oficial,pending,snoozed,2025-11-14 17:06:00
+167721,238126,10,Suporte Oficial,pending,snoozed,2025-11-14 18:31:44
+167723,238134,10,Suporte Oficial,pending,snoozed,2025-11-14 19:02:26
+167726,238140,10,Suporte Oficial,pending,snoozed,2025-11-14 19:25:35
+167732,238152,10,Suporte Oficial,pending,snoozed,2025-11-14 20:35:24
+167734,238171,10,Suporte Oficial,pending,snoozed,2025-11-14 22:04:19
+167735,238173,10,Suporte Oficial,pending,snoozed,2025-11-14 22:04:37
+167741,238190,10,Suporte Oficial,pending,snoozed,2025-11-14 23:29:27
+167747,238205,10,Suporte Oficial,pending,snoozed,2025-11-15 02:06:44
+167750,238209,10,Suporte Oficial,pending,snoozed,2025-11-15 02:19:56
+167756,238237,10,Suporte Oficial,pending,snoozed,2025-11-15 11:22:32
+167760,238250,10,Suporte Oficial,pending,snoozed,2025-11-15 13:04:42
+167761,238253,10,Suporte Oficial,pending,snoozed,2025-11-15 13:08:25
+167762,238254,10,Suporte Oficial,pending,snoozed,2025-11-15 13:14:31
+167763,238256,10,Suporte Oficial,pending,snoozed,2025-11-15 13:15:02
+167766,238264,10,Suporte Oficial,pending,snoozed,2025-11-15 14:03:43
+167768,238271,10,Suporte Oficial,pending,snoozed,2025-11-15 14:50:51
+167770,238293,10,Suporte Oficial,pending,snoozed,2025-11-15 14:57:54
+167771,238304,10,Suporte Oficial,pending,snoozed,2025-11-15 15:00:54
+167775,238314,10,Suporte Oficial,pending,snoozed,2025-11-15 15:36:20
+167784,238349,10,Suporte Oficial,pending,snoozed,2025-11-15 18:33:58
+167785,238353,10,Suporte Oficial,pending,snoozed,2025-11-15 18:39:00
+167794,238389,10,Suporte Oficial,pending,snoozed,2025-11-15 21:17:45
+167795,238391,10,Suporte Oficial,pending,snoozed,2025-11-15 21:28:47
+167802,238404,10,Suporte Oficial,pending,snoozed,2025-11-15 23:38:29
+167815,238479,10,Suporte Oficial,pending,snoozed,2025-11-16 10:30:16
+167820,238492,10,Suporte Oficial,pending,snoozed,2025-11-16 11:44:37
+167825,238512,10,Suporte Oficial,pending,snoozed,2025-11-16 13:19:52
+167827,238520,10,Suporte Oficial,pending,snoozed,2025-11-16 13:39:22
+167829,238523,10,Suporte Oficial,pending,snoozed,2025-11-16 13:51:17
+167837,238543,10,Suporte Oficial,pending,snoozed,2025-11-16 15:00:43
+167838,238544,10,Suporte Oficial,pending,snoozed,2025-11-16 15:00:54
+167839,238549,10,Suporte Oficial,pending,snoozed,2025-11-16 15:18:09
+167840,238550,10,Suporte Oficial,pending,snoozed,2025-11-16 15:22:51
+167843,238555,10,Suporte Oficial,pending,snoozed,2025-11-16 15:33:41
+167845,238559,10,Suporte Oficial,pending,snoozed,2025-11-16 15:40:51
+167847,238563,10,Suporte Oficial,pending,snoozed,2025-11-16 15:58:49
+167849,238565,10,Suporte Oficial,pending,snoozed,2025-11-16 16:07:24
+167854,238577,10,Suporte Oficial,pending,snoozed,2025-11-16 16:51:38
+167857,238583,10,Suporte Oficial,pending,snoozed,2025-11-16 17:23:49
+167861,238589,10,Suporte Oficial,pending,snoozed,2025-11-16 17:56:12
+167862,238591,10,Suporte Oficial,pending,snoozed,2025-11-16 17:57:05
+167877,238627,10,Suporte Oficial,pending,snoozed,2025-11-16 21:01:07
+167882,238637,10,Suporte Oficial,pending,snoozed,2025-11-16 22:10:31
+167884,238640,10,Suporte Oficial,pending,snoozed,2025-11-16 22:16:58
+167890,238649,10,Suporte Oficial,pending,snoozed,2025-11-16 22:58:10
+167921,238791,10,Suporte Oficial,pending,snoozed,2025-11-17 12:09:44
+167929,238807,10,Suporte Oficial,pending,snoozed,2025-11-17 12:33:46
+167932,238820,10,Suporte Oficial,pending,snoozed,2025-11-17 13:02:30
+167933,238825,10,Suporte Oficial,pending,snoozed,2025-11-17 13:08:45
+167938,238838,10,Suporte Oficial,pending,snoozed,2025-11-17 13:48:24
+167939,238839,10,Suporte Oficial,pending,snoozed,2025-11-17 13:52:08
+167943,238852,10,Suporte Oficial,pending,snoozed,2025-11-17 14:10:54
+167944,238854,10,Suporte Oficial,pending,snoozed,2025-11-17 14:14:53
+167945,238856,10,Suporte Oficial,pending,snoozed,2025-11-17 14:19:12
+167947,238864,10,Suporte Oficial,pending,snoozed,2025-11-17 15:00:57
+167948,238866,10,Suporte Oficial,pending,snoozed,2025-11-17 15:02:02
+167949,238869,10,Suporte Oficial,pending,snoozed,2025-11-17 15:09:34
+167950,238872,10,Suporte Oficial,pending,snoozed,2025-11-17 15:12:52
+167952,238875,10,Suporte Oficial,pending,snoozed,2025-11-17 15:13:31
+167954,238878,10,Suporte Oficial,pending,snoozed,2025-11-17 15:19:25
+167955,238881,10,Suporte Oficial,pending,snoozed,2025-11-17 15:24:40
+167957,238887,10,Suporte Oficial,pending,snoozed,2025-11-17 15:49:39
+167958,238890,10,Suporte Oficial,pending,snoozed,2025-11-17 16:01:50
+167961,238900,10,Suporte Oficial,pending,snoozed,2025-11-17 16:30:32
+167963,238912,10,Suporte Oficial,pending,snoozed,2025-11-17 16:54:00
+167964,238914,10,Suporte Oficial,pending,snoozed,2025-11-17 17:01:16
+167969,238925,10,Suporte Oficial,pending,snoozed,2025-11-17 17:25:07
+167970,238932,10,Suporte Oficial,pending,snoozed,2025-11-17 17:36:25
+167973,238939,10,Suporte Oficial,pending,snoozed,2025-11-17 17:48:09
+167974,238941,10,Suporte Oficial,pending,snoozed,2025-11-17 17:50:36
+167975,238945,10,Suporte Oficial,pending,snoozed,2025-11-17 17:54:58
+168978,238959,10,Suporte Oficial,pending,snoozed,2025-11-17 18:24:31
+168979,238961,10,Suporte Oficial,pending,snoozed,2025-11-17 18:25:55
+168982,238974,10,Suporte Oficial,pending,snoozed,2025-11-17 18:57:41
+168988,238988,10,Suporte Oficial,pending,snoozed,2025-11-17 19:42:38
+168992,238998,10,Suporte Oficial,pending,snoozed,2025-11-17 20:14:25
+168993,239003,10,Suporte Oficial,pending,snoozed,2025-11-17 20:31:06
+168995,239009,10,Suporte Oficial,pending,snoozed,2025-11-17 21:33:17
+168998,239024,10,Suporte Oficial,pending,snoozed,2025-11-17 22:51:07
+169002,239030,10,Suporte Oficial,pending,snoozed,2025-11-17 23:10:08
+169005,239044,10,Suporte Oficial,pending,snoozed,2025-11-18 00:17:45
+169032,239201,10,Suporte Oficial,pending,snoozed,2025-11-18 14:34:53
+169037,239210,10,Suporte Oficial,pending,snoozed,2025-11-18 15:02:40
+169039,239214,10,Suporte Oficial,pending,snoozed,2025-11-18 15:08:30
+169040,239216,10,Suporte Oficial,pending,snoozed,2025-11-18 15:17:59
+169041,239221,10,Suporte Oficial,pending,snoozed,2025-11-18 15:27:28
+169044,239229,10,Suporte Oficial,pending,snoozed,2025-11-18 15:41:21
+169057,239261,10,Suporte Oficial,pending,snoozed,2025-11-18 16:54:42
+169061,239271,10,Suporte Oficial,pending,snoozed,2025-11-18 17:08:58
+169070,239318,10,Suporte Oficial,pending,snoozed,2025-11-18 19:37:10
+169072,239323,10,Suporte Oficial,pending,snoozed,2025-11-18 19:49:45
+169079,239347,10,Suporte Oficial,pending,snoozed,2025-11-18 21:25:51
+169087,239367,10,Suporte Oficial,pending,snoozed,2025-11-18 22:51:06
+169089,239373,10,Suporte Oficial,pending,snoozed,2025-11-18 23:25:40
+169107,239436,10,Suporte Oficial,pending,snoozed,2025-11-19 09:23:56
+169119,239476,10,Suporte Oficial,pending,snoozed,2025-11-19 12:57:51
+169120,239478,10,Suporte Oficial,pending,snoozed,2025-11-19 13:00:08
+169121,239481,10,Suporte Oficial,pending,snoozed,2025-11-19 13:01:29
+169122,239484,10,Suporte Oficial,pending,snoozed,2025-11-19 13:14:09
+169123,239486,10,Suporte Oficial,pending,snoozed,2025-11-19 13:14:21
+169129,239508,10,Suporte Oficial,pending,snoozed,2025-11-19 14:39:11
+169130,239541,10,Suporte Oficial,pending,snoozed,2025-11-19 14:59:43
+169132,239545,10,Suporte Oficial,pending,snoozed,2025-11-19 15:15:04
+169133,239548,10,Suporte Oficial,pending,snoozed,2025-11-19 15:16:46
+169137,239557,10,Suporte Oficial,pending,snoozed,2025-11-19 15:29:42
+169138,239559,10,Suporte Oficial,pending,snoozed,2025-11-19 15:44:41
+169141,239571,10,Suporte Oficial,pending,snoozed,2025-11-19 16:17:54
+169148,239595,10,Suporte Oficial,pending,snoozed,2025-11-19 17:39:33
+169151,239610,10,Suporte Oficial,pending,snoozed,2025-11-19 18:10:17
+169155,239634,10,Suporte Oficial,pending,snoozed,2025-11-19 19:09:56
+169160,239651,10,Suporte Oficial,pending,snoozed,2025-11-19 20:27:01
+169161,239668,10,Suporte Oficial,pending,snoozed,2025-11-19 20:59:54
+169167,239679,10,Suporte Oficial,pending,snoozed,2025-11-19 21:38:52
+169168,239685,10,Suporte Oficial,pending,snoozed,2025-11-19 22:06:03
+169173,239716,10,Suporte Oficial,pending,snoozed,2025-11-20 00:03:17
+169175,239723,10,Suporte Oficial,pending,snoozed,2025-11-20 00:39:10
+169184,239769,10,Suporte Oficial,pending,snoozed,2025-11-20 08:37:19
+169187,239822,10,Suporte Oficial,pending,snoozed,2025-11-20 11:31:07
+169191,239843,10,Suporte Oficial,pending,snoozed,2025-11-20 12:46:45
+169193,239848,10,Suporte Oficial,pending,snoozed,2025-11-20 12:50:24
+169195,239852,10,Suporte Oficial,pending,snoozed,2025-11-20 13:00:30
+169203,239869,10,Suporte Oficial,pending,snoozed,2025-11-20 13:36:23
+169205,239875,10,Suporte Oficial,pending,snoozed,2025-11-20 13:49:45
+169209,239887,10,Suporte Oficial,pending,snoozed,2025-11-20 14:24:04
+169216,239904,10,Suporte Oficial,pending,snoozed,2025-11-20 15:14:02
+169219,239909,10,Suporte Oficial,pending,snoozed,2025-11-20 15:29:15
+169220,239911,10,Suporte Oficial,pending,snoozed,2025-11-20 15:30:04
+169221,239914,10,Suporte Oficial,pending,snoozed,2025-11-20 15:39:13
+169227,239945,10,Suporte Oficial,pending,snoozed,2025-11-20 17:07:22
+169229,239957,10,Suporte Oficial,pending,snoozed,2025-11-20 17:32:30
+169239,239982,10,Suporte Oficial,pending,snoozed,2025-11-20 19:05:09
+169243,239997,10,Suporte Oficial,pending,snoozed,2025-11-20 19:28:40
+169248,240033,10,Suporte Oficial,pending,snoozed,2025-11-20 21:38:48
+169251,240037,10,Suporte Oficial,pending,snoozed,2025-11-20 21:43:35
+169256,240058,10,Suporte Oficial,pending,snoozed,2025-11-20 23:10:59
+169262,240082,10,Suporte Oficial,pending,snoozed,2025-11-21 00:29:47
+169281,240159,10,Suporte Oficial,pending,snoozed,2025-11-21 10:27:47
+169289,240173,10,Suporte Oficial,pending,snoozed,2025-11-21 11:22:37
+169293,240180,10,Suporte Oficial,pending,snoozed,2025-11-21 11:26:25
+169297,240191,10,Suporte Oficial,pending,snoozed,2025-11-21 11:47:09
+169298,240195,10,Suporte Oficial,pending,snoozed,2025-11-21 11:51:05
+169306,240230,10,Suporte Oficial,pending,snoozed,2025-11-21 12:54:12
+169322,240297,10,Suporte Oficial,pending,snoozed,2025-11-21 14:40:54
+169323,240299,10,Suporte Oficial,pending,snoozed,2025-11-21 14:44:36
+169329,240309,10,Suporte Oficial,pending,snoozed,2025-11-21 14:58:33
+169336,240333,10,Suporte Oficial,pending,snoozed,2025-11-21 15:29:30
+169345,240382,10,Suporte Oficial,pending,snoozed,2025-11-21 16:29:53
+169347,240401,10,Suporte Oficial,pending,snoozed,2025-11-21 16:50:12
+169348,240407,10,Suporte Oficial,pending,snoozed,2025-11-21 17:05:17
+169379,240558,10,Suporte Oficial,pending,snoozed,2025-11-21 20:49:48
+169406,240646,10,Suporte Oficial,pending,snoozed,2025-11-22 00:32:18
+169440,240794,10,Suporte Oficial,pending,snoozed,2025-11-22 12:20:44
+169443,240822,10,Suporte Oficial,pending,snoozed,2025-11-22 13:05:42
+169444,240827,10,Suporte Oficial,pending,snoozed,2025-11-22 13:13:25
+169453,240858,10,Suporte Oficial,pending,snoozed,2025-11-22 14:39:19
+169463,240933,10,Suporte Oficial,pending,snoozed,2025-11-22 16:23:33
+170986,241021,10,Suporte Oficial,pending,snoozed,2025-11-22 23:36:34
+170999,241099,10,Suporte Oficial,pending,snoozed,2025-11-23 10:04:57
+171015,241174,10,Suporte Oficial,pending,snoozed,2025-11-23 13:33:38
+171102,241508,10,Suporte Oficial,pending,snoozed,2025-11-24 13:43:28
+171107,241524,10,Suporte Oficial,pending,snoozed,2025-11-24 14:22:53
+171111,241560,10,Suporte Oficial,pending,snoozed,2025-11-24 15:32:08
+171127,241640,10,Suporte Oficial,pending,snoozed,2025-11-24 18:25:57
+171137,241678,10,Suporte Oficial,pending,snoozed,2025-11-24 20:13:22
+171142,241697,10,Suporte Oficial,pending,snoozed,2025-11-24 20:49:03
+171148,241713,10,Suporte Oficial,pending,snoozed,2025-11-24 21:19:54
+171153,241737,10,Suporte Oficial,pending,snoozed,2025-11-24 22:31:02
+171157,241756,10,Suporte Oficial,pending,snoozed,2025-11-24 23:05:11
+171165,241778,10,Suporte Oficial,pending,snoozed,2025-11-25 00:35:29
+171167,241783,10,Suporte Oficial,pending,snoozed,2025-11-25 00:50:35
+171173,241797,10,Suporte Oficial,pending,snoozed,2025-11-25 01:49:40
+171183,241842,10,Suporte Oficial,pending,snoozed,2025-11-25 11:52:44
+171188,241871,10,Suporte Oficial,pending,snoozed,2025-11-25 13:02:32
+171189,241875,10,Suporte Oficial,pending,snoozed,2025-11-25 13:07:40
+171192,241884,10,Suporte Oficial,pending,snoozed,2025-11-25 13:19:11
+171193,241887,10,Suporte Oficial,pending,snoozed,2025-11-25 13:20:48
+171205,241921,10,Suporte Oficial,pending,snoozed,2025-11-25 15:01:08
+171206,241922,10,Suporte Oficial,pending,snoozed,2025-11-25 15:01:11
+171207,241925,10,Suporte Oficial,pending,snoozed,2025-11-25 15:03:32
+171212,241934,10,Suporte Oficial,pending,snoozed,2025-11-25 15:20:20
+171213,241936,10,Suporte Oficial,pending,snoozed,2025-11-25 15:22:36
+171218,241945,10,Suporte Oficial,pending,snoozed,2025-11-25 15:41:03
+171219,241952,10,Suporte Oficial,pending,snoozed,2025-11-25 15:56:38
+171220,241954,10,Suporte Oficial,pending,snoozed,2025-11-25 15:59:03
+171222,241960,10,Suporte Oficial,pending,snoozed,2025-11-25 16:18:33
+171225,241973,10,Suporte Oficial,pending,snoozed,2025-11-25 16:42:02
+171227,242011,10,Suporte Oficial,pending,snoozed,2025-11-25 17:12:23
+171232,242021,10,Suporte Oficial,pending,snoozed,2025-11-25 17:50:20
+171234,242023,10,Suporte Oficial,pending,snoozed,2025-11-25 17:51:51
+171235,242028,10,Suporte Oficial,pending,snoozed,2025-11-25 18:03:50
+171237,242038,10,Suporte Oficial,pending,snoozed,2025-11-25 18:26:04
+171238,242040,10,Suporte Oficial,pending,snoozed,2025-11-25 18:26:26
+171260,242100,10,Suporte Oficial,pending,snoozed,2025-11-25 21:17:17
+171269,242124,10,Suporte Oficial,pending,snoozed,2025-11-25 22:29:43
+171272,242127,10,Suporte Oficial,pending,snoozed,2025-11-25 22:38:19
+171280,242141,10,Suporte Oficial,pending,snoozed,2025-11-25 23:12:39
+171286,242150,10,Suporte Oficial,pending,snoozed,2025-11-26 00:07:28
+171289,242154,10,Suporte Oficial,pending,snoozed,2025-11-26 00:09:41
+171319,242200,10,Suporte Oficial,pending,snoozed,2025-11-26 04:13:40
+171328,242351,10,Suporte Oficial,pending,snoozed,2025-11-26 10:44:49
+171355,242400,10,Suporte Oficial,pending,snoozed,2025-11-26 12:57:22
+171366,242425,10,Suporte Oficial,pending,snoozed,2025-11-26 13:43:15
+171380,242468,10,Suporte Oficial,pending,snoozed,2025-11-26 15:00:47
+171381,242470,10,Suporte Oficial,pending,snoozed,2025-11-26 15:02:14
+171382,242472,10,Suporte Oficial,pending,snoozed,2025-11-26 15:03:00
+171383,242473,10,Suporte Oficial,pending,snoozed,2025-11-26 15:04:10
+171385,242490,10,Suporte Oficial,pending,snoozed,2025-11-26 15:25:20
+171392,242516,10,Suporte Oficial,pending,snoozed,2025-11-26 16:04:35
+171393,242519,10,Suporte Oficial,pending,snoozed,2025-11-26 16:06:40
+171394,242522,10,Suporte Oficial,pending,snoozed,2025-11-26 16:11:15
+171403,242542,10,Suporte Oficial,pending,snoozed,2025-11-26 17:05:02
+171404,242547,10,Suporte Oficial,pending,snoozed,2025-11-26 17:05:40
+171406,242549,10,Suporte Oficial,pending,snoozed,2025-11-26 17:19:10
+171420,242596,10,Suporte Oficial,pending,snoozed,2025-11-26 19:30:18
+171428,242615,10,Suporte Oficial,pending,snoozed,2025-11-26 20:06:34
+171437,242635,10,Suporte Oficial,pending,snoozed,2025-11-26 20:51:47
+171438,242637,10,Suporte Oficial,pending,snoozed,2025-11-26 20:53:08
+171439,242638,10,Suporte Oficial,pending,snoozed,2025-11-26 20:57:32
+171441,242642,10,Suporte Oficial,pending,snoozed,2025-11-26 21:04:11
+171445,242659,10,Suporte Oficial,pending,snoozed,2025-11-26 21:37:03
+171446,242662,10,Suporte Oficial,pending,snoozed,2025-11-26 21:47:29
+171449,242679,10,Suporte Oficial,pending,snoozed,2025-11-26 23:08:43
+171456,242709,10,Suporte Oficial,pending,snoozed,2025-11-27 01:40:59
+171464,242763,10,Suporte Oficial,pending,snoozed,2025-11-27 06:25:29
+171466,242777,10,Suporte Oficial,pending,snoozed,2025-11-27 09:13:40
+171473,242858,10,Suporte Oficial,pending,snoozed,2025-11-27 12:52:47
+172476,242885,10,Suporte Oficial,pending,snoozed,2025-11-27 14:06:10
+172481,242906,10,Suporte Oficial,pending,snoozed,2025-11-27 14:58:41
+172483,242922,10,Suporte Oficial,pending,snoozed,2025-11-27 15:21:01
+172485,242929,10,Suporte Oficial,pending,snoozed,2025-11-27 15:38:11
+172489,242946,10,Suporte Oficial,pending,snoozed,2025-11-27 16:39:07
+172495,242965,10,Suporte Oficial,pending,snoozed,2025-11-27 17:39:48
+172498,242975,10,Suporte Oficial,pending,snoozed,2025-11-27 18:05:26
+172500,242993,10,Suporte Oficial,pending,snoozed,2025-11-27 19:11:15
+172513,243028,10,Suporte Oficial,pending,snoozed,2025-11-27 21:13:03
+172514,243032,10,Suporte Oficial,pending,snoozed,2025-11-27 21:20:49
+172521,243059,10,Suporte Oficial,pending,snoozed,2025-11-27 22:23:16
+172550,243166,10,Suporte Oficial,pending,snoozed,2025-11-28 10:02:01
+172552,243175,10,Suporte Oficial,pending,snoozed,2025-11-28 10:28:04
+172554,243188,10,Suporte Oficial,pending,snoozed,2025-11-28 11:26:07
+172571,243280,10,Suporte Oficial,pending,snoozed,2025-11-28 15:04:05
+172585,243376,10,Suporte Oficial,pending,snoozed,2025-11-28 19:32:17
+172592,243413,10,Suporte Oficial,pending,snoozed,2025-11-28 22:12:07
+172593,243418,10,Suporte Oficial,pending,snoozed,2025-11-28 22:42:28
+172594,243421,10,Suporte Oficial,pending,snoozed,2025-11-28 22:43:33
+172608,243466,10,Suporte Oficial,pending,snoozed,2025-11-29 04:03:17
+172623,243523,10,Suporte Oficial,pending,snoozed,2025-11-29 12:19:44
+172624,243525,10,Suporte Oficial,pending,snoozed,2025-11-29 12:36:57
+172625,243527,10,Suporte Oficial,pending,snoozed,2025-11-29 12:39:53
+172627,243530,10,Suporte Oficial,pending,snoozed,2025-11-29 12:49:54
+172629,243539,10,Suporte Oficial,pending,snoozed,2025-11-29 13:20:11
+172632,243546,10,Suporte Oficial,pending,snoozed,2025-11-29 13:40:01
+172635,243554,10,Suporte Oficial,pending,snoozed,2025-11-29 13:51:26
+172637,243558,10,Suporte Oficial,pending,snoozed,2025-11-29 14:02:49
+172642,243570,10,Suporte Oficial,pending,snoozed,2025-11-29 14:24:06
+172644,243576,10,Suporte Oficial,pending,snoozed,2025-11-29 14:35:09
+172648,243585,10,Suporte Oficial,pending,snoozed,2025-11-29 15:00:43
+172649,243586,10,Suporte Oficial,pending,snoozed,2025-11-29 15:01:01
+172650,243588,10,Suporte Oficial,pending,snoozed,2025-11-29 15:01:34
+172652,243593,10,Suporte Oficial,pending,snoozed,2025-11-29 15:09:05
+172654,243601,10,Suporte Oficial,pending,snoozed,2025-11-29 15:18:33
+172660,243614,10,Suporte Oficial,open,snoozed,2025-11-29 15:41:53
+172661,243615,10,Suporte Oficial,pending,snoozed,2025-11-29 15:45:05
+172662,243619,10,Suporte Oficial,pending,snoozed,2025-11-29 15:47:17
+172663,243622,10,Suporte Oficial,pending,snoozed,2025-11-29 15:57:16
+172668,243633,10,Suporte Oficial,pending,snoozed,2025-11-29 16:30:06
+172674,243646,10,Suporte Oficial,pending,snoozed,2025-11-29 17:36:10
+172675,243648,10,Suporte Oficial,pending,snoozed,2025-11-29 17:44:31
+172677,243655,10,Suporte Oficial,pending,snoozed,2025-11-29 18:07:45
+172687,243719,10,Suporte Oficial,open,snoozed,2025-11-29 21:11:15
+172691,243736,10,Suporte Oficial,pending,snoozed,2025-11-29 21:53:17
+172693,243742,10,Suporte Oficial,pending,snoozed,2025-11-29 22:23:41
+172699,243768,10,Suporte Oficial,pending,snoozed,2025-11-30 00:55:32
+172705,243782,10,Suporte Oficial,pending,snoozed,2025-11-30 04:43:54
+172715,243826,10,Suporte Oficial,pending,snoozed,2025-11-30 11:51:35
+172718,243834,10,Suporte Oficial,pending,snoozed,2025-11-30 12:33:38
+172723,243847,10,Suporte Oficial,pending,snoozed,2025-11-30 12:59:26
+172727,243859,10,Suporte Oficial,pending,snoozed,2025-11-30 13:22:34
+172728,243861,10,Suporte Oficial,pending,snoozed,2025-11-30 13:25:18
+172730,243864,10,Suporte Oficial,pending,snoozed,2025-11-30 13:37:34
+172737,243890,10,Suporte Oficial,pending,snoozed,2025-11-30 15:04:42
+172740,243893,10,Suporte Oficial,pending,snoozed,2025-11-30 15:09:30
+172741,243895,10,Suporte Oficial,pending,snoozed,2025-11-30 15:15:14
+172742,243896,10,Suporte Oficial,pending,snoozed,2025-11-30 15:15:48
+172743,243902,10,Suporte Oficial,pending,snoozed,2025-11-30 15:26:28
+172746,243912,10,Suporte Oficial,pending,snoozed,2025-11-30 15:49:32
+172748,243915,10,Suporte Oficial,pending,snoozed,2025-11-30 16:05:00
+172756,243947,10,Suporte Oficial,pending,snoozed,2025-11-30 18:12:49
+172757,243951,10,Suporte Oficial,pending,snoozed,2025-11-30 18:31:45
+172770,244001,10,Suporte Oficial,pending,snoozed,2025-11-30 22:21:04
+172773,244006,10,Suporte Oficial,pending,snoozed,2025-11-30 23:01:20
+172775,244009,10,Suporte Oficial,pending,snoozed,2025-11-30 23:06:22
+172781,244026,10,Suporte Oficial,pending,snoozed,2025-12-01 00:45:42
+172787,244045,10,Suporte Oficial,pending,snoozed,2025-12-01 02:18:23
+172790,244049,10,Suporte Oficial,pending,snoozed,2025-12-01 02:36:50
+172799,244102,10,Suporte Oficial,pending,snoozed,2025-12-01 11:34:34
+172800,244114,10,Suporte Oficial,pending,snoozed,2025-12-01 11:37:35
+172805,244134,10,Suporte Oficial,pending,snoozed,2025-12-01 12:28:37
+172810,244151,10,Suporte Oficial,pending,snoozed,2025-12-01 12:56:31
+172812,244160,10,Suporte Oficial,pending,snoozed,2025-12-01 13:08:25
+172813,244162,10,Suporte Oficial,pending,snoozed,2025-12-01 13:09:19
+172814,244166,10,Suporte Oficial,pending,snoozed,2025-12-01 13:11:10
+172820,244182,10,Suporte Oficial,pending,snoozed,2025-12-01 13:27:29
+172828,244222,10,Suporte Oficial,pending,snoozed,2025-12-01 14:05:51
+172830,244225,10,Suporte Oficial,pending,snoozed,2025-12-01 14:06:22
+172831,244239,10,Suporte Oficial,pending,snoozed,2025-12-01 14:24:00
+172835,244253,10,Suporte Oficial,pending,snoozed,2025-12-01 14:54:39
+172837,244257,10,Suporte Oficial,pending,snoozed,2025-12-01 15:00:53
+172838,244258,10,Suporte Oficial,pending,snoozed,2025-12-01 15:01:34
+172839,244265,10,Suporte Oficial,pending,snoozed,2025-12-01 15:06:19
+172840,244267,10,Suporte Oficial,pending,snoozed,2025-12-01 15:07:00
+172841,244269,10,Suporte Oficial,pending,snoozed,2025-12-01 15:07:37
+172842,244271,10,Suporte Oficial,pending,snoozed,2025-12-01 15:08:32
+172844,244278,10,Suporte Oficial,pending,snoozed,2025-12-01 15:15:24
+172845,244280,10,Suporte Oficial,pending,snoozed,2025-12-01 15:15:52
+172848,244293,10,Suporte Oficial,pending,snoozed,2025-12-01 15:34:23
+172851,244302,10,Suporte Oficial,pending,snoozed,2025-12-01 15:48:14
+172854,244307,10,Suporte Oficial,pending,snoozed,2025-12-01 15:56:21
+172856,244317,10,Suporte Oficial,pending,snoozed,2025-12-01 16:10:44
+172859,244329,10,Suporte Oficial,pending,snoozed,2025-12-01 16:42:58
+172862,244335,10,Suporte Oficial,pending,snoozed,2025-12-01 16:58:05
+172864,244345,10,Suporte Oficial,pending,snoozed,2025-12-01 17:42:54
+172867,244355,10,Suporte Oficial,pending,snoozed,2025-12-01 18:10:25
+172868,244358,10,Suporte Oficial,pending,snoozed,2025-12-01 18:22:46
+172870,244362,10,Suporte Oficial,pending,snoozed,2025-12-01 18:27:23
+172871,244374,10,Suporte Oficial,pending,snoozed,2025-12-01 18:57:52
+172872,244379,10,Suporte Oficial,pending,snoozed,2025-12-01 19:07:49
+172875,244398,10,Suporte Oficial,pending,snoozed,2025-12-01 19:38:53
+172876,244400,10,Suporte Oficial,pending,snoozed,2025-12-01 19:39:57
+172883,244418,10,Suporte Oficial,pending,snoozed,2025-12-01 20:37:32
+172897,244452,10,Suporte Oficial,pending,snoozed,2025-12-01 22:33:55
+172899,244460,10,Suporte Oficial,pending,snoozed,2025-12-01 23:21:55
+172900,244462,10,Suporte Oficial,pending,snoozed,2025-12-01 23:23:32
+172903,244475,10,Suporte Oficial,pending,snoozed,2025-12-02 00:21:41
+172918,244533,10,Suporte Oficial,pending,snoozed,2025-12-02 10:59:13
+172922,244553,10,Suporte Oficial,pending,snoozed,2025-12-02 12:32:36
+172923,244556,10,Suporte Oficial,pending,snoozed,2025-12-02 12:36:44
+172924,244558,10,Suporte Oficial,pending,snoozed,2025-12-02 12:40:38
+172926,244560,10,Suporte Oficial,pending,snoozed,2025-12-02 12:42:32
+172931,244584,10,Suporte Oficial,pending,snoozed,2025-12-02 13:21:10
+172933,244588,10,Suporte Oficial,pending,snoozed,2025-12-02 13:29:31
+172935,244599,10,Suporte Oficial,pending,snoozed,2025-12-02 13:50:37
+172937,244605,10,Suporte Oficial,pending,snoozed,2025-12-02 13:55:46
+172938,244606,10,Suporte Oficial,pending,snoozed,2025-12-02 14:02:31
+172946,244630,10,Suporte Oficial,pending,snoozed,2025-12-02 15:01:17
+172948,244635,10,Suporte Oficial,pending,snoozed,2025-12-02 15:03:07
+172949,244640,10,Suporte Oficial,pending,snoozed,2025-12-02 15:08:00
+172950,244642,10,Suporte Oficial,pending,snoozed,2025-12-02 15:11:32
+172951,244644,10,Suporte Oficial,pending,snoozed,2025-12-02 15:16:36
+172952,244646,10,Suporte Oficial,pending,snoozed,2025-12-02 15:23:50
+172953,244653,10,Suporte Oficial,pending,snoozed,2025-12-02 15:45:05
+172955,244673,10,Suporte Oficial,pending,snoozed,2025-12-02 16:03:37
+172957,244682,10,Suporte Oficial,pending,snoozed,2025-12-02 16:15:30
+172963,244697,10,Suporte Oficial,pending,snoozed,2025-12-02 16:40:17
+172965,244702,10,Suporte Oficial,pending,snoozed,2025-12-02 16:49:33
+172966,244711,10,Suporte Oficial,pending,snoozed,2025-12-02 17:07:24
+172974,244762,10,Suporte Oficial,pending,snoozed,2025-12-02 18:51:43
+174480,244781,10,Suporte Oficial,pending,snoozed,2025-12-02 19:49:14
+174494,244831,10,Suporte Oficial,pending,snoozed,2025-12-02 22:25:46
+174495,244833,10,Suporte Oficial,pending,snoozed,2025-12-02 22:26:29
+174499,244848,10,Suporte Oficial,pending,snoozed,2025-12-03 00:06:12
+174507,244876,10,Suporte Oficial,pending,snoozed,2025-12-03 02:37:50
+174513,244901,10,Suporte Oficial,pending,snoozed,2025-12-03 09:08:30
+174529,244957,10,Suporte Oficial,pending,snoozed,2025-12-03 13:05:47
+174530,244959,10,Suporte Oficial,pending,snoozed,2025-12-03 13:07:11
+174531,244964,10,Suporte Oficial,pending,snoozed,2025-12-03 13:10:24
+174534,244971,10,Suporte Oficial,pending,snoozed,2025-12-03 13:34:42
+174535,244976,10,Suporte Oficial,pending,snoozed,2025-12-03 13:49:08
+174536,244986,10,Suporte Oficial,pending,snoozed,2025-12-03 14:11:27
+174539,245006,10,Suporte Oficial,pending,snoozed,2025-12-03 14:54:47
+174540,245013,10,Suporte Oficial,pending,snoozed,2025-12-03 15:01:42
+174541,245014,10,Suporte Oficial,pending,snoozed,2025-12-03 15:02:11
+174542,245017,10,Suporte Oficial,pending,snoozed,2025-12-03 15:03:38
+174544,245023,10,Suporte Oficial,pending,snoozed,2025-12-03 15:13:19
+174547,245029,10,Suporte Oficial,pending,snoozed,2025-12-03 15:21:04
+174548,245035,10,Suporte Oficial,pending,snoozed,2025-12-03 15:32:13
+174549,245036,10,Suporte Oficial,pending,snoozed,2025-12-03 15:33:35
+174551,245040,10,Suporte Oficial,pending,snoozed,2025-12-03 15:42:03
+174552,245046,10,Suporte Oficial,pending,snoozed,2025-12-03 16:02:56
+174554,245051,10,Suporte Oficial,pending,snoozed,2025-12-03 16:21:20
+174555,245057,10,Suporte Oficial,pending,snoozed,2025-12-03 16:36:23
+174556,245059,10,Suporte Oficial,pending,snoozed,2025-12-03 16:41:20
+174558,245066,10,Suporte Oficial,pending,snoozed,2025-12-03 17:05:45
+174560,245073,10,Suporte Oficial,pending,snoozed,2025-12-03 17:24:39
+174563,245084,10,Suporte Oficial,pending,snoozed,2025-12-03 17:40:27
+174565,245089,10,Suporte Oficial,pending,snoozed,2025-12-03 17:51:00
+174570,245102,10,Suporte Oficial,pending,snoozed,2025-12-03 18:14:06
+174574,245112,10,Suporte Oficial,pending,snoozed,2025-12-03 18:41:47
+174576,245120,10,Suporte Oficial,pending,snoozed,2025-12-03 18:53:32
+174580,245134,10,Suporte Oficial,pending,snoozed,2025-12-03 19:37:40
+174582,245139,10,Suporte Oficial,pending,snoozed,2025-12-03 19:49:19
+174583,245142,10,Suporte Oficial,pending,snoozed,2025-12-03 19:57:42
+174585,245150,10,Suporte Oficial,pending,snoozed,2025-12-03 20:37:03
+174587,245156,10,Suporte Oficial,pending,snoozed,2025-12-03 21:09:38
+174588,245162,10,Suporte Oficial,pending,snoozed,2025-12-03 22:01:22
+174590,245173,10,Suporte Oficial,pending,snoozed,2025-12-03 22:23:06
+174595,245181,10,Suporte Oficial,pending,snoozed,2025-12-03 22:59:49
+174608,245236,10,Suporte Oficial,pending,snoozed,2025-12-04 07:54:29
+174609,245239,10,Suporte Oficial,pending,snoozed,2025-12-04 08:00:10
+174613,245253,10,Suporte Oficial,pending,snoozed,2025-12-04 10:46:49
+174615,245263,10,Suporte Oficial,pending,snoozed,2025-12-04 11:18:06
+174620,245276,10,Suporte Oficial,pending,snoozed,2025-12-04 12:43:56
+174626,245301,10,Suporte Oficial,pending,snoozed,2025-12-04 13:19:37
+174628,245608,10,Suporte Oficial,pending,snoozed,2025-12-04 14:17:45
+174630,245627,10,Suporte Oficial,pending,snoozed,2025-12-04 14:49:24
+174631,245631,10,Suporte Oficial,pending,snoozed,2025-12-04 14:59:28
+174632,245635,10,Suporte Oficial,pending,snoozed,2025-12-04 15:01:45
+174633,245638,10,Suporte Oficial,pending,snoozed,2025-12-04 15:07:53
+174634,245644,10,Suporte Oficial,pending,snoozed,2025-12-04 15:12:20
+174638,245654,10,Suporte Oficial,pending,snoozed,2025-12-04 15:18:23
+174639,245667,10,Suporte Oficial,pending,snoozed,2025-12-04 15:31:40
+174641,245669,10,Suporte Oficial,pending,snoozed,2025-12-04 15:33:09
+174644,245709,10,Suporte Oficial,pending,snoozed,2025-12-04 16:28:23
+174651,245749,10,Suporte Oficial,pending,snoozed,2025-12-04 17:21:37
+174652,245766,10,Suporte Oficial,pending,snoozed,2025-12-04 17:54:35
+174653,245800,10,Suporte Oficial,pending,snoozed,2025-12-04 19:22:36
+174660,245839,10,Suporte Oficial,pending,snoozed,2025-12-04 20:03:54
+174665,245872,10,Suporte Oficial,pending,snoozed,2025-12-04 22:20:13
+174667,245887,10,Suporte Oficial,pending,snoozed,2025-12-04 22:46:16
+174681,245966,10,Suporte Oficial,pending,snoozed,2025-12-05 09:11:06
+174687,246002,10,Suporte Oficial,pending,snoozed,2025-12-05 11:49:22
+174688,246007,10,Suporte Oficial,pending,snoozed,2025-12-05 12:39:12
+174689,246009,10,Suporte Oficial,pending,snoozed,2025-12-05 12:45:30
+174693,246023,10,Suporte Oficial,pending,snoozed,2025-12-05 12:59:58
+174694,246025,10,Suporte Oficial,pending,snoozed,2025-12-05 13:00:53
+174697,246034,10,Suporte Oficial,pending,snoozed,2025-12-05 13:12:00
+174699,246039,10,Suporte Oficial,open,snoozed,2025-12-05 13:20:48
+174700,246040,10,Suporte Oficial,pending,snoozed,2025-12-05 13:22:02
+174703,246049,10,Suporte Oficial,pending,snoozed,2025-12-05 13:44:41
+174709,246093,10,Suporte Oficial,pending,snoozed,2025-12-05 15:12:19
+174710,246113,10,Suporte Oficial,pending,snoozed,2025-12-05 15:25:09
+174712,246116,10,Suporte Oficial,pending,snoozed,2025-12-05 15:33:02
+174719,246182,10,Suporte Oficial,pending,snoozed,2025-12-05 17:32:28
+174722,246195,10,Suporte Oficial,pending,snoozed,2025-12-05 17:59:24
+174723,246197,10,Suporte Oficial,pending,snoozed,2025-12-05 18:03:22
+174724,246199,10,Suporte Oficial,pending,snoozed,2025-12-05 18:09:32
+174725,246216,10,Suporte Oficial,pending,snoozed,2025-12-05 18:26:15
+174726,246217,10,Suporte Oficial,pending,snoozed,2025-12-05 18:28:39
+174729,246256,10,Suporte Oficial,pending,snoozed,2025-12-05 19:44:43
+174730,246259,10,Suporte Oficial,pending,snoozed,2025-12-05 19:47:57
+174748,246332,10,Suporte Oficial,pending,snoozed,2025-12-06 02:04:29
+174749,246335,10,Suporte Oficial,pending,snoozed,2025-12-06 02:24:00
+174752,246352,10,Suporte Oficial,pending,snoozed,2025-12-06 04:17:05
+174755,246386,10,Suporte Oficial,pending,snoozed,2025-12-06 09:28:32
+174756,246400,10,Suporte Oficial,pending,snoozed,2025-12-06 11:22:48
+174758,246409,10,Suporte Oficial,pending,snoozed,2025-12-06 12:03:39
+174760,246412,10,Suporte Oficial,pending,snoozed,2025-12-06 12:13:22
+174761,246414,10,Suporte Oficial,pending,snoozed,2025-12-06 12:15:41
+174769,246439,10,Suporte Oficial,pending,snoozed,2025-12-06 13:20:47
+174770,246450,10,Suporte Oficial,pending,snoozed,2025-12-06 13:43:27
+174771,246453,10,Suporte Oficial,pending,snoozed,2025-12-06 13:46:57
+174773,246462,10,Suporte Oficial,pending,snoozed,2025-12-06 14:06:36
+174776,246489,10,Suporte Oficial,pending,snoozed,2025-12-06 15:01:31
+174777,246491,10,Suporte Oficial,pending,snoozed,2025-12-06 15:01:50
+174778,246492,10,Suporte Oficial,pending,snoozed,2025-12-06 15:01:56
+174779,246494,10,Suporte Oficial,pending,snoozed,2025-12-06 15:02:09
+174780,246495,10,Suporte Oficial,pending,snoozed,2025-12-06 15:02:20
+174781,246496,10,Suporte Oficial,pending,snoozed,2025-12-06 15:02:29
+174782,246499,10,Suporte Oficial,pending,snoozed,2025-12-06 15:02:43
+174783,246501,10,Suporte Oficial,pending,snoozed,2025-12-06 15:03:40
+174784,246503,10,Suporte Oficial,pending,snoozed,2025-12-06 15:09:34
+174786,246508,10,Suporte Oficial,pending,snoozed,2025-12-06 15:23:11
+174787,246510,10,Suporte Oficial,pending,snoozed,2025-12-06 15:27:26
+174790,246514,10,Suporte Oficial,pending,snoozed,2025-12-06 15:30:07
+174793,246521,10,Suporte Oficial,pending,snoozed,2025-12-06 15:36:36
+174794,246524,10,Suporte Oficial,pending,snoozed,2025-12-06 15:39:37
+174797,246532,10,Suporte Oficial,pending,snoozed,2025-12-06 15:46:06
+174798,246534,10,Suporte Oficial,pending,snoozed,2025-12-06 15:48:16
+174799,246540,10,Suporte Oficial,pending,snoozed,2025-12-06 15:53:03
+174800,246543,10,Suporte Oficial,pending,snoozed,2025-12-06 16:07:02
+174801,246544,10,Suporte Oficial,pending,snoozed,2025-12-06 16:07:22
+174802,246556,10,Suporte Oficial,pending,snoozed,2025-12-06 16:30:10
+174803,246557,10,Suporte Oficial,pending,snoozed,2025-12-06 16:32:05
+174805,246567,10,Suporte Oficial,pending,snoozed,2025-12-06 16:39:19
+174816,246600,10,Suporte Oficial,pending,snoozed,2025-12-06 18:53:25
+174817,246608,10,Suporte Oficial,pending,snoozed,2025-12-06 19:06:06
+174818,246610,10,Suporte Oficial,pending,snoozed,2025-12-06 19:06:45
+174819,246618,10,Suporte Oficial,pending,snoozed,2025-12-06 19:30:48
+174828,246649,10,Suporte Oficial,pending,snoozed,2025-12-06 21:54:54
+174830,246654,10,Suporte Oficial,pending,snoozed,2025-12-06 22:01:20
+174835,246663,10,Suporte Oficial,pending,snoozed,2025-12-06 22:21:04
+174840,246681,10,Suporte Oficial,pending,snoozed,2025-12-06 23:31:48
+174845,246705,10,Suporte Oficial,pending,snoozed,2025-12-07 01:19:10
+174863,246774,10,Suporte Oficial,open,snoozed,2025-12-07 12:09:26
+174868,246796,10,Suporte Oficial,pending,snoozed,2025-12-07 13:28:42
+174870,246803,10,Suporte Oficial,pending,snoozed,2025-12-07 13:36:43
+174872,246819,10,Suporte Oficial,pending,snoozed,2025-12-07 13:58:02
+174874,246823,10,Suporte Oficial,pending,snoozed,2025-12-07 14:03:01
+174876,246837,10,Suporte Oficial,pending,snoozed,2025-12-07 14:16:49
+174883,246849,10,Suporte Oficial,pending,snoozed,2025-12-07 14:43:59
+174884,246852,10,Suporte Oficial,pending,snoozed,2025-12-07 14:49:35
+174885,246861,10,Suporte Oficial,pending,snoozed,2025-12-07 15:01:00
+174886,246863,10,Suporte Oficial,pending,snoozed,2025-12-07 15:01:39
+174888,246866,10,Suporte Oficial,pending,snoozed,2025-12-07 15:06:26
+174893,246884,10,Suporte Oficial,pending,snoozed,2025-12-07 15:29:20
+174894,246886,10,Suporte Oficial,pending,snoozed,2025-12-07 15:30:57
+174895,246890,10,Suporte Oficial,pending,snoozed,2025-12-07 15:35:35
+174904,246916,10,Suporte Oficial,pending,snoozed,2025-12-07 16:49:03
+174906,246923,10,Suporte Oficial,pending,snoozed,2025-12-07 17:29:47
+174907,246934,10,Suporte Oficial,pending,snoozed,2025-12-07 17:40:41
+174912,246946,10,Suporte Oficial,pending,snoozed,2025-12-07 18:10:45
+174917,246967,10,Suporte Oficial,pending,snoozed,2025-12-07 19:47:34
+174922,246981,10,Suporte Oficial,pending,snoozed,2025-12-07 20:42:38
+174923,246986,10,Suporte Oficial,pending,snoozed,2025-12-07 21:01:30
+174926,246992,10,Suporte Oficial,pending,snoozed,2025-12-07 21:25:05
+174930,247007,10,Suporte Oficial,pending,snoozed,2025-12-07 22:02:49
+174932,247011,10,Suporte Oficial,pending,snoozed,2025-12-07 22:14:41
+174934,247014,10,Suporte Oficial,pending,snoozed,2025-12-07 22:31:51
+174935,247016,10,Suporte Oficial,pending,snoozed,2025-12-07 22:37:47
+174939,247032,10,Suporte Oficial,pending,snoozed,2025-12-07 23:39:46
+174942,247038,10,Suporte Oficial,pending,snoozed,2025-12-07 23:56:16
+174944,247047,10,Suporte Oficial,pending,snoozed,2025-12-08 00:25:37
+174945,247052,10,Suporte Oficial,pending,snoozed,2025-12-08 00:30:16
+174946,247055,10,Suporte Oficial,pending,snoozed,2025-12-08 00:50:06
+174948,247058,10,Suporte Oficial,pending,snoozed,2025-12-08 01:01:19
+174955,247088,10,Suporte Oficial,pending,snoozed,2025-12-08 03:32:19
+174956,247091,10,Suporte Oficial,pending,snoozed,2025-12-08 03:45:07
+174962,247120,10,Suporte Oficial,pending,snoozed,2025-12-08 09:49:56
+174966,247130,10,Suporte Oficial,pending,snoozed,2025-12-08 10:49:26
+174967,247135,10,Suporte Oficial,pending,snoozed,2025-12-08 10:53:17
+174976,247175,10,Suporte Oficial,pending,snoozed,2025-12-08 12:18:47
+177481,247190,10,Suporte Oficial,pending,snoozed,2025-12-08 12:53:55
+177482,247195,10,Suporte Oficial,pending,snoozed,2025-12-08 12:56:53
+177483,247197,10,Suporte Oficial,pending,snoozed,2025-12-08 12:57:53
+177485,247205,10,Suporte Oficial,pending,snoozed,2025-12-08 13:09:00
+177489,247217,10,Suporte Oficial,pending,snoozed,2025-12-08 13:30:50
+177490,247219,10,Suporte Oficial,pending,snoozed,2025-12-08 13:36:51
+177496,247245,10,Suporte Oficial,pending,snoozed,2025-12-08 14:07:55
+177499,247261,10,Suporte Oficial,pending,snoozed,2025-12-08 14:20:32
+177504,247279,10,Suporte Oficial,pending,snoozed,2025-12-08 14:48:36
+177506,247300,10,Suporte Oficial,pending,snoozed,2025-12-08 15:06:03
+177507,247302,10,Suporte Oficial,pending,snoozed,2025-12-08 15:06:14
+177508,247303,10,Suporte Oficial,pending,snoozed,2025-12-08 15:06:22
+177509,247304,10,Suporte Oficial,pending,snoozed,2025-12-08 15:07:12
+177510,247306,10,Suporte Oficial,pending,snoozed,2025-12-08 15:08:09
+177513,247329,10,Suporte Oficial,pending,snoozed,2025-12-08 15:28:00
+177514,247337,10,Suporte Oficial,pending,snoozed,2025-12-08 15:37:18
+177516,247348,10,Suporte Oficial,pending,snoozed,2025-12-08 15:50:00
+177520,247377,10,Suporte Oficial,pending,snoozed,2025-12-08 16:19:10
+177521,247384,10,Suporte Oficial,pending,snoozed,2025-12-08 16:22:53
+177522,247385,10,Suporte Oficial,pending,snoozed,2025-12-08 16:30:23
+177523,247386,10,Suporte Oficial,pending,snoozed,2025-12-08 16:31:21
+177525,247406,10,Suporte Oficial,pending,snoozed,2025-12-08 17:23:05
+177528,247423,10,Suporte Oficial,pending,snoozed,2025-12-08 18:00:46
+177529,247425,10,Suporte Oficial,pending,snoozed,2025-12-08 18:05:59
+177530,247430,10,Suporte Oficial,pending,snoozed,2025-12-08 18:18:20
+177533,247437,10,Suporte Oficial,pending,snoozed,2025-12-08 18:22:07
+177541,247461,10,Suporte Oficial,pending,snoozed,2025-12-08 18:53:36
+177545,247490,10,Suporte Oficial,pending,snoozed,2025-12-08 19:17:59
+177547,247495,10,Suporte Oficial,pending,snoozed,2025-12-08 19:28:18
+177549,247501,10,Suporte Oficial,pending,snoozed,2025-12-08 19:34:10
+177550,247508,10,Suporte Oficial,pending,snoozed,2025-12-08 19:39:50
+177552,247513,10,Suporte Oficial,pending,snoozed,2025-12-08 19:46:06
+177553,247515,10,Suporte Oficial,pending,snoozed,2025-12-08 19:50:01
+177554,247521,10,Suporte Oficial,pending,snoozed,2025-12-08 19:53:11
+177555,247526,10,Suporte Oficial,pending,snoozed,2025-12-08 20:00:26
+177556,247529,10,Suporte Oficial,pending,snoozed,2025-12-08 20:05:40
+177557,247531,10,Suporte Oficial,pending,snoozed,2025-12-08 20:07:13
+177558,247533,10,Suporte Oficial,pending,snoozed,2025-12-08 20:08:19
+177560,247557,10,Suporte Oficial,pending,snoozed,2025-12-08 20:45:15
+177563,247566,10,Suporte Oficial,pending,snoozed,2025-12-08 21:06:35
+177565,247570,10,Suporte Oficial,pending,snoozed,2025-12-08 21:10:35
+177575,247613,10,Suporte Oficial,pending,snoozed,2025-12-08 22:41:56
+177577,247616,10,Suporte Oficial,pending,snoozed,2025-12-08 22:45:05
+177580,247627,10,Suporte Oficial,pending,snoozed,2025-12-08 23:08:01
+177582,247629,10,Suporte Oficial,pending,snoozed,2025-12-08 23:09:12
+177583,247635,10,Suporte Oficial,pending,snoozed,2025-12-08 23:17:29
+177593,247683,10,Suporte Oficial,pending,snoozed,2025-12-09 00:39:49
+177596,247689,10,Suporte Oficial,pending,snoozed,2025-12-09 00:54:01
+177599,247694,10,Suporte Oficial,pending,snoozed,2025-12-09 01:01:59
+177602,247702,10,Suporte Oficial,pending,snoozed,2025-12-09 01:35:09
+177605,247710,10,Suporte Oficial,pending,snoozed,2025-12-09 02:24:19
+177609,247745,10,Suporte Oficial,pending,snoozed,2025-12-09 07:41:33
+177617,247786,10,Suporte Oficial,pending,snoozed,2025-12-09 11:09:08
+177620,247799,10,Suporte Oficial,pending,snoozed,2025-12-09 11:44:45
+177624,247818,10,Suporte Oficial,pending,snoozed,2025-12-09 12:28:04
+177625,247819,10,Suporte Oficial,pending,snoozed,2025-12-09 12:28:05
+177627,247825,10,Suporte Oficial,pending,snoozed,2025-12-09 12:30:49
+177629,247831,10,Suporte Oficial,pending,snoozed,2025-12-09 12:37:59
+177630,247832,10,Suporte Oficial,pending,snoozed,2025-12-09 12:38:23
+177634,247849,10,Suporte Oficial,pending,snoozed,2025-12-09 13:06:35
+177636,247854,10,Suporte Oficial,pending,snoozed,2025-12-09 13:13:24
+177637,247859,10,Suporte Oficial,pending,snoozed,2025-12-09 13:17:35
+177640,247872,10,Suporte Oficial,pending,snoozed,2025-12-09 13:29:54
+177641,247876,10,Suporte Oficial,pending,snoozed,2025-12-09 13:31:26
+177646,247911,10,Suporte Oficial,pending,snoozed,2025-12-09 14:31:05
+177649,247929,10,Suporte Oficial,pending,snoozed,2025-12-09 15:00:34
+177650,247930,10,Suporte Oficial,pending,snoozed,2025-12-09 15:00:56
+177651,247931,10,Suporte Oficial,pending,snoozed,2025-12-09 15:01:24
+177652,247933,10,Suporte Oficial,pending,snoozed,2025-12-09 15:01:40
+177654,247937,10,Suporte Oficial,pending,snoozed,2025-12-09 15:02:49
+177655,247939,10,Suporte Oficial,pending,snoozed,2025-12-09 15:03:22
+177657,247942,10,Suporte Oficial,pending,snoozed,2025-12-09 15:05:35
+177664,247950,10,Suporte Oficial,pending,snoozed,2025-12-09 15:13:23
+177666,247958,10,Suporte Oficial,pending,snoozed,2025-12-09 15:18:39
+177670,247969,10,Suporte Oficial,pending,snoozed,2025-12-09 15:26:40
+177673,247974,10,Suporte Oficial,pending,snoozed,2025-12-09 15:30:21
+177679,247989,10,Suporte Oficial,pending,snoozed,2025-12-09 15:40:23
+177681,247992,10,Suporte Oficial,pending,snoozed,2025-12-09 15:45:11
+177684,248000,10,Suporte Oficial,pending,snoozed,2025-12-09 15:57:22
+177689,248013,10,Suporte Oficial,pending,snoozed,2025-12-09 16:05:55
+177690,248015,10,Suporte Oficial,pending,snoozed,2025-12-09 16:07:17
+177700,248043,10,Suporte Oficial,pending,snoozed,2025-12-09 16:32:04
+177705,248052,10,Suporte Oficial,pending,snoozed,2025-12-09 16:39:04
+177714,248068,10,Suporte Oficial,pending,snoozed,2025-12-09 16:58:02
+177719,248080,10,Suporte Oficial,pending,snoozed,2025-12-09 17:06:27
+177720,248082,10,Suporte Oficial,pending,snoozed,2025-12-09 17:06:39
+177722,248084,10,Suporte Oficial,pending,snoozed,2025-12-09 17:09:30
+177728,248104,10,Suporte Oficial,pending,snoozed,2025-12-09 17:26:43
+177732,248120,10,Suporte Oficial,pending,snoozed,2025-12-09 17:46:01
+177734,248124,10,Suporte Oficial,pending,snoozed,2025-12-09 17:51:59
+177736,248128,10,Suporte Oficial,pending,snoozed,2025-12-09 17:55:21
+177742,248148,10,Suporte Oficial,pending,snoozed,2025-12-09 18:28:59
+177745,248160,10,Suporte Oficial,pending,snoozed,2025-12-09 18:58:06
+177747,248170,10,Suporte Oficial,pending,snoozed,2025-12-09 19:15:40
+177748,248172,10,Suporte Oficial,pending,snoozed,2025-12-09 19:18:22
+177750,248185,10,Suporte Oficial,pending,snoozed,2025-12-09 19:28:57
+177756,248198,10,Suporte Oficial,pending,snoozed,2025-12-09 20:02:07
+177762,248207,10,Suporte Oficial,pending,snoozed,2025-12-09 20:23:09
+181636,249452,10,Suporte Oficial,pending,snoozed,2025-12-12 03:48:41
+269051,251327,10,Suporte Oficial,open,snoozed,2025-12-16 14:56:34
+269240,251969,10,Suporte Oficial,pending,snoozed,2025-12-18 03:22:36
+269249,251988,10,Suporte Oficial,open,snoozed,2025-12-18 08:13:08
+135743,169768,11,Grupo Idiomus - Teacher Poli,open,snoozed,2025-01-20 15:13:35
+213589,170556,11,Grupo Idiomus - Teacher Poli,open,snoozed,2025-01-20 17:07:11
+145072,184096,11,Grupo Idiomus - Teacher Poli,open,snoozed,2025-04-01 11:38:05
+193990,185663,11,Grupo Idiomus - Teacher Poli,open,snoozed,2025-04-24 14:38:07
+149112,187381,11,Grupo Idiomus - Teacher Poli,open,snoozed,2025-04-29 21:38:56
+165787,207767,11,Grupo Idiomus - Teacher Poli,pending,snoozed,2025-07-28 12:48:19
+175853,221779,11,Grupo Idiomus - Teacher Poli,open,snoozed,2025-09-19 23:18:06
+181306,231897,11,Grupo Idiomus - Teacher Poli,open,snoozed,2025-10-27 18:56:14
+185594,240629,11,Grupo Idiomus - Teacher Poli,open,snoozed,2025-11-21 23:11:45
+185832,242636,11,Grupo Idiomus - Teacher Poli,open,snoozed,2025-11-26 20:51:54
+185891,243097,11,Grupo Idiomus - Teacher Poli,open,snoozed,2025-11-28 01:02:31
+186530,244093,11,Grupo Idiomus - Teacher Poli,open,snoozed,2025-12-01 11:00:59
+186588,244246,11,Grupo Idiomus - Teacher Poli,open,snoozed,2025-12-01 14:33:54
+186608,244336,11,Grupo Idiomus - Teacher Poli,pending,snoozed,2025-12-01 16:58:07
+187528,247502,11,Grupo Idiomus - Teacher Poli,open,snoozed,2025-12-08 19:34:57
+188475,250510,11,Grupo Idiomus - Teacher Poli,pending,snoozed,2025-12-14 22:01:47
+244106,188917,12,Contato Idiomus,open,snoozed,2025-05-07 12:00:55
+246341,195980,12,Contato Idiomus,pending,snoozed,2025-06-06 18:42:07
+247268,199062,12,Contato Idiomus,open,snoozed,2025-06-20 18:42:06
+248375,203406,12,Contato Idiomus,open,snoozed,2025-07-12 14:42:26
+248539,203876,12,Contato Idiomus,open,snoozed,2025-07-14 21:56:14
+248560,203995,12,Contato Idiomus,open,snoozed,2025-07-15 03:07:20
+248561,203998,12,Contato Idiomus,open,snoozed,2025-07-15 03:28:07
+248717,204503,12,Contato Idiomus,open,snoozed,2025-07-17 01:49:10
+248759,204624,12,Contato Idiomus,open,snoozed,2025-07-17 15:07:09
+248843,204946,12,Contato Idiomus,open,snoozed,2025-07-19 00:35:07
+249356,207314,12,Contato Idiomus,open,snoozed,2025-07-26 15:35:05
+249713,208903,12,Contato Idiomus,open,snoozed,2025-08-01 04:07:12
+249714,208904,12,Contato Idiomus,open,snoozed,2025-08-01 04:14:04
+249894,209688,12,Contato Idiomus,open,snoozed,2025-08-04 14:28:05
+249944,209882,12,Contato Idiomus,open,snoozed,2025-08-04 21:49:11
+250383,211566,12,Contato Idiomus,open,snoozed,2025-08-11 23:07:07
+250910,213530,12,Contato Idiomus,open,snoozed,2025-08-20 00:42:07
+251651,216338,12,Contato Idiomus,open,snoozed,2025-09-01 00:42:08
+252427,220364,12,Contato Idiomus,open,snoozed,2025-09-16 01:49:06
+253374,226096,12,Contato Idiomus,open,snoozed,2025-10-07 21:00:12
+253463,226891,12,Contato Idiomus,open,snoozed,2025-10-10 03:42:14
+253578,227598,12,Contato Idiomus,open,snoozed,2025-10-12 17:35:24
+253602,227759,12,Contato Idiomus,open,snoozed,2025-10-13 11:21:20
+253635,228106,12,Contato Idiomus,open,snoozed,2025-10-14 14:07:09
+253636,228109,12,Contato Idiomus,open,snoozed,2025-10-14 14:28:19
+254021,230426,12,Contato Idiomus,open,snoozed,2025-10-22 23:28:14
+254433,231980,12,Contato Idiomus,pending,snoozed,2025-10-27 22:49:09
+254904,233410,12,Contato Idiomus,open,snoozed,2025-10-31 21:14:15
+254979,233599,12,Contato Idiomus,open,snoozed,2025-11-01 13:49:10
+255141,234197,12,Contato Idiomus,open,snoozed,2025-11-03 09:35:09
+255462,235157,12,Contato Idiomus,open,snoozed,2025-11-05 16:40:15
+255485,235213,12,Contato Idiomus,open,snoozed,2025-11-05 18:35:09
+255509,235279,12,Contato Idiomus,open,snoozed,2025-11-05 21:30:16
+255513,235286,12,Contato Idiomus,open,snoozed,2025-11-05 21:50:11
+255526,235327,12,Contato Idiomus,open,snoozed,2025-11-05 23:00:15
+255530,235332,12,Contato Idiomus,open,snoozed,2025-11-05 23:15:19
+255536,235355,12,Contato Idiomus,open,snoozed,2025-11-06 00:10:09
+255562,235446,12,Contato Idiomus,open,snoozed,2025-11-06 11:15:08
+255654,235757,12,Contato Idiomus,open,snoozed,2025-11-07 00:35:17
+255659,235765,12,Contato Idiomus,open,snoozed,2025-11-07 01:10:07
+255670,235786,12,Contato Idiomus,open,snoozed,2025-11-07 03:15:13
+255672,235791,12,Contato Idiomus,open,snoozed,2025-11-07 03:40:08
+255683,235819,12,Contato Idiomus,open,snoozed,2025-11-07 09:40:15
+255692,235833,12,Contato Idiomus,open,snoozed,2025-11-07 10:35:24
+255693,235837,12,Contato Idiomus,open,snoozed,2025-11-07 10:40:24
+255719,235921,12,Contato Idiomus,open,snoozed,2025-11-07 14:10:08
+255761,236045,12,Contato Idiomus,open,snoozed,2025-11-07 19:00:08
+255828,236212,12,Contato Idiomus,open,snoozed,2025-11-08 10:45:09
+255867,236294,12,Contato Idiomus,open,snoozed,2025-11-08 15:15:10
+255996,236635,12,Contato Idiomus,open,snoozed,2025-11-09 17:00:13
+255998,236641,12,Contato Idiomus,open,snoozed,2025-11-09 17:10:07
+256211,237348,12,Contato Idiomus,open,snoozed,2025-11-11 18:40:12
+256345,237802,12,Contato Idiomus,open,snoozed,2025-11-13 14:40:08
+256487,238344,12,Contato Idiomus,open,snoozed,2025-11-15 18:05:05
+256551,238497,12,Contato Idiomus,open,snoozed,2025-11-16 12:30:13
+256552,238500,12,Contato Idiomus,open,snoozed,2025-11-16 12:40:05
+256578,238676,12,Contato Idiomus,open,snoozed,2025-11-17 01:15:16
+256623,238747,12,Contato Idiomus,open,snoozed,2025-11-17 09:00:16
+256625,238793,12,Contato Idiomus,open,snoozed,2025-11-17 12:10:04
+256639,238971,12,Contato Idiomus,open,snoozed,2025-11-17 18:45:27
+256647,239020,12,Contato Idiomus,open,snoozed,2025-11-17 22:25:11
+256657,239067,12,Contato Idiomus,open,snoozed,2025-11-18 02:30:11
+256738,239346,12,Contato Idiomus,open,snoozed,2025-11-18 21:25:05
+256742,239369,12,Contato Idiomus,open,snoozed,2025-11-18 23:00:14
+256752,239417,12,Contato Idiomus,open,snoozed,2025-11-19 04:05:14
+256778,239493,12,Contato Idiomus,open,snoozed,2025-11-19 13:50:15
+256851,239728,12,Contato Idiomus,open,snoozed,2025-11-20 01:00:05
+256852,239730,12,Contato Idiomus,open,snoozed,2025-11-20 01:10:15
+256857,239750,12,Contato Idiomus,open,snoozed,2025-11-20 03:55:05
+256900,239855,12,Contato Idiomus,open,snoozed,2025-11-20 13:10:06
+256901,239860,12,Contato Idiomus,open,snoozed,2025-11-20 13:20:09
+256948,240114,12,Contato Idiomus,open,snoozed,2025-11-21 02:20:17
+256962,240209,12,Contato Idiomus,open,snoozed,2025-11-21 12:10:13
+256969,240252,12,Contato Idiomus,open,snoozed,2025-11-21 13:35:13
+256993,240343,12,Contato Idiomus,open,snoozed,2025-11-21 15:45:10
+256999,240362,12,Contato Idiomus,open,snoozed,2025-11-21 16:05:10
+257012,240415,12,Contato Idiomus,open,snoozed,2025-11-21 17:15:14
+257013,240416,12,Contato Idiomus,open,snoozed,2025-11-21 17:15:17
+257018,240433,12,Contato Idiomus,open,snoozed,2025-11-21 17:45:08
+257028,240485,12,Contato Idiomus,open,snoozed,2025-11-21 18:55:10
+257029,240488,12,Contato Idiomus,open,snoozed,2025-11-21 19:05:08
+257031,240493,12,Contato Idiomus,open,snoozed,2025-11-21 19:10:13
+257048,240630,12,Contato Idiomus,open,snoozed,2025-11-21 23:20:10
+257051,240637,12,Contato Idiomus,open,snoozed,2025-11-21 23:40:25
+257052,240640,12,Contato Idiomus,open,snoozed,2025-11-21 23:55:12
+257053,240643,12,Contato Idiomus,open,snoozed,2025-11-22 00:10:18
+257059,240678,12,Contato Idiomus,open,snoozed,2025-11-22 02:45:09
+257065,240694,12,Contato Idiomus,open,snoozed,2025-11-22 05:25:14
+257124,240906,12,Contato Idiomus,open,snoozed,2025-11-22 15:55:23
+257135,240954,12,Contato Idiomus,open,snoozed,2025-11-22 18:10:10
+257138,240968,12,Contato Idiomus,open,snoozed,2025-11-22 19:30:11
+257140,240977,12,Contato Idiomus,open,snoozed,2025-11-22 20:05:08
+257141,240985,12,Contato Idiomus,open,snoozed,2025-11-22 20:50:07
+257151,241047,12,Contato Idiomus,open,snoozed,2025-11-23 00:50:22
+257153,241059,12,Contato Idiomus,open,snoozed,2025-11-23 01:50:13
+257155,241062,12,Contato Idiomus,open,snoozed,2025-11-23 02:25:14
+257156,241064,12,Contato Idiomus,open,snoozed,2025-11-23 02:40:21
+257166,241082,12,Contato Idiomus,open,snoozed,2025-11-23 05:30:09
+257218,241150,12,Contato Idiomus,open,snoozed,2025-11-23 12:00:10
+257222,241161,12,Contato Idiomus,open,snoozed,2025-11-23 12:55:15
+257225,241170,12,Contato Idiomus,open,snoozed,2025-11-23 13:20:10
+257235,241214,12,Contato Idiomus,open,snoozed,2025-11-23 15:30:19
+257237,241253,12,Contato Idiomus,open,snoozed,2025-11-23 19:10:11
+257238,241255,12,Contato Idiomus,open,snoozed,2025-11-23 19:15:26
+257239,241256,12,Contato Idiomus,open,snoozed,2025-11-23 19:15:26
+257241,241263,12,Contato Idiomus,open,snoozed,2025-11-23 20:20:07
+257242,241269,12,Contato Idiomus,open,snoozed,2025-11-23 20:30:18
+257243,241271,12,Contato Idiomus,open,snoozed,2025-11-23 20:35:10
+257244,241273,12,Contato Idiomus,open,snoozed,2025-11-23 20:40:11
+257246,241277,12,Contato Idiomus,open,snoozed,2025-11-23 21:05:12
+257249,241280,12,Contato Idiomus,open,snoozed,2025-11-23 21:05:15
+257250,241282,12,Contato Idiomus,open,snoozed,2025-11-23 21:25:11
+257251,241283,12,Contato Idiomus,open,snoozed,2025-11-23 21:30:19
+257252,241284,12,Contato Idiomus,open,snoozed,2025-11-23 21:40:10
+257253,241286,12,Contato Idiomus,open,snoozed,2025-11-23 21:50:11
+257255,241289,12,Contato Idiomus,open,snoozed,2025-11-23 21:55:17
+257254,241288,12,Contato Idiomus,open,snoozed,2025-11-23 21:55:17
+257257,241295,12,Contato Idiomus,open,snoozed,2025-11-23 22:20:12
+257258,241304,12,Contato Idiomus,open,snoozed,2025-11-23 22:55:08
+257259,241305,12,Contato Idiomus,open,snoozed,2025-11-23 22:55:11
+257262,241319,12,Contato Idiomus,open,snoozed,2025-11-23 23:30:11
+257263,241320,12,Contato Idiomus,open,snoozed,2025-11-23 23:35:14
+257264,241322,12,Contato Idiomus,open,snoozed,2025-11-23 23:40:19
+257265,241323,12,Contato Idiomus,open,snoozed,2025-11-23 23:40:21
+257266,241324,12,Contato Idiomus,open,snoozed,2025-11-23 23:45:16
+257267,241325,12,Contato Idiomus,open,snoozed,2025-11-23 23:45:16
+257268,241330,12,Contato Idiomus,open,snoozed,2025-11-24 00:00:16
+257269,241331,12,Contato Idiomus,open,snoozed,2025-11-24 00:00:16
+257271,241334,12,Contato Idiomus,open,snoozed,2025-11-24 00:05:11
+257273,241336,12,Contato Idiomus,open,snoozed,2025-11-24 00:05:12
+257276,241339,12,Contato Idiomus,open,snoozed,2025-11-24 00:05:15
+257279,241343,12,Contato Idiomus,open,snoozed,2025-11-24 00:15:07
+257278,241342,12,Contato Idiomus,open,snoozed,2025-11-24 00:15:07
+257280,241344,12,Contato Idiomus,open,snoozed,2025-11-24 00:20:13
+257281,241345,12,Contato Idiomus,open,snoozed,2025-11-24 00:40:12
+257282,241348,12,Contato Idiomus,open,snoozed,2025-11-24 00:45:08
+257283,241355,12,Contato Idiomus,open,snoozed,2025-11-24 01:10:07
+257284,241364,12,Contato Idiomus,open,snoozed,2025-11-24 01:30:06
+257285,241370,12,Contato Idiomus,open,snoozed,2025-11-24 02:10:08
+257286,241373,12,Contato Idiomus,open,snoozed,2025-11-24 02:15:11
+257289,241380,12,Contato Idiomus,open,snoozed,2025-11-24 03:25:09
+257291,241386,12,Contato Idiomus,open,snoozed,2025-11-24 04:35:08
+257293,241389,12,Contato Idiomus,open,snoozed,2025-11-24 05:20:15
+257332,241442,12,Contato Idiomus,open,snoozed,2025-11-24 09:55:22
+257334,241447,12,Contato Idiomus,open,snoozed,2025-11-24 10:40:08
+257336,241452,12,Contato Idiomus,open,snoozed,2025-11-24 11:05:28
+257337,241453,12,Contato Idiomus,open,snoozed,2025-11-24 11:05:31
+257343,241478,12,Contato Idiomus,open,snoozed,2025-11-24 12:30:15
+257345,241488,12,Contato Idiomus,open,snoozed,2025-11-24 12:55:21
+257346,241491,12,Contato Idiomus,open,snoozed,2025-11-24 13:05:13
+257348,241500,12,Contato Idiomus,open,snoozed,2025-11-24 13:20:10
+257350,241525,12,Contato Idiomus,open,snoozed,2025-11-24 14:25:06
+257351,241526,12,Contato Idiomus,open,snoozed,2025-11-24 14:25:06
+257354,241548,12,Contato Idiomus,open,snoozed,2025-11-24 15:00:23
+257355,241553,12,Contato Idiomus,open,snoozed,2025-11-24 15:15:15
+257357,241573,12,Contato Idiomus,open,snoozed,2025-11-24 15:45:14
+257361,241596,12,Contato Idiomus,open,snoozed,2025-11-24 16:35:11
+257363,241598,12,Contato Idiomus,open,snoozed,2025-11-24 16:35:12
+257364,241599,12,Contato Idiomus,open,snoozed,2025-11-24 16:35:16
+257365,241602,12,Contato Idiomus,open,snoozed,2025-11-24 16:55:09
+257367,241611,12,Contato Idiomus,open,snoozed,2025-11-24 17:35:16
+257369,241615,12,Contato Idiomus,open,snoozed,2025-11-24 17:55:20
+257373,241622,12,Contato Idiomus,open,snoozed,2025-11-24 18:05:17
+257374,241624,12,Contato Idiomus,open,snoozed,2025-11-24 18:10:18
+257375,241628,12,Contato Idiomus,open,snoozed,2025-11-24 18:15:15
+257376,241634,12,Contato Idiomus,open,snoozed,2025-11-24 18:20:22
+257377,241638,12,Contato Idiomus,open,snoozed,2025-11-24 18:25:18
+257378,241639,12,Contato Idiomus,open,snoozed,2025-11-24 18:25:21
+257379,241644,12,Contato Idiomus,open,snoozed,2025-11-24 18:35:29
+257381,241647,12,Contato Idiomus,open,snoozed,2025-11-24 18:40:09
+257382,241653,12,Contato Idiomus,open,snoozed,2025-11-24 19:00:16
+257383,241661,12,Contato Idiomus,open,snoozed,2025-11-24 19:25:08
+257387,241676,12,Contato Idiomus,open,snoozed,2025-11-24 20:10:29
+257388,241688,12,Contato Idiomus,open,snoozed,2025-11-24 20:30:09
+257393,241717,12,Contato Idiomus,open,snoozed,2025-11-24 21:30:11
+257395,241734,12,Contato Idiomus,open,snoozed,2025-11-24 22:10:14
+257399,241742,12,Contato Idiomus,open,snoozed,2025-11-24 22:35:14
+257400,241745,12,Contato Idiomus,open,snoozed,2025-11-24 22:45:14
+257401,241746,12,Contato Idiomus,open,snoozed,2025-11-24 22:45:15
+257405,241759,12,Contato Idiomus,open,snoozed,2025-11-24 23:20:15
+257409,241781,12,Contato Idiomus,open,snoozed,2025-11-25 00:40:13
+257416,241809,12,Contato Idiomus,open,snoozed,2025-11-25 03:25:13
+257452,241904,12,Contato Idiomus,open,snoozed,2025-11-25 13:55:12
+257512,242070,12,Contato Idiomus,open,snoozed,2025-11-25 20:05:26
+257529,242115,12,Contato Idiomus,open,snoozed,2025-11-25 21:50:07
+257540,242181,12,Contato Idiomus,open,snoozed,2025-11-26 02:10:12
+257544,242191,12,Contato Idiomus,open,snoozed,2025-11-26 03:30:15
+257579,242478,12,Contato Idiomus,open,snoozed,2025-11-26 15:10:17
+257587,242506,12,Contato Idiomus,open,snoozed,2025-11-26 15:45:14
+257590,242530,12,Contato Idiomus,open,snoozed,2025-11-26 16:40:11
+257604,242592,12,Contato Idiomus,open,snoozed,2025-11-26 19:25:10
+257623,242672,12,Contato Idiomus,open,snoozed,2025-11-26 22:55:09
+257682,242796,12,Contato Idiomus,open,snoozed,2025-11-27 10:45:04
+257837,243289,12,Contato Idiomus,open,snoozed,2025-11-28 15:40:14
+257847,243350,12,Contato Idiomus,open,snoozed,2025-11-28 18:15:10
+257868,243448,12,Contato Idiomus,open,snoozed,2025-11-29 00:55:14
+257887,243538,12,Contato Idiomus,open,snoozed,2025-11-29 13:20:09
+257901,243674,12,Contato Idiomus,open,snoozed,2025-11-29 19:40:17
+258006,244469,12,Contato Idiomus,open,snoozed,2025-12-02 00:00:07
+258008,244499,12,Contato Idiomus,open,snoozed,2025-12-02 02:25:11
+258009,244502,12,Contato Idiomus,open,snoozed,2025-12-02 02:30:12
+258034,244591,12,Contato Idiomus,open,snoozed,2025-12-02 13:35:07
+258049,244728,12,Contato Idiomus,open,snoozed,2025-12-02 17:35:09
+258052,244752,12,Contato Idiomus,open,snoozed,2025-12-02 18:25:11
+258090,244874,12,Contato Idiomus,open,snoozed,2025-12-03 01:55:06
+258094,244889,12,Contato Idiomus,open,snoozed,2025-12-03 05:00:07
+258098,244918,12,Contato Idiomus,open,snoozed,2025-12-03 10:45:12
+258131,245175,12,Contato Idiomus,open,snoozed,2025-12-03 22:40:12
+258143,245234,12,Contato Idiomus,open,snoozed,2025-12-04 07:40:15
+258147,245265,12,Contato Idiomus,open,snoozed,2025-12-04 11:20:03
+270394,245326,12,Contato Idiomus,open,snoozed,2025-12-04 13:45:21
+270401,245333,12,Contato Idiomus,open,snoozed,2025-12-04 13:45:23
+270399,245331,12,Contato Idiomus,open,snoozed,2025-12-04 13:45:23
+270423,245355,12,Contato Idiomus,open,snoozed,2025-12-04 13:45:35
+270426,245358,12,Contato Idiomus,open,snoozed,2025-12-04 13:45:36
+270450,245382,12,Contato Idiomus,open,snoozed,2025-12-04 13:45:44
+270451,245383,12,Contato Idiomus,open,snoozed,2025-12-04 13:45:44
+270478,245410,12,Contato Idiomus,open,snoozed,2025-12-04 13:45:56
+270489,245421,12,Contato Idiomus,open,snoozed,2025-12-04 13:45:59
+270493,245429,12,Contato Idiomus,open,snoozed,2025-12-04 13:50:11
+270495,245433,12,Contato Idiomus,open,snoozed,2025-12-04 13:55:08
+270496,245434,12,Contato Idiomus,open,snoozed,2025-12-04 14:05:13
+270497,245601,12,Contato Idiomus,open,snoozed,2025-12-04 14:15:14
+270511,245710,12,Contato Idiomus,open,snoozed,2025-12-04 16:30:11
+270512,245712,12,Contato Idiomus,open,snoozed,2025-12-04 16:40:05
+270520,245790,12,Contato Idiomus,open,snoozed,2025-12-04 18:45:05
+270522,245820,12,Contato Idiomus,open,snoozed,2025-12-04 19:40:08
+270521,245819,12,Contato Idiomus,open,snoozed,2025-12-04 19:40:08
+270523,245821,12,Contato Idiomus,open,snoozed,2025-12-04 19:40:09
+270524,245831,12,Contato Idiomus,open,snoozed,2025-12-04 19:55:10
+270526,245841,12,Contato Idiomus,open,snoozed,2025-12-04 20:05:05
+270531,245865,12,Contato Idiomus,open,snoozed,2025-12-04 22:05:14
+270532,245885,12,Contato Idiomus,open,snoozed,2025-12-04 22:40:11
+270533,245893,12,Contato Idiomus,open,snoozed,2025-12-04 23:30:07
+270534,245894,12,Contato Idiomus,open,snoozed,2025-12-04 23:45:07
+270536,245899,12,Contato Idiomus,open,snoozed,2025-12-05 00:00:17
+270539,245913,12,Contato Idiomus,open,snoozed,2025-12-05 01:10:05
+270541,245929,12,Contato Idiomus,open,snoozed,2025-12-05 02:50:05
+270542,245934,12,Contato Idiomus,open,snoozed,2025-12-05 03:40:21
+270544,245940,12,Contato Idiomus,open,snoozed,2025-12-05 04:25:08
+270545,245941,12,Contato Idiomus,open,snoozed,2025-12-05 04:40:08
+270546,245943,12,Contato Idiomus,open,snoozed,2025-12-05 05:05:09
+270549,245961,12,Contato Idiomus,open,snoozed,2025-12-05 08:40:07
+270551,245978,12,Contato Idiomus,open,snoozed,2025-12-05 10:40:14
+270558,246013,12,Contato Idiomus,open,snoozed,2025-12-05 12:50:04
+270560,246052,12,Contato Idiomus,open,snoozed,2025-12-05 13:50:15
+270561,246056,12,Contato Idiomus,open,snoozed,2025-12-05 14:00:13
+270562,246059,12,Contato Idiomus,open,snoozed,2025-12-05 14:05:07
+270563,246060,12,Contato Idiomus,open,snoozed,2025-12-05 14:05:08
+270564,246068,12,Contato Idiomus,open,snoozed,2025-12-05 14:20:19
+270566,246075,12,Contato Idiomus,open,snoozed,2025-12-05 14:35:16
+270567,246085,12,Contato Idiomus,open,snoozed,2025-12-05 15:00:10
+270568,246086,12,Contato Idiomus,open,snoozed,2025-12-05 15:00:11
+270569,246106,12,Contato Idiomus,open,snoozed,2025-12-05 15:20:11
+270571,246108,12,Contato Idiomus,open,snoozed,2025-12-05 15:20:11
+270572,246123,12,Contato Idiomus,open,snoozed,2025-12-05 15:45:05
+270573,246140,12,Contato Idiomus,open,snoozed,2025-12-05 16:10:11
+270574,246143,12,Contato Idiomus,open,snoozed,2025-12-05 16:15:14
+270576,246157,12,Contato Idiomus,open,snoozed,2025-12-05 16:45:08
+270578,246178,12,Contato Idiomus,open,snoozed,2025-12-05 17:25:06
+270581,246220,12,Contato Idiomus,open,snoozed,2025-12-05 18:35:19
+270582,246221,12,Contato Idiomus,open,snoozed,2025-12-05 18:35:19
+270583,246230,12,Contato Idiomus,open,snoozed,2025-12-05 18:55:14
+270585,246235,12,Contato Idiomus,open,snoozed,2025-12-05 19:10:03
+270584,246234,12,Contato Idiomus,open,snoozed,2025-12-05 19:10:03
+270586,246236,12,Contato Idiomus,open,snoozed,2025-12-05 19:15:11
+270587,246239,12,Contato Idiomus,open,snoozed,2025-12-05 19:15:13
+270589,246258,12,Contato Idiomus,open,snoozed,2025-12-05 19:45:13
+270590,246262,12,Contato Idiomus,open,snoozed,2025-12-05 19:50:07
+270591,246263,12,Contato Idiomus,open,snoozed,2025-12-05 19:50:08
+270592,246268,12,Contato Idiomus,open,snoozed,2025-12-05 20:15:08
+270594,246282,12,Contato Idiomus,open,snoozed,2025-12-05 20:55:08
+270595,246288,12,Contato Idiomus,open,snoozed,2025-12-05 21:25:11
+270596,246289,12,Contato Idiomus,open,snoozed,2025-12-05 21:30:16
+270597,246293,12,Contato Idiomus,open,snoozed,2025-12-05 21:40:18
+270598,246299,12,Contato Idiomus,open,snoozed,2025-12-05 22:50:21
+270599,246303,12,Contato Idiomus,open,snoozed,2025-12-05 23:20:14
+270600,246306,12,Contato Idiomus,open,snoozed,2025-12-05 23:25:05
+270601,246307,12,Contato Idiomus,open,snoozed,2025-12-05 23:30:13
+270602,246314,12,Contato Idiomus,open,snoozed,2025-12-06 00:00:07
+270603,246316,12,Contato Idiomus,open,snoozed,2025-12-06 00:25:12
+270604,246322,12,Contato Idiomus,open,snoozed,2025-12-06 01:00:11
+270605,246323,12,Contato Idiomus,open,snoozed,2025-12-06 01:00:11
+270606,246334,12,Contato Idiomus,open,snoozed,2025-12-06 02:20:06
+270607,246337,12,Contato Idiomus,open,snoozed,2025-12-06 02:35:08
+270611,246360,12,Contato Idiomus,open,snoozed,2025-12-06 06:40:10
+270612,246373,12,Contato Idiomus,open,snoozed,2025-12-06 08:15:07
+270617,246406,12,Contato Idiomus,open,snoozed,2025-12-06 11:50:23
+270618,246408,12,Contato Idiomus,open,snoozed,2025-12-06 12:00:09
+270619,246424,12,Contato Idiomus,open,snoozed,2025-12-06 12:50:07
+270620,246425,12,Contato Idiomus,open,snoozed,2025-12-06 13:00:17
+270621,246443,12,Contato Idiomus,open,snoozed,2025-12-06 13:25:05
+270622,246448,12,Contato Idiomus,open,snoozed,2025-12-06 13:35:05
+270623,246449,12,Contato Idiomus,open,snoozed,2025-12-06 13:40:08
+270624,246457,12,Contato Idiomus,open,snoozed,2025-12-06 13:55:08
+270625,246472,12,Contato Idiomus,open,snoozed,2025-12-06 14:20:08
+270626,246477,12,Contato Idiomus,open,snoozed,2025-12-06 14:30:12
+270627,246485,12,Contato Idiomus,open,snoozed,2025-12-06 14:55:09
+270628,246515,12,Contato Idiomus,open,snoozed,2025-12-06 15:30:08
+270629,246539,12,Contato Idiomus,open,snoozed,2025-12-06 15:50:07
+270630,246551,12,Contato Idiomus,open,snoozed,2025-12-06 16:20:09
+270631,246555,12,Contato Idiomus,open,snoozed,2025-12-06 16:30:07
+270632,246583,12,Contato Idiomus,open,snoozed,2025-12-06 16:50:04
+270633,246584,12,Contato Idiomus,open,snoozed,2025-12-06 16:55:14
+270634,246588,12,Contato Idiomus,open,snoozed,2025-12-06 17:40:06
+270635,246595,12,Contato Idiomus,open,snoozed,2025-12-06 18:40:12
+270636,246616,12,Contato Idiomus,open,snoozed,2025-12-06 19:25:07
+270637,246638,12,Contato Idiomus,open,snoozed,2025-12-06 21:10:10
+258161,246641,12,Contato Idiomus,open,snoozed,2025-12-06 21:25:03
+270639,246656,12,Contato Idiomus,open,snoozed,2025-12-06 22:05:21
+270640,246684,12,Contato Idiomus,open,snoozed,2025-12-06 23:35:15
+270641,246685,12,Contato Idiomus,open,snoozed,2025-12-06 23:35:15
+270642,246698,12,Contato Idiomus,open,snoozed,2025-12-07 00:40:09
+270643,246699,12,Contato Idiomus,open,snoozed,2025-12-07 00:55:04
+270644,246700,12,Contato Idiomus,open,snoozed,2025-12-07 01:10:09
+270645,246707,12,Contato Idiomus,open,snoozed,2025-12-07 01:35:21
+270646,246708,12,Contato Idiomus,open,snoozed,2025-12-07 01:40:06
+270647,246712,12,Contato Idiomus,open,snoozed,2025-12-07 02:40:10
+270651,246732,12,Contato Idiomus,open,snoozed,2025-12-07 09:45:12
+270652,246736,12,Contato Idiomus,open,snoozed,2025-12-07 10:20:06
+270659,246775,12,Contato Idiomus,open,snoozed,2025-12-07 12:10:12
+270660,246778,12,Contato Idiomus,open,snoozed,2025-12-07 12:25:08
+270661,246779,12,Contato Idiomus,open,snoozed,2025-12-07 12:30:06
+270662,246784,12,Contato Idiomus,open,snoozed,2025-12-07 12:45:08
+270663,246785,12,Contato Idiomus,open,snoozed,2025-12-07 12:50:09
+270664,246807,12,Contato Idiomus,open,snoozed,2025-12-07 13:40:13
+270665,246814,12,Contato Idiomus,open,snoozed,2025-12-07 13:50:08
+270667,246857,12,Contato Idiomus,open,snoozed,2025-12-07 15:00:19
+270668,246881,12,Contato Idiomus,open,snoozed,2025-12-07 15:25:10
+270669,246897,12,Contato Idiomus,open,snoozed,2025-12-07 15:50:06
+270670,246938,12,Contato Idiomus,open,snoozed,2025-12-07 17:55:04
+270671,246952,12,Contato Idiomus,open,snoozed,2025-12-07 18:30:05
+270672,246979,12,Contato Idiomus,open,snoozed,2025-12-07 20:15:07
+270673,246985,12,Contato Idiomus,open,snoozed,2025-12-07 21:00:05
+270674,246988,12,Contato Idiomus,open,snoozed,2025-12-07 21:10:12
+270675,247003,12,Contato Idiomus,open,snoozed,2025-12-07 21:45:04
+270676,247013,12,Contato Idiomus,open,snoozed,2025-12-07 22:25:12
+270677,247015,12,Contato Idiomus,open,snoozed,2025-12-07 22:35:07
+270678,247023,12,Contato Idiomus,open,snoozed,2025-12-07 22:55:15
+270679,247027,12,Contato Idiomus,open,snoozed,2025-12-07 23:20:07
+270681,247039,12,Contato Idiomus,open,snoozed,2025-12-08 00:20:15
+270682,247081,12,Contato Idiomus,open,snoozed,2025-12-08 02:05:15
+270683,247082,12,Contato Idiomus,open,snoozed,2025-12-08 02:10:04
+270684,247083,12,Contato Idiomus,open,snoozed,2025-12-08 02:15:06
+270686,247092,12,Contato Idiomus,open,snoozed,2025-12-08 03:45:07
+270688,247107,12,Contato Idiomus,open,snoozed,2025-12-08 08:25:13
+270690,247113,12,Contato Idiomus,open,snoozed,2025-12-08 09:15:10
+270691,247123,12,Contato Idiomus,open,snoozed,2025-12-08 10:00:17
+270693,247138,12,Contato Idiomus,open,snoozed,2025-12-08 10:55:17
+270695,247173,12,Contato Idiomus,open,snoozed,2025-12-08 12:10:06
+270696,247177,12,Contato Idiomus,open,snoozed,2025-12-08 12:20:13
+270697,247182,12,Contato Idiomus,open,snoozed,2025-12-08 12:35:04
+270698,247187,12,Contato Idiomus,open,snoozed,2025-12-08 12:40:06
+270699,247192,12,Contato Idiomus,open,snoozed,2025-12-08 12:55:10
+270701,247199,12,Contato Idiomus,open,snoozed,2025-12-08 13:00:09
+270702,247215,12,Contato Idiomus,open,snoozed,2025-12-08 13:30:07
+270703,247222,12,Contato Idiomus,open,snoozed,2025-12-08 13:40:26
+270704,247235,12,Contato Idiomus,open,snoozed,2025-12-08 13:55:06
+270705,247241,12,Contato Idiomus,open,snoozed,2025-12-08 14:00:10
+270706,247249,12,Contato Idiomus,open,snoozed,2025-12-08 14:10:05
+270707,247271,12,Contato Idiomus,open,snoozed,2025-12-08 14:40:07
+270708,247284,12,Contato Idiomus,open,snoozed,2025-12-08 14:50:03
+270709,247287,12,Contato Idiomus,open,snoozed,2025-12-08 14:50:04
+270710,247317,12,Contato Idiomus,open,snoozed,2025-12-08 15:20:23
+270711,247328,12,Contato Idiomus,open,snoozed,2025-12-08 15:25:05
+270712,247341,12,Contato Idiomus,open,snoozed,2025-12-08 15:40:17
+270714,247376,12,Contato Idiomus,open,snoozed,2025-12-08 16:15:08
+270715,247391,12,Contato Idiomus,open,snoozed,2025-12-08 16:45:10
+270716,247392,12,Contato Idiomus,open,snoozed,2025-12-08 16:50:08
+270717,247393,12,Contato Idiomus,open,snoozed,2025-12-08 16:50:09
+270718,247394,12,Contato Idiomus,open,snoozed,2025-12-08 16:55:05
+270719,247395,12,Contato Idiomus,open,snoozed,2025-12-08 17:00:09
+270720,247398,12,Contato Idiomus,open,snoozed,2025-12-08 17:05:05
+270721,247402,12,Contato Idiomus,open,snoozed,2025-12-08 17:10:04
+270722,247404,12,Contato Idiomus,open,snoozed,2025-12-08 17:15:15
+270723,247445,12,Contato Idiomus,open,snoozed,2025-12-08 18:30:05
+270724,247447,12,Contato Idiomus,open,snoozed,2025-12-08 18:30:05
+270725,247448,12,Contato Idiomus,open,snoozed,2025-12-08 18:35:21
+270726,247451,12,Contato Idiomus,open,snoozed,2025-12-08 18:40:15
+270727,247457,12,Contato Idiomus,open,snoozed,2025-12-08 18:45:06
+270728,247467,12,Contato Idiomus,open,snoozed,2025-12-08 18:55:10
+270729,247468,12,Contato Idiomus,open,snoozed,2025-12-08 18:55:10
+270730,247479,12,Contato Idiomus,open,snoozed,2025-12-08 19:05:06
+270733,247528,12,Contato Idiomus,open,snoozed,2025-12-08 20:05:13
+270734,247545,12,Contato Idiomus,open,snoozed,2025-12-08 20:25:06
+270736,247550,12,Contato Idiomus,open,snoozed,2025-12-08 20:30:05
+270735,247549,12,Contato Idiomus,open,snoozed,2025-12-08 20:30:05
+270738,247585,12,Contato Idiomus,open,snoozed,2025-12-08 21:35:18
+270745,247608,12,Contato Idiomus,open,snoozed,2025-12-08 22:25:09
+270746,247625,12,Contato Idiomus,open,snoozed,2025-12-08 23:05:04
+270749,247648,12,Contato Idiomus,open,snoozed,2025-12-08 23:35:09
+270750,247667,12,Contato Idiomus,open,snoozed,2025-12-08 23:55:19
+270751,247669,12,Contato Idiomus,open,snoozed,2025-12-09 00:00:08
+270753,247680,12,Contato Idiomus,open,snoozed,2025-12-09 00:30:06
+270754,247704,12,Contato Idiomus,open,snoozed,2025-12-09 01:50:13
+270755,247706,12,Contato Idiomus,open,snoozed,2025-12-09 02:00:18
+270756,247707,12,Contato Idiomus,open,snoozed,2025-12-09 02:10:05
+270757,247712,12,Contato Idiomus,open,snoozed,2025-12-09 02:35:10
+270759,247728,12,Contato Idiomus,open,snoozed,2025-12-09 04:40:19
+270760,247742,12,Contato Idiomus,open,snoozed,2025-12-09 07:25:06
+270762,247762,12,Contato Idiomus,open,snoozed,2025-12-09 09:55:04
+270763,247766,12,Contato Idiomus,open,snoozed,2025-12-09 10:25:05
+270764,247767,12,Contato Idiomus,open,snoozed,2025-12-09 10:25:06
+270767,247790,12,Contato Idiomus,open,snoozed,2025-12-09 11:20:07
+270769,247810,12,Contato Idiomus,open,snoozed,2025-12-09 11:55:10
+270770,247813,12,Contato Idiomus,open,snoozed,2025-12-09 12:10:11
+270771,247824,12,Contato Idiomus,open,snoozed,2025-12-09 12:30:16
+270772,247829,12,Contato Idiomus,open,snoozed,2025-12-09 12:35:07
+270775,247840,12,Contato Idiomus,open,snoozed,2025-12-09 12:55:10
+270777,247862,12,Contato Idiomus,open,snoozed,2025-12-09 13:20:07
+270778,247878,12,Contato Idiomus,open,snoozed,2025-12-09 13:35:11
+270779,247886,12,Contato Idiomus,open,snoozed,2025-12-09 13:45:20
+270781,247904,12,Contato Idiomus,open,snoozed,2025-12-09 14:20:25
+270782,247906,12,Contato Idiomus,open,snoozed,2025-12-09 14:25:11
+270783,247917,12,Contato Idiomus,open,snoozed,2025-12-09 14:40:07
+270784,247918,12,Contato Idiomus,open,snoozed,2025-12-09 14:40:07
+270785,247955,12,Contato Idiomus,open,snoozed,2025-12-09 15:15:12
+270786,247956,12,Contato Idiomus,open,snoozed,2025-12-09 15:15:13
+270787,248012,12,Contato Idiomus,open,snoozed,2025-12-09 16:05:12
+270788,248020,12,Contato Idiomus,open,snoozed,2025-12-09 16:10:05
+270789,248021,12,Contato Idiomus,open,snoozed,2025-12-09 16:10:06
+270790,248033,12,Contato Idiomus,open,snoozed,2025-12-09 16:25:08
+270792,248056,12,Contato Idiomus,open,snoozed,2025-12-09 16:40:11
+270794,248072,12,Contato Idiomus,open,snoozed,2025-12-09 17:00:08
+270795,248073,12,Contato Idiomus,open,snoozed,2025-12-09 17:00:08
+270796,248093,12,Contato Idiomus,open,snoozed,2025-12-09 17:15:06
+270797,248094,12,Contato Idiomus,open,snoozed,2025-12-09 17:15:06
+270798,248098,12,Contato Idiomus,open,snoozed,2025-12-09 17:20:12
+270799,248111,12,Contato Idiomus,open,snoozed,2025-12-09 17:30:13
+270800,248118,12,Contato Idiomus,open,snoozed,2025-12-09 17:40:22
+270801,248119,12,Contato Idiomus,open,snoozed,2025-12-09 17:45:07
+270803,248143,12,Contato Idiomus,open,snoozed,2025-12-09 18:15:05
+270804,248166,12,Contato Idiomus,open,snoozed,2025-12-09 19:10:09
+270805,248193,12,Contato Idiomus,open,snoozed,2025-12-09 19:40:25
+270806,248194,12,Contato Idiomus,open,snoozed,2025-12-09 19:50:05
+270807,248197,12,Contato Idiomus,open,snoozed,2025-12-09 20:00:11
+270808,248205,12,Contato Idiomus,open,snoozed,2025-12-09 20:15:08
+270809,248206,12,Contato Idiomus,open,snoozed,2025-12-09 20:20:07
+270810,248211,12,Contato Idiomus,open,snoozed,2025-12-09 20:25:18
+270811,248218,12,Contato Idiomus,open,snoozed,2025-12-09 20:35:11
+270812,248224,12,Contato Idiomus,open,snoozed,2025-12-09 20:50:12
+270813,248234,12,Contato Idiomus,open,snoozed,2025-12-09 21:15:06
+270815,248250,12,Contato Idiomus,open,snoozed,2025-12-09 21:40:07
+258192,248251,12,Contato Idiomus,open,snoozed,2025-12-09 21:40:08
+270816,248258,12,Contato Idiomus,open,snoozed,2025-12-09 21:50:16
+270817,248271,12,Contato Idiomus,open,snoozed,2025-12-09 22:35:08
+270818,248280,12,Contato Idiomus,open,snoozed,2025-12-09 23:05:08
+270819,248281,12,Contato Idiomus,open,snoozed,2025-12-09 23:05:08
+270820,248286,12,Contato Idiomus,open,snoozed,2025-12-09 23:10:10
+270821,248305,12,Contato Idiomus,open,snoozed,2025-12-09 23:30:10
+270822,248306,12,Contato Idiomus,open,snoozed,2025-12-09 23:30:10
+270824,248316,12,Contato Idiomus,open,snoozed,2025-12-09 23:45:08
+270825,248318,12,Contato Idiomus,open,snoozed,2025-12-09 23:50:11
+270826,248319,12,Contato Idiomus,open,snoozed,2025-12-09 23:55:20
+270827,248333,12,Contato Idiomus,open,snoozed,2025-12-10 00:40:10
+270828,248336,12,Contato Idiomus,open,snoozed,2025-12-10 00:50:05
+270829,248345,12,Contato Idiomus,open,snoozed,2025-12-10 01:00:11
+270830,248346,12,Contato Idiomus,open,snoozed,2025-12-10 01:05:09
+270831,248352,12,Contato Idiomus,open,snoozed,2025-12-10 01:20:11
+258193,248353,12,Contato Idiomus,open,snoozed,2025-12-10 01:20:12
+258195,248364,12,Contato Idiomus,open,snoozed,2025-12-10 01:40:12
+258194,248363,12,Contato Idiomus,open,snoozed,2025-12-10 01:40:12
+258196,248365,12,Contato Idiomus,open,snoozed,2025-12-10 01:40:13
+270832,248369,12,Contato Idiomus,open,snoozed,2025-12-10 01:45:14
+258199,248372,12,Contato Idiomus,open,snoozed,2025-12-10 01:45:19
+258198,248371,12,Contato Idiomus,open,snoozed,2025-12-10 01:45:19
+258197,248370,12,Contato Idiomus,open,snoozed,2025-12-10 01:45:19
+270833,248374,12,Contato Idiomus,open,snoozed,2025-12-10 02:05:18
+270834,248377,12,Contato Idiomus,open,snoozed,2025-12-10 02:15:09
+258200,248378,12,Contato Idiomus,open,snoozed,2025-12-10 02:20:18
+258201,248382,12,Contato Idiomus,open,snoozed,2025-12-10 02:25:10
+258202,248383,12,Contato Idiomus,open,snoozed,2025-12-10 02:25:13
+258203,248384,12,Contato Idiomus,open,snoozed,2025-12-10 02:25:13
+258204,248386,12,Contato Idiomus,open,snoozed,2025-12-10 02:30:07
+258205,248389,12,Contato Idiomus,open,snoozed,2025-12-10 02:35:13
+258206,248390,12,Contato Idiomus,open,snoozed,2025-12-10 02:35:13
+258207,248400,12,Contato Idiomus,open,snoozed,2025-12-10 03:10:09
+258208,248402,12,Contato Idiomus,open,snoozed,2025-12-10 03:15:06
+258210,248404,12,Contato Idiomus,open,snoozed,2025-12-10 03:15:07
+258209,248403,12,Contato Idiomus,open,snoozed,2025-12-10 03:15:07
+258212,248407,12,Contato Idiomus,open,snoozed,2025-12-10 03:20:23
+258211,248406,12,Contato Idiomus,open,snoozed,2025-12-10 03:20:23
+270836,248412,12,Contato Idiomus,open,snoozed,2025-12-10 03:35:06
+270845,248443,12,Contato Idiomus,open,snoozed,2025-12-10 09:10:07
+270846,248444,12,Contato Idiomus,open,snoozed,2025-12-10 09:15:07
+270847,248447,12,Contato Idiomus,open,snoozed,2025-12-10 10:00:12
+270848,248448,12,Contato Idiomus,open,snoozed,2025-12-10 10:10:07
+270849,248456,12,Contato Idiomus,open,snoozed,2025-12-10 10:40:15
+270850,248464,12,Contato Idiomus,open,snoozed,2025-12-10 10:55:07
+258213,248466,12,Contato Idiomus,open,snoozed,2025-12-10 11:00:20
+270852,248487,12,Contato Idiomus,open,snoozed,2025-12-10 11:55:13
+258214,248491,12,Contato Idiomus,open,snoozed,2025-12-10 12:00:14
+270853,248514,12,Contato Idiomus,open,snoozed,2025-12-10 12:35:19
+270858,248577,12,Contato Idiomus,open,snoozed,2025-12-10 14:00:20
+258222,248601,12,Contato Idiomus,open,snoozed,2025-12-10 14:20:18
+270862,248658,12,Contato Idiomus,open,snoozed,2025-12-10 15:10:07
+270863,248668,12,Contato Idiomus,open,snoozed,2025-12-10 15:30:26
+270864,248673,12,Contato Idiomus,open,snoozed,2025-12-10 15:35:07
+270865,248676,12,Contato Idiomus,open,snoozed,2025-12-10 15:40:08
+270866,248682,12,Contato Idiomus,open,snoozed,2025-12-10 15:45:23
+270867,248697,12,Contato Idiomus,open,snoozed,2025-12-10 15:55:08
+270868,248708,12,Contato Idiomus,open,snoozed,2025-12-10 16:20:05
+270869,248724,12,Contato Idiomus,open,snoozed,2025-12-10 16:40:13
+270870,248734,12,Contato Idiomus,open,snoozed,2025-12-10 17:10:07
+270871,248739,12,Contato Idiomus,open,snoozed,2025-12-10 17:25:06
+270872,248746,12,Contato Idiomus,open,snoozed,2025-12-10 17:55:13
+270873,248843,12,Contato Idiomus,open,snoozed,2025-12-10 20:40:21
+270874,248864,12,Contato Idiomus,open,snoozed,2025-12-10 21:05:06
+270875,248891,12,Contato Idiomus,open,snoozed,2025-12-10 22:10:04
+270876,248893,12,Contato Idiomus,open,snoozed,2025-12-10 22:10:05
+270877,248918,12,Contato Idiomus,open,snoozed,2025-12-10 23:25:07
+270878,248919,12,Contato Idiomus,open,snoozed,2025-12-10 23:30:16
+270879,248921,12,Contato Idiomus,open,snoozed,2025-12-10 23:45:15
+270880,248933,12,Contato Idiomus,open,snoozed,2025-12-11 00:20:15
+270881,248945,12,Contato Idiomus,open,snoozed,2025-12-11 00:40:09
+270882,248970,12,Contato Idiomus,open,snoozed,2025-12-11 01:50:11
+270888,248986,12,Contato Idiomus,open,snoozed,2025-12-11 04:25:07
+270889,249003,12,Contato Idiomus,open,snoozed,2025-12-11 07:45:24
+270895,249036,12,Contato Idiomus,open,snoozed,2025-12-11 11:40:02
+270896,249087,12,Contato Idiomus,open,snoozed,2025-12-11 13:15:27
+270899,249098,12,Contato Idiomus,open,snoozed,2025-12-11 13:40:12
+270900,249104,12,Contato Idiomus,open,snoozed,2025-12-11 13:55:05
+270901,249114,12,Contato Idiomus,open,snoozed,2025-12-11 14:25:12
+270902,249117,12,Contato Idiomus,open,snoozed,2025-12-11 14:40:06
+270904,249119,12,Contato Idiomus,open,snoozed,2025-12-11 14:45:14
+270905,249120,12,Contato Idiomus,open,snoozed,2025-12-11 14:45:14
+270903,249118,12,Contato Idiomus,open,snoozed,2025-12-11 14:45:14
+270906,249153,12,Contato Idiomus,open,snoozed,2025-12-11 15:25:04
+270907,249156,12,Contato Idiomus,open,snoozed,2025-12-11 15:30:19
+270908,249163,12,Contato Idiomus,open,snoozed,2025-12-11 15:40:06
+270916,249175,12,Contato Idiomus,open,snoozed,2025-12-11 15:50:11
+270918,249187,12,Contato Idiomus,open,snoozed,2025-12-11 16:05:05
+270920,249194,12,Contato Idiomus,open,snoozed,2025-12-11 16:20:10
+270919,249193,12,Contato Idiomus,open,snoozed,2025-12-11 16:20:10
+270921,249205,12,Contato Idiomus,open,snoozed,2025-12-11 16:35:11
+270922,249217,12,Contato Idiomus,open,snoozed,2025-12-11 17:00:10
+270924,249252,12,Contato Idiomus,open,snoozed,2025-12-11 18:05:26
+270925,249256,12,Contato Idiomus,open,snoozed,2025-12-11 18:15:12
+270927,249258,12,Contato Idiomus,open,snoozed,2025-12-11 18:15:14
+270928,249273,12,Contato Idiomus,open,snoozed,2025-12-11 18:40:07
+270929,249274,12,Contato Idiomus,open,snoozed,2025-12-11 18:45:19
+270930,249279,12,Contato Idiomus,open,snoozed,2025-12-11 18:50:08
+270931,249309,12,Contato Idiomus,open,snoozed,2025-12-11 19:25:11
+270932,249319,12,Contato Idiomus,open,snoozed,2025-12-11 20:00:07
+270933,249341,12,Contato Idiomus,open,snoozed,2025-12-11 21:00:05
+270934,249342,12,Contato Idiomus,open,snoozed,2025-12-11 21:05:05
+270937,249347,12,Contato Idiomus,open,snoozed,2025-12-11 21:10:06
+270935,249345,12,Contato Idiomus,open,snoozed,2025-12-11 21:10:06
+270936,249346,12,Contato Idiomus,open,snoozed,2025-12-11 21:10:06
+270938,249352,12,Contato Idiomus,open,snoozed,2025-12-11 21:30:04
+270939,249358,12,Contato Idiomus,open,snoozed,2025-12-11 21:50:06
+270940,249363,12,Contato Idiomus,open,snoozed,2025-12-11 22:05:13
+270941,249368,12,Contato Idiomus,open,snoozed,2025-12-11 22:10:16
+270942,249380,12,Contato Idiomus,open,snoozed,2025-12-11 22:35:04
+270943,249395,12,Contato Idiomus,open,snoozed,2025-12-11 23:25:11
+270944,249409,12,Contato Idiomus,open,snoozed,2025-12-12 00:20:06
+270945,249411,12,Contato Idiomus,open,snoozed,2025-12-12 00:25:09
+270946,249412,12,Contato Idiomus,open,snoozed,2025-12-12 00:25:09
+270947,249413,12,Contato Idiomus,open,snoozed,2025-12-12 00:25:09
+270948,249422,12,Contato Idiomus,open,snoozed,2025-12-12 01:10:12
+270950,249451,12,Contato Idiomus,open,snoozed,2025-12-12 03:45:06
+270951,249475,12,Contato Idiomus,open,snoozed,2025-12-12 08:40:04
+270953,249481,12,Contato Idiomus,open,snoozed,2025-12-12 09:00:11
+270954,249490,12,Contato Idiomus,open,snoozed,2025-12-12 10:35:06
+270958,249504,12,Contato Idiomus,open,snoozed,2025-12-12 11:30:04
+270959,249514,12,Contato Idiomus,open,snoozed,2025-12-12 11:55:13
+270963,249528,12,Contato Idiomus,open,snoozed,2025-12-12 12:30:05
+270964,249531,12,Contato Idiomus,open,snoozed,2025-12-12 12:35:08
+270965,249535,12,Contato Idiomus,open,snoozed,2025-12-12 12:40:14
+270966,249565,12,Contato Idiomus,open,snoozed,2025-12-12 13:20:07
+270968,249577,12,Contato Idiomus,open,snoozed,2025-12-12 13:35:06
+270967,249576,12,Contato Idiomus,open,snoozed,2025-12-12 13:35:06
+270969,249580,12,Contato Idiomus,open,snoozed,2025-12-12 13:40:09
+270970,249583,12,Contato Idiomus,open,snoozed,2025-12-12 13:45:07
+270971,249589,12,Contato Idiomus,open,snoozed,2025-12-12 13:55:10
+270972,249597,12,Contato Idiomus,open,snoozed,2025-12-12 14:15:10
+270973,249598,12,Contato Idiomus,open,snoozed,2025-12-12 14:20:08
+270974,249601,12,Contato Idiomus,open,snoozed,2025-12-12 14:25:11
+270976,249625,12,Contato Idiomus,open,snoozed,2025-12-12 15:00:11
+270977,249632,12,Contato Idiomus,open,snoozed,2025-12-12 15:15:09
+270978,249645,12,Contato Idiomus,open,snoozed,2025-12-12 15:35:10
+270979,249650,12,Contato Idiomus,open,snoozed,2025-12-12 15:50:05
+270980,249669,12,Contato Idiomus,open,snoozed,2025-12-12 16:25:10
+270984,249700,12,Contato Idiomus,open,snoozed,2025-12-12 17:15:11
+270985,249704,12,Contato Idiomus,open,snoozed,2025-12-12 17:25:12
+270986,249715,12,Contato Idiomus,open,snoozed,2025-12-12 18:00:10
+270987,249718,12,Contato Idiomus,open,snoozed,2025-12-12 18:10:18
+270988,249722,12,Contato Idiomus,open,snoozed,2025-12-12 18:15:11
+258251,249721,12,Contato Idiomus,open,snoozed,2025-12-12 18:15:11
+270989,249729,12,Contato Idiomus,open,snoozed,2025-12-12 18:45:16
+258252,249750,12,Contato Idiomus,open,snoozed,2025-12-12 20:10:07
+258253,249767,12,Contato Idiomus,open,snoozed,2025-12-12 20:35:07
+258254,249773,12,Contato Idiomus,open,snoozed,2025-12-12 21:05:12
+258255,249775,12,Contato Idiomus,open,snoozed,2025-12-12 21:15:09
+270991,249781,12,Contato Idiomus,open,snoozed,2025-12-12 21:25:07
+270992,249792,12,Contato Idiomus,open,snoozed,2025-12-12 22:00:06
+270993,249799,12,Contato Idiomus,open,snoozed,2025-12-12 22:20:16
+270995,249852,12,Contato Idiomus,open,snoozed,2025-12-13 02:20:22
+270998,249871,12,Contato Idiomus,open,snoozed,2025-12-13 09:30:13
+270999,249873,12,Contato Idiomus,open,snoozed,2025-12-13 09:50:06
+271000,249880,12,Contato Idiomus,open,snoozed,2025-12-13 10:50:14
+271002,249906,12,Contato Idiomus,open,snoozed,2025-12-13 12:35:24
+271003,249907,12,Contato Idiomus,open,snoozed,2025-12-13 12:40:10
+271004,249929,12,Contato Idiomus,open,snoozed,2025-12-13 13:45:07
+271005,249946,12,Contato Idiomus,open,snoozed,2025-12-13 14:20:09
+271006,249948,12,Contato Idiomus,open,snoozed,2025-12-13 14:25:13
+271008,249964,12,Contato Idiomus,open,snoozed,2025-12-13 15:20:19
+271013,250027,12,Contato Idiomus,open,snoozed,2025-12-13 17:05:36
+271014,250043,12,Contato Idiomus,open,snoozed,2025-12-13 18:15:16
+271015,250051,12,Contato Idiomus,open,snoozed,2025-12-13 18:30:10
+271017,250063,12,Contato Idiomus,open,snoozed,2025-12-13 19:05:06
+271016,250062,12,Contato Idiomus,open,snoozed,2025-12-13 19:05:06
+271018,250070,12,Contato Idiomus,open,snoozed,2025-12-13 19:20:06
+271020,250082,12,Contato Idiomus,open,snoozed,2025-12-13 20:15:12
+271021,250127,12,Contato Idiomus,open,snoozed,2025-12-13 23:10:07
+271022,250130,12,Contato Idiomus,open,snoozed,2025-12-13 23:25:09
+271023,250145,12,Contato Idiomus,open,snoozed,2025-12-14 00:40:09
+271024,250151,12,Contato Idiomus,open,snoozed,2025-12-14 01:10:07
+271025,250152,12,Contato Idiomus,open,snoozed,2025-12-14 01:15:11
+271026,250155,12,Contato Idiomus,open,snoozed,2025-12-14 01:50:11
+271028,250170,12,Contato Idiomus,open,snoozed,2025-12-14 03:05:07
+271045,250206,12,Contato Idiomus,open,snoozed,2025-12-14 09:55:05
+271048,250223,12,Contato Idiomus,open,snoozed,2025-12-14 10:55:06
+271049,250235,12,Contato Idiomus,open,snoozed,2025-12-14 11:40:20
+271050,250236,12,Contato Idiomus,open,snoozed,2025-12-14 11:40:20
+271052,250243,12,Contato Idiomus,open,snoozed,2025-12-14 12:00:06
+271051,250242,12,Contato Idiomus,open,snoozed,2025-12-14 12:00:06
+271053,250255,12,Contato Idiomus,open,snoozed,2025-12-14 12:35:17
+271054,250267,12,Contato Idiomus,open,snoozed,2025-12-14 13:20:06
+271055,250298,12,Contato Idiomus,open,snoozed,2025-12-14 14:45:14
+271056,250308,12,Contato Idiomus,open,snoozed,2025-12-14 15:00:05
+271057,250309,12,Contato Idiomus,open,snoozed,2025-12-14 15:00:05
+271058,250316,12,Contato Idiomus,open,snoozed,2025-12-14 15:15:06
+271059,250323,12,Contato Idiomus,open,snoozed,2025-12-14 15:20:08
+271060,250331,12,Contato Idiomus,open,snoozed,2025-12-14 15:40:09
+271061,250349,12,Contato Idiomus,open,snoozed,2025-12-14 16:00:06
+271062,250361,12,Contato Idiomus,open,snoozed,2025-12-14 16:15:13
+271063,250391,12,Contato Idiomus,open,snoozed,2025-12-14 17:40:05
+271064,250404,12,Contato Idiomus,open,snoozed,2025-12-14 18:10:12
+271065,250419,12,Contato Idiomus,open,snoozed,2025-12-14 18:35:14
+271066,250421,12,Contato Idiomus,open,snoozed,2025-12-14 18:45:11
+271068,250434,12,Contato Idiomus,open,snoozed,2025-12-14 19:10:07
+271071,250482,12,Contato Idiomus,open,snoozed,2025-12-14 21:10:05
+271073,250521,12,Contato Idiomus,open,snoozed,2025-12-14 22:10:05
+271074,250528,12,Contato Idiomus,open,snoozed,2025-12-14 22:35:08
+271075,250537,12,Contato Idiomus,open,snoozed,2025-12-14 23:10:11
+271076,250539,12,Contato Idiomus,open,snoozed,2025-12-14 23:15:19
+271077,250576,12,Contato Idiomus,open,snoozed,2025-12-15 02:00:08
+271082,250613,12,Contato Idiomus,open,snoozed,2025-12-15 09:35:04
+271083,250614,12,Contato Idiomus,open,snoozed,2025-12-15 09:50:06
+271086,250643,12,Contato Idiomus,open,snoozed,2025-12-15 11:20:05
+271088,250696,12,Contato Idiomus,open,snoozed,2025-12-15 12:45:17
+271090,250702,12,Contato Idiomus,open,snoozed,2025-12-15 13:00:15
+271091,250723,12,Contato Idiomus,open,snoozed,2025-12-15 13:25:09
+271092,250751,12,Contato Idiomus,open,snoozed,2025-12-15 14:05:07
+271093,250752,12,Contato Idiomus,open,snoozed,2025-12-15 14:05:08
+271094,250777,12,Contato Idiomus,open,snoozed,2025-12-15 14:45:07
+271095,250790,12,Contato Idiomus,open,snoozed,2025-12-15 14:55:08
+271098,250824,12,Contato Idiomus,open,snoozed,2025-12-15 15:40:07
+271097,250823,12,Contato Idiomus,open,snoozed,2025-12-15 15:40:07
+271099,250837,12,Contato Idiomus,open,snoozed,2025-12-15 15:50:11
+271100,250838,12,Contato Idiomus,open,snoozed,2025-12-15 15:50:12
+271101,250843,12,Contato Idiomus,open,snoozed,2025-12-15 15:55:07
+271102,250860,12,Contato Idiomus,open,snoozed,2025-12-15 16:15:06
+271104,250865,12,Contato Idiomus,open,snoozed,2025-12-15 16:20:07
+271103,250864,12,Contato Idiomus,open,snoozed,2025-12-15 16:20:07
+271105,250866,12,Contato Idiomus,open,snoozed,2025-12-15 16:20:08
+271106,250872,12,Contato Idiomus,open,snoozed,2025-12-15 16:25:19
+271107,250874,12,Contato Idiomus,open,snoozed,2025-12-15 16:25:20
+271108,250880,12,Contato Idiomus,open,snoozed,2025-12-15 16:35:08
+271109,250882,12,Contato Idiomus,open,snoozed,2025-12-15 16:35:10
+271110,250896,12,Contato Idiomus,open,snoozed,2025-12-15 16:45:19
+271111,250901,12,Contato Idiomus,open,snoozed,2025-12-15 16:50:11
+271114,250906,12,Contato Idiomus,open,snoozed,2025-12-15 17:00:14
+271115,250915,12,Contato Idiomus,open,snoozed,2025-12-15 17:10:06
+271116,250924,12,Contato Idiomus,open,snoozed,2025-12-15 17:25:12
+271117,250927,12,Contato Idiomus,open,snoozed,2025-12-15 17:30:14
+271118,250936,12,Contato Idiomus,open,snoozed,2025-12-15 17:50:04
+271119,250961,12,Contato Idiomus,open,snoozed,2025-12-15 18:20:09
+271122,250969,12,Contato Idiomus,open,snoozed,2025-12-15 18:35:07
+271123,250976,12,Contato Idiomus,open,snoozed,2025-12-15 18:45:10
+271124,250981,12,Contato Idiomus,open,snoozed,2025-12-15 18:50:05
+258264,250989,12,Contato Idiomus,open,snoozed,2025-12-15 18:55:19
+271125,250993,12,Contato Idiomus,open,snoozed,2025-12-15 19:00:07
+271126,251007,12,Contato Idiomus,open,snoozed,2025-12-15 19:20:06
+271127,251009,12,Contato Idiomus,open,snoozed,2025-12-15 19:20:08
+271128,251010,12,Contato Idiomus,open,snoozed,2025-12-15 19:25:04
+271129,251013,12,Contato Idiomus,open,snoozed,2025-12-15 19:30:14
+271131,251036,12,Contato Idiomus,open,snoozed,2025-12-15 20:10:10
+271132,251045,12,Contato Idiomus,open,snoozed,2025-12-15 20:25:16
+271133,251061,12,Contato Idiomus,open,snoozed,2025-12-15 21:15:05
+271139,251126,12,Contato Idiomus,open,snoozed,2025-12-15 23:05:21
+271140,251134,12,Contato Idiomus,open,snoozed,2025-12-15 23:25:03
+271142,251154,12,Contato Idiomus,open,snoozed,2025-12-15 23:45:05
+271141,251153,12,Contato Idiomus,open,snoozed,2025-12-15 23:45:05
+271143,251166,12,Contato Idiomus,open,snoozed,2025-12-16 00:30:18
+271145,251168,12,Contato Idiomus,open,snoozed,2025-12-16 00:40:11
+271144,251167,12,Contato Idiomus,open,snoozed,2025-12-16 00:40:11
+271146,251169,12,Contato Idiomus,open,snoozed,2025-12-16 00:40:11
+271147,251187,12,Contato Idiomus,open,snoozed,2025-12-16 03:05:15
+271149,251200,12,Contato Idiomus,open,snoozed,2025-12-16 04:15:05
+271150,251202,12,Contato Idiomus,open,snoozed,2025-12-16 05:10:06
+271152,251216,12,Contato Idiomus,open,snoozed,2025-12-16 09:00:05
+271154,251222,12,Contato Idiomus,open,snoozed,2025-12-16 09:50:08
+271158,251247,12,Contato Idiomus,open,snoozed,2025-12-16 11:25:07
+271159,251252,12,Contato Idiomus,open,snoozed,2025-12-16 11:45:11
+271160,251253,12,Contato Idiomus,open,snoozed,2025-12-16 11:45:11
+271161,251259,12,Contato Idiomus,open,snoozed,2025-12-16 12:00:07
+271163,251272,12,Contato Idiomus,open,snoozed,2025-12-16 12:20:11
+271164,251274,12,Contato Idiomus,open,snoozed,2025-12-16 12:25:12
+271171,251356,12,Contato Idiomus,open,snoozed,2025-12-16 15:35:11
+271186,251526,12,Contato Idiomus,open,snoozed,2025-12-16 22:05:11
+271189,251574,12,Contato Idiomus,open,snoozed,2025-12-17 00:45:08
+258270,251668,12,Contato Idiomus,open,snoozed,2025-12-17 11:55:15
+271217,251720,12,Contato Idiomus,open,snoozed,2025-12-17 14:00:09
+271220,251729,12,Contato Idiomus,open,snoozed,2025-12-17 14:25:08
+271235,251876,12,Contato Idiomus,open,snoozed,2025-12-17 19:45:06
+271236,251877,12,Contato Idiomus,open,snoozed,2025-12-17 19:50:12
+271237,251880,12,Contato Idiomus,open,snoozed,2025-12-17 20:10:06
+271239,251892,12,Contato Idiomus,open,snoozed,2025-12-17 20:30:12
+271240,251908,12,Contato Idiomus,open,snoozed,2025-12-17 21:45:09
+258278,251910,12,Contato Idiomus,open,snoozed,2025-12-17 21:55:10
+271241,251913,12,Contato Idiomus,open,snoozed,2025-12-17 22:00:08
+271242,251914,12,Contato Idiomus,open,snoozed,2025-12-17 22:00:08
+271243,251915,12,Contato Idiomus,open,snoozed,2025-12-17 22:00:09
+271244,251917,12,Contato Idiomus,open,snoozed,2025-12-17 22:05:18
+271245,251925,12,Contato Idiomus,open,snoozed,2025-12-17 22:20:05
+271246,251928,12,Contato Idiomus,open,snoozed,2025-12-17 22:25:07
+271247,251937,12,Contato Idiomus,open,snoozed,2025-12-17 22:45:08
+271254,251972,12,Contato Idiomus,open,snoozed,2025-12-18 03:40:07
+271255,251973,12,Contato Idiomus,open,snoozed,2025-12-18 03:40:07
+271268,252013,12,Contato Idiomus,open,snoozed,2025-12-18 11:40:07
+271269,252016,12,Contato Idiomus,open,snoozed,2025-12-18 11:50:04
+271270,252020,12,Contato Idiomus,open,snoozed,2025-12-18 12:00:08
+271271,252031,12,Contato Idiomus,open,snoozed,2025-12-18 12:45:15
+271277,252056,12,Contato Idiomus,open,snoozed,2025-12-18 13:50:08
+271278,252065,12,Contato Idiomus,open,snoozed,2025-12-18 14:20:11
+271279,252083,12,Contato Idiomus,open,snoozed,2025-12-18 14:50:15
+271284,252136,12,Contato Idiomus,open,snoozed,2025-12-18 17:15:05
+271286,252147,12,Contato Idiomus,open,snoozed,2025-12-18 17:45:03
+271287,252150,12,Contato Idiomus,open,snoozed,2025-12-18 17:55:15
+271288,252154,12,Contato Idiomus,open,snoozed,2025-12-18 18:05:09
+271290,252159,12,Contato Idiomus,open,snoozed,2025-12-18 18:30:18
+271292,252186,12,Contato Idiomus,open,snoozed,2025-12-18 20:15:08
+271293,252187,12,Contato Idiomus,open,snoozed,2025-12-18 20:15:08
+271294,252189,12,Contato Idiomus,open,snoozed,2025-12-18 20:20:06
+271295,252233,12,Contato Idiomus,open,snoozed,2025-12-18 22:35:08
+271296,252237,12,Contato Idiomus,open,snoozed,2025-12-18 22:40:05
+271297,252244,12,Contato Idiomus,open,snoozed,2025-12-18 23:15:06
+271298,252251,12,Contato Idiomus,open,snoozed,2025-12-18 23:45:13
+264040,237402,13,Contato Teacher Poli,open,snoozed,2025-11-11 23:45:13
+264425,240353,13,Contato Teacher Poli,open,snoozed,2025-11-21 16:00:08
+264441,240410,13,Contato Teacher Poli,open,snoozed,2025-11-21 17:10:14
+264443,240418,13,Contato Teacher Poli,open,snoozed,2025-11-21 17:20:07
+264449,240432,13,Contato Teacher Poli,open,snoozed,2025-11-21 17:45:06
+264453,240454,13,Contato Teacher Poli,open,snoozed,2025-11-21 18:15:16
+264455,240456,13,Contato Teacher Poli,open,snoozed,2025-11-21 18:20:11
+264459,240463,13,Contato Teacher Poli,open,snoozed,2025-11-21 18:35:05
+264460,240464,13,Contato Teacher Poli,open,snoozed,2025-11-21 18:35:06
+264468,240483,13,Contato Teacher Poli,open,snoozed,2025-11-21 18:55:07
+264469,240487,13,Contato Teacher Poli,open,snoozed,2025-11-21 19:05:05
+264470,240491,13,Contato Teacher Poli,open,snoozed,2025-11-21 19:10:09
+264471,240497,13,Contato Teacher Poli,open,snoozed,2025-11-21 19:15:10
+264473,240515,13,Contato Teacher Poli,open,snoozed,2025-11-21 19:30:19
+264488,240548,13,Contato Teacher Poli,open,snoozed,2025-11-21 20:20:13
+264547,240979,13,Contato Teacher Poli,open,snoozed,2025-11-22 20:20:11
+264561,241186,13,Contato Teacher Poli,open,snoozed,2025-11-23 14:00:09
+264574,241223,13,Contato Teacher Poli,open,snoozed,2025-11-23 16:00:08
+264581,241297,13,Contato Teacher Poli,open,snoozed,2025-11-23 22:35:15
+264587,241347,13,Contato Teacher Poli,open,snoozed,2025-11-24 00:45:08
+264588,241349,13,Contato Teacher Poli,open,snoozed,2025-11-24 00:50:04
+264589,241354,13,Contato Teacher Poli,open,snoozed,2025-11-24 01:10:04
+264590,241366,13,Contato Teacher Poli,open,snoozed,2025-11-24 01:40:08
+264591,241367,13,Contato Teacher Poli,open,snoozed,2025-11-24 01:50:08
+264593,241374,13,Contato Teacher Poli,open,snoozed,2025-11-24 02:45:09
+264594,241382,13,Contato Teacher Poli,open,snoozed,2025-11-24 03:50:25
+264595,241400,13,Contato Teacher Poli,open,snoozed,2025-11-24 08:00:08
+264597,241410,13,Contato Teacher Poli,open,snoozed,2025-11-24 09:45:11
+264598,241461,13,Contato Teacher Poli,open,snoozed,2025-11-24 11:30:06
+264602,241482,13,Contato Teacher Poli,open,snoozed,2025-11-24 12:35:16
+264603,241497,13,Contato Teacher Poli,open,snoozed,2025-11-24 13:20:05
+264608,241512,13,Contato Teacher Poli,open,snoozed,2025-11-24 13:50:10
+264621,241557,13,Contato Teacher Poli,open,snoozed,2025-11-24 15:25:23
+264633,241604,13,Contato Teacher Poli,open,snoozed,2025-11-24 17:05:05
+264643,241652,13,Contato Teacher Poli,open,snoozed,2025-11-24 19:00:11
+264648,241687,13,Contato Teacher Poli,open,snoozed,2025-11-24 20:30:09
+264651,241711,13,Contato Teacher Poli,open,snoozed,2025-11-24 21:15:18
+264652,241723,13,Contato Teacher Poli,open,snoozed,2025-11-24 21:45:12
+264655,241728,13,Contato Teacher Poli,open,snoozed,2025-11-24 21:55:08
+264659,241736,13,Contato Teacher Poli,open,snoozed,2025-11-24 22:30:10
+264660,241744,13,Contato Teacher Poli,open,snoozed,2025-11-24 22:40:16
+264661,241747,13,Contato Teacher Poli,open,snoozed,2025-11-24 22:50:13
+264662,241757,13,Contato Teacher Poli,open,snoozed,2025-11-24 23:10:16
+264663,241761,13,Contato Teacher Poli,open,snoozed,2025-11-24 23:25:19
+264668,241793,13,Contato Teacher Poli,open,snoozed,2025-11-25 01:30:06
+264672,241839,13,Contato Teacher Poli,open,snoozed,2025-11-25 11:40:07
+264673,241863,13,Contato Teacher Poli,open,snoozed,2025-11-25 12:35:11
+264677,241919,13,Contato Teacher Poli,open,snoozed,2025-11-25 14:55:05
+264749,242265,13,Contato Teacher Poli,open,snoozed,2025-11-26 05:10:32
+264767,242283,13,Contato Teacher Poli,open,snoozed,2025-11-26 05:10:38
+264814,242341,13,Contato Teacher Poli,open,snoozed,2025-11-26 10:00:10
+264912,242708,13,Contato Teacher Poli,open,snoozed,2025-11-27 01:35:05
+264962,242938,13,Contato Teacher Poli,open,snoozed,2025-11-27 16:00:08
+265015,243115,13,Contato Teacher Poli,open,snoozed,2025-11-28 01:40:04
+265127,243415,13,Contato Teacher Poli,open,snoozed,2025-11-28 22:25:10
+265147,243512,13,Contato Teacher Poli,open,snoozed,2025-11-29 11:35:07
+265149,243517,13,Contato Teacher Poli,open,snoozed,2025-11-29 11:50:05
+265449,244497,13,Contato Teacher Poli,open,snoozed,2025-12-02 01:55:05
+265450,244498,13,Contato Teacher Poli,open,snoozed,2025-12-02 02:00:09
+265455,244517,13,Contato Teacher Poli,open,snoozed,2025-12-02 07:15:13
+265462,244540,13,Contato Teacher Poli,open,snoozed,2025-12-02 11:30:08
+265469,244573,13,Contato Teacher Poli,open,snoozed,2025-12-02 13:00:14
+265471,244583,13,Contato Teacher Poli,open,snoozed,2025-12-02 13:20:19
+265473,244593,13,Contato Teacher Poli,open,snoozed,2025-12-02 13:40:09
+265475,244596,13,Contato Teacher Poli,open,snoozed,2025-12-02 13:50:06
+265543,244836,13,Contato Teacher Poli,open,snoozed,2025-12-02 22:35:04
+265544,244840,13,Contato Teacher Poli,open,snoozed,2025-12-02 22:50:10
+265558,244887,13,Contato Teacher Poli,open,snoozed,2025-12-03 03:50:15
+265565,244910,13,Contato Teacher Poli,open,snoozed,2025-12-03 09:50:13
+265616,245045,13,Contato Teacher Poli,open,snoozed,2025-12-03 16:00:22
+265635,245133,13,Contato Teacher Poli,open,snoozed,2025-12-03 19:30:19
+265651,245185,13,Contato Teacher Poli,open,snoozed,2025-12-03 23:20:18
+265665,245220,13,Contato Teacher Poli,open,snoozed,2025-12-04 04:10:13
+265667,245223,13,Contato Teacher Poli,open,snoozed,2025-12-04 04:30:09
+265671,245242,13,Contato Teacher Poli,open,snoozed,2025-12-04 08:35:06
+265689,245309,13,Contato Teacher Poli,open,snoozed,2025-12-04 13:30:11
+265697,245430,13,Contato Teacher Poli,open,snoozed,2025-12-04 13:55:07
+271315,245437,13,Contato Teacher Poli,open,snoozed,2025-12-04 14:05:20
+265725,245683,13,Contato Teacher Poli,open,snoozed,2025-12-04 15:45:13
+271498,245682,13,Contato Teacher Poli,open,snoozed,2025-12-04 15:45:13
+265733,245713,13,Contato Teacher Poli,open,snoozed,2025-12-04 16:45:06
+271519,245768,13,Contato Teacher Poli,open,snoozed,2025-12-04 18:00:07
+271524,245779,13,Contato Teacher Poli,open,snoozed,2025-12-04 18:15:16
+265751,245780,13,Contato Teacher Poli,open,snoozed,2025-12-04 18:15:16
+271533,245807,13,Contato Teacher Poli,open,snoozed,2025-12-04 19:25:06
+271546,245852,13,Contato Teacher Poli,open,snoozed,2025-12-04 21:10:14
+271552,245877,13,Contato Teacher Poli,open,snoozed,2025-12-04 22:25:08
+271558,245908,13,Contato Teacher Poli,open,snoozed,2025-12-05 00:50:10
+265785,245907,13,Contato Teacher Poli,open,snoozed,2025-12-05 00:50:10
+271560,245912,13,Contato Teacher Poli,open,snoozed,2025-12-05 01:10:04
+265787,245911,13,Contato Teacher Poli,open,snoozed,2025-12-05 01:10:04
+271564,245925,13,Contato Teacher Poli,open,snoozed,2025-12-05 02:40:03
+271565,245928,13,Contato Teacher Poli,open,snoozed,2025-12-05 02:45:14
+265791,245927,13,Contato Teacher Poli,open,snoozed,2025-12-05 02:45:14
+265792,245931,13,Contato Teacher Poli,open,snoozed,2025-12-05 03:00:08
+271566,245930,13,Contato Teacher Poli,open,snoozed,2025-12-05 03:00:08
+265793,245932,13,Contato Teacher Poli,open,snoozed,2025-12-05 03:10:05
+271568,245946,13,Contato Teacher Poli,open,snoozed,2025-12-05 05:40:05
+265795,245945,13,Contato Teacher Poli,open,snoozed,2025-12-05 05:40:05
+271570,245958,13,Contato Teacher Poli,open,snoozed,2025-12-05 08:25:04
+265797,245957,13,Contato Teacher Poli,open,snoozed,2025-12-05 08:25:04
+265799,245964,13,Contato Teacher Poli,open,snoozed,2025-12-05 09:05:09
+271576,245980,13,Contato Teacher Poli,open,snoozed,2025-12-05 11:05:05
+265802,245981,13,Contato Teacher Poli,open,snoozed,2025-12-05 11:05:06
+265809,246012,13,Contato Teacher Poli,open,snoozed,2025-12-05 12:50:04
+265820,246073,13,Contato Teacher Poli,open,snoozed,2025-12-05 14:30:17
+271599,246087,13,Contato Teacher Poli,open,snoozed,2025-12-05 15:05:28
+265824,246088,13,Contato Teacher Poli,open,snoozed,2025-12-05 15:05:29
+265829,246100,13,Contato Teacher Poli,open,snoozed,2025-12-05 15:20:09
+265836,246126,13,Contato Teacher Poli,open,snoozed,2025-12-05 15:45:06
+265843,246148,13,Contato Teacher Poli,open,snoozed,2025-12-05 16:25:04
+271618,246149,13,Contato Teacher Poli,open,snoozed,2025-12-05 16:25:04
+265859,246212,13,Contato Teacher Poli,open,snoozed,2025-12-05 18:25:07
+271668,246389,13,Contato Teacher Poli,open,snoozed,2025-12-06 09:35:22
+265894,246388,13,Contato Teacher Poli,open,snoozed,2025-12-06 09:35:22
+271672,246421,13,Contato Teacher Poli,open,snoozed,2025-12-06 12:40:08
+265901,246436,13,Contato Teacher Poli,open,snoozed,2025-12-06 13:15:08
+271674,246433,13,Contato Teacher Poli,open,snoozed,2025-12-06 13:15:08
+271675,246434,13,Contato Teacher Poli,open,snoozed,2025-12-06 13:15:08
+265900,246435,13,Contato Teacher Poli,open,snoozed,2025-12-06 13:15:08
+265902,246437,13,Contato Teacher Poli,open,snoozed,2025-12-06 13:20:09
+271676,246438,13,Contato Teacher Poli,open,snoozed,2025-12-06 13:20:10
+271677,246441,13,Contato Teacher Poli,open,snoozed,2025-12-06 13:25:04
+265903,246442,13,Contato Teacher Poli,open,snoozed,2025-12-06 13:25:05
+265904,246444,13,Contato Teacher Poli,open,snoozed,2025-12-06 13:35:04
+271678,246445,13,Contato Teacher Poli,open,snoozed,2025-12-06 13:35:05
+271679,246447,13,Contato Teacher Poli,open,snoozed,2025-12-06 13:35:05
+265905,246446,13,Contato Teacher Poli,open,snoozed,2025-12-06 13:35:05
+265906,246460,13,Contato Teacher Poli,open,snoozed,2025-12-06 14:05:13
+271680,246461,13,Contato Teacher Poli,open,snoozed,2025-12-06 14:05:13
+265908,246468,13,Contato Teacher Poli,open,snoozed,2025-12-06 14:15:06
+265907,246466,13,Contato Teacher Poli,open,snoozed,2025-12-06 14:15:06
+271682,246469,13,Contato Teacher Poli,open,snoozed,2025-12-06 14:15:06
+271681,246467,13,Contato Teacher Poli,open,snoozed,2025-12-06 14:15:06
+271683,246474,13,Contato Teacher Poli,open,snoozed,2025-12-06 14:25:08
+265909,246475,13,Contato Teacher Poli,open,snoozed,2025-12-06 14:25:08
+271684,246481,13,Contato Teacher Poli,open,snoozed,2025-12-06 14:40:12
+265910,246480,13,Contato Teacher Poli,open,snoozed,2025-12-06 14:40:12
+271685,246506,13,Contato Teacher Poli,open,snoozed,2025-12-06 15:15:14
+265911,246507,13,Contato Teacher Poli,open,snoozed,2025-12-06 15:15:15
+271686,246518,13,Contato Teacher Poli,open,snoozed,2025-12-06 15:35:06
+265912,246519,13,Contato Teacher Poli,open,snoozed,2025-12-06 15:35:07
+265924,246571,13,Contato Teacher Poli,open,snoozed,2025-12-06 16:40:07
+265925,246573,13,Contato Teacher Poli,open,snoozed,2025-12-06 16:40:07
+265926,246575,13,Contato Teacher Poli,open,snoozed,2025-12-06 16:40:07
+271702,246576,13,Contato Teacher Poli,open,snoozed,2025-12-06 16:45:11
+271703,246581,13,Contato Teacher Poli,open,snoozed,2025-12-06 16:50:03
+265927,246582,13,Contato Teacher Poli,open,snoozed,2025-12-06 16:50:03
+271704,246586,13,Contato Teacher Poli,open,snoozed,2025-12-06 17:25:10
+265928,246597,13,Contato Teacher Poli,open,snoozed,2025-12-06 18:45:06
+271705,246598,13,Contato Teacher Poli,open,snoozed,2025-12-06 18:45:07
+265930,246604,13,Contato Teacher Poli,open,snoozed,2025-12-06 19:05:09
+271707,246605,13,Contato Teacher Poli,open,snoozed,2025-12-06 19:05:09
+265929,246603,13,Contato Teacher Poli,open,snoozed,2025-12-06 19:05:09
+265931,246606,13,Contato Teacher Poli,open,snoozed,2025-12-06 19:05:10
+271708,246607,13,Contato Teacher Poli,open,snoozed,2025-12-06 19:05:10
+271709,246613,13,Contato Teacher Poli,open,snoozed,2025-12-06 19:20:21
+265932,246614,13,Contato Teacher Poli,open,snoozed,2025-12-06 19:20:21
+271710,246615,13,Contato Teacher Poli,open,snoozed,2025-12-06 19:25:07
+265933,246617,13,Contato Teacher Poli,open,snoozed,2025-12-06 19:25:08
+271711,246620,13,Contato Teacher Poli,open,snoozed,2025-12-06 19:50:08
+265934,246621,13,Contato Teacher Poli,open,snoozed,2025-12-06 19:50:09
+271712,246624,13,Contato Teacher Poli,open,snoozed,2025-12-06 20:10:20
+265935,246625,13,Contato Teacher Poli,open,snoozed,2025-12-06 20:10:20
+271713,246628,13,Contato Teacher Poli,open,snoozed,2025-12-06 20:30:11
+265936,246627,13,Contato Teacher Poli,open,snoozed,2025-12-06 20:30:11
+271714,246629,13,Contato Teacher Poli,open,snoozed,2025-12-06 20:35:10
+265937,246630,13,Contato Teacher Poli,open,snoozed,2025-12-06 20:35:11
+271726,246691,13,Contato Teacher Poli,open,snoozed,2025-12-07 00:00:12
+265951,246695,13,Contato Teacher Poli,open,snoozed,2025-12-07 00:35:05
+271727,246694,13,Contato Teacher Poli,open,snoozed,2025-12-07 00:35:05
+265952,246696,13,Contato Teacher Poli,open,snoozed,2025-12-07 00:40:06
+271728,246697,13,Contato Teacher Poli,open,snoozed,2025-12-07 00:40:08
+271729,246702,13,Contato Teacher Poli,open,snoozed,2025-12-07 01:15:04
+265953,246701,13,Contato Teacher Poli,open,snoozed,2025-12-07 01:15:04
+271730,246704,13,Contato Teacher Poli,open,snoozed,2025-12-07 01:15:05
+265954,246703,13,Contato Teacher Poli,open,snoozed,2025-12-07 01:15:05
+265955,246709,13,Contato Teacher Poli,open,snoozed,2025-12-07 02:15:04
+271731,246710,13,Contato Teacher Poli,open,snoozed,2025-12-07 02:15:05
+271732,246718,13,Contato Teacher Poli,open,snoozed,2025-12-07 05:00:08
+265956,246717,13,Contato Teacher Poli,open,snoozed,2025-12-07 05:00:08
+271733,246723,13,Contato Teacher Poli,open,snoozed,2025-12-07 07:00:06
+265957,246722,13,Contato Teacher Poli,open,snoozed,2025-12-07 07:00:06
+265958,246727,13,Contato Teacher Poli,open,snoozed,2025-12-07 08:45:15
+271734,246726,13,Contato Teacher Poli,open,snoozed,2025-12-07 08:45:15
+271735,246729,13,Contato Teacher Poli,open,snoozed,2025-12-07 09:35:09
+265959,246730,13,Contato Teacher Poli,open,snoozed,2025-12-07 09:35:10
+271736,246735,13,Contato Teacher Poli,open,snoozed,2025-12-07 10:10:02
+265960,246734,13,Contato Teacher Poli,open,snoozed,2025-12-07 10:10:02
+265961,246755,13,Contato Teacher Poli,open,snoozed,2025-12-07 11:15:07
+265962,246757,13,Contato Teacher Poli,open,snoozed,2025-12-07 11:15:08
+271738,246758,13,Contato Teacher Poli,open,snoozed,2025-12-07 11:15:08
+271737,246756,13,Contato Teacher Poli,open,snoozed,2025-12-07 11:15:08
+265963,246760,13,Contato Teacher Poli,open,snoozed,2025-12-07 11:30:02
+271739,246759,13,Contato Teacher Poli,open,snoozed,2025-12-07 11:30:02
+271752,246815,13,Contato Teacher Poli,open,snoozed,2025-12-07 13:55:05
+265976,246816,13,Contato Teacher Poli,open,snoozed,2025-12-07 13:55:06
+271753,246821,13,Contato Teacher Poli,open,snoozed,2025-12-07 14:00:13
+265977,246825,13,Contato Teacher Poli,open,snoozed,2025-12-07 14:05:06
+265978,246826,13,Contato Teacher Poli,open,snoozed,2025-12-07 14:05:06
+271754,246827,13,Contato Teacher Poli,open,snoozed,2025-12-07 14:05:07
+271755,246830,13,Contato Teacher Poli,open,snoozed,2025-12-07 14:10:08
+265979,246831,13,Contato Teacher Poli,open,snoozed,2025-12-07 14:10:09
+271756,246832,13,Contato Teacher Poli,open,snoozed,2025-12-07 14:15:12
+265980,246833,13,Contato Teacher Poli,open,snoozed,2025-12-07 14:15:15
+271757,246834,13,Contato Teacher Poli,open,snoozed,2025-12-07 14:15:15
+265981,246835,13,Contato Teacher Poli,open,snoozed,2025-12-07 14:15:15
+265982,246842,13,Contato Teacher Poli,open,snoozed,2025-12-07 14:30:03
+271758,246843,13,Contato Teacher Poli,open,snoozed,2025-12-07 14:30:04
+265983,246845,13,Contato Teacher Poli,open,snoozed,2025-12-07 14:40:08
+271759,246846,13,Contato Teacher Poli,open,snoozed,2025-12-07 14:40:08
+271763,246868,13,Contato Teacher Poli,open,snoozed,2025-12-07 15:10:11
+265987,246871,13,Contato Teacher Poli,open,snoozed,2025-12-07 15:15:02
+265988,246872,13,Contato Teacher Poli,open,snoozed,2025-12-07 15:15:03
+265989,246873,13,Contato Teacher Poli,open,snoozed,2025-12-07 15:15:03
+271765,246875,13,Contato Teacher Poli,open,snoozed,2025-12-07 15:15:04
+271764,246874,13,Contato Teacher Poli,open,snoozed,2025-12-07 15:15:04
+271766,246876,13,Contato Teacher Poli,open,snoozed,2025-12-07 15:15:05
+271767,246879,13,Contato Teacher Poli,open,snoozed,2025-12-07 15:25:08
+265990,246880,13,Contato Teacher Poli,open,snoozed,2025-12-07 15:25:10
+265991,246888,13,Contato Teacher Poli,open,snoozed,2025-12-07 15:35:05
+271779,246933,13,Contato Teacher Poli,open,snoozed,2025-12-07 17:40:07
+266003,246937,13,Contato Teacher Poli,open,snoozed,2025-12-07 17:55:03
+271780,246936,13,Contato Teacher Poli,open,snoozed,2025-12-07 17:55:03
+266004,246939,13,Contato Teacher Poli,open,snoozed,2025-12-07 18:00:15
+271781,246940,13,Contato Teacher Poli,open,snoozed,2025-12-07 18:00:16
+266006,246948,13,Contato Teacher Poli,open,snoozed,2025-12-07 18:15:04
+271783,246949,13,Contato Teacher Poli,open,snoozed,2025-12-07 18:15:05
+271784,246951,13,Contato Teacher Poli,open,snoozed,2025-12-07 18:25:06
+266007,246950,13,Contato Teacher Poli,open,snoozed,2025-12-07 18:25:06
+271785,246953,13,Contato Teacher Poli,open,snoozed,2025-12-07 18:35:04
+266008,246954,13,Contato Teacher Poli,open,snoozed,2025-12-07 18:35:05
+271786,246955,13,Contato Teacher Poli,open,snoozed,2025-12-07 18:35:05
+266009,246956,13,Contato Teacher Poli,open,snoozed,2025-12-07 18:35:05
+266010,246959,13,Contato Teacher Poli,open,snoozed,2025-12-07 18:55:17
+271788,246962,13,Contato Teacher Poli,open,snoozed,2025-12-07 19:20:08
+266011,246963,13,Contato Teacher Poli,open,snoozed,2025-12-07 19:20:09
+271789,246970,13,Contato Teacher Poli,open,snoozed,2025-12-07 19:50:07
+266012,246969,13,Contato Teacher Poli,open,snoozed,2025-12-07 19:50:07
+271790,246973,13,Contato Teacher Poli,open,snoozed,2025-12-07 20:10:09
+266013,246974,13,Contato Teacher Poli,open,snoozed,2025-12-07 20:10:09
+271791,246977,13,Contato Teacher Poli,open,snoozed,2025-12-07 20:15:06
+266014,246978,13,Contato Teacher Poli,open,snoozed,2025-12-07 20:15:06
+266015,246991,13,Contato Teacher Poli,open,snoozed,2025-12-07 21:20:14
+271792,246990,13,Contato Teacher Poli,open,snoozed,2025-12-07 21:20:14
+266016,246994,13,Contato Teacher Poli,open,snoozed,2025-12-07 21:25:11
+271793,246993,13,Contato Teacher Poli,open,snoozed,2025-12-07 21:25:11
+266017,246997,13,Contato Teacher Poli,open,snoozed,2025-12-07 21:30:03
+271794,246996,13,Contato Teacher Poli,open,snoozed,2025-12-07 21:30:03
+271795,246998,13,Contato Teacher Poli,open,snoozed,2025-12-07 21:35:26
+266018,246999,13,Contato Teacher Poli,open,snoozed,2025-12-07 21:35:26
+266019,247001,13,Contato Teacher Poli,open,snoozed,2025-12-07 21:40:12
+271797,247006,13,Contato Teacher Poli,open,snoozed,2025-12-07 22:00:06
+266020,247005,13,Contato Teacher Poli,open,snoozed,2025-12-07 22:00:06
+271798,247020,13,Contato Teacher Poli,open,snoozed,2025-12-07 22:45:07
+266021,247021,13,Contato Teacher Poli,open,snoozed,2025-12-07 22:45:07
+271799,247025,13,Contato Teacher Poli,open,snoozed,2025-12-07 23:15:03
+266022,247026,13,Contato Teacher Poli,open,snoozed,2025-12-07 23:15:04
+266023,247028,13,Contato Teacher Poli,open,snoozed,2025-12-07 23:30:15
+271800,247029,13,Contato Teacher Poli,open,snoozed,2025-12-07 23:30:15
+271801,247034,13,Contato Teacher Poli,open,snoozed,2025-12-07 23:40:17
+266024,247035,13,Contato Teacher Poli,open,snoozed,2025-12-07 23:40:17
+271802,247041,13,Contato Teacher Poli,open,snoozed,2025-12-08 00:25:04
+271803,247042,13,Contato Teacher Poli,open,snoozed,2025-12-08 00:25:05
+271804,247043,13,Contato Teacher Poli,open,snoozed,2025-12-08 00:25:05
+266025,247044,13,Contato Teacher Poli,open,snoozed,2025-12-08 00:25:05
+266026,247045,13,Contato Teacher Poli,open,snoozed,2025-12-08 00:25:06
+266027,247046,13,Contato Teacher Poli,open,snoozed,2025-12-08 00:25:06
+266028,247050,13,Contato Teacher Poli,open,snoozed,2025-12-08 00:30:13
+271805,247051,13,Contato Teacher Poli,open,snoozed,2025-12-08 00:30:14
+266029,247054,13,Contato Teacher Poli,open,snoozed,2025-12-08 00:35:04
+271806,247053,13,Contato Teacher Poli,open,snoozed,2025-12-08 00:35:04
+266030,247060,13,Contato Teacher Poli,open,snoozed,2025-12-08 01:15:18
+271807,247059,13,Contato Teacher Poli,open,snoozed,2025-12-08 01:15:18
+271808,247069,13,Contato Teacher Poli,open,snoozed,2025-12-08 01:55:17
+266031,247068,13,Contato Teacher Poli,open,snoozed,2025-12-08 01:55:17
+271809,247072,13,Contato Teacher Poli,open,snoozed,2025-12-08 02:00:08
+266032,247073,13,Contato Teacher Poli,open,snoozed,2025-12-08 02:00:08
+271810,247074,13,Contato Teacher Poli,open,snoozed,2025-12-08 02:00:09
+266033,247075,13,Contato Teacher Poli,open,snoozed,2025-12-08 02:00:09
+266034,247078,13,Contato Teacher Poli,open,snoozed,2025-12-08 02:05:14
+266035,247079,13,Contato Teacher Poli,open,snoozed,2025-12-08 02:05:14
+271812,247080,13,Contato Teacher Poli,open,snoozed,2025-12-08 02:05:14
+271811,247077,13,Contato Teacher Poli,open,snoozed,2025-12-08 02:05:14
+266036,247084,13,Contato Teacher Poli,open,snoozed,2025-12-08 02:40:03
+271813,247085,13,Contato Teacher Poli,open,snoozed,2025-12-08 02:40:03
+271816,247086,13,Contato Teacher Poli,open,snoozed,2025-12-08 02:55:13
+266037,247087,13,Contato Teacher Poli,open,snoozed,2025-12-08 02:55:14
+271817,247095,13,Contato Teacher Poli,open,snoozed,2025-12-08 05:10:03
+266038,247096,13,Contato Teacher Poli,open,snoozed,2025-12-08 05:10:03
+266039,247098,13,Contato Teacher Poli,open,snoozed,2025-12-08 05:30:15
+271818,247097,13,Contato Teacher Poli,open,snoozed,2025-12-08 05:30:15
+266040,247100,13,Contato Teacher Poli,open,snoozed,2025-12-08 06:20:06
+271819,247101,13,Contato Teacher Poli,open,snoozed,2025-12-08 06:20:06
+266041,247105,13,Contato Teacher Poli,open,snoozed,2025-12-08 07:05:09
+271820,247106,13,Contato Teacher Poli,open,snoozed,2025-12-08 07:05:09
+266042,247110,13,Contato Teacher Poli,open,snoozed,2025-12-08 09:10:05
+271821,247111,13,Contato Teacher Poli,open,snoozed,2025-12-08 09:10:06
+266043,247115,13,Contato Teacher Poli,open,snoozed,2025-12-08 09:25:04
+271822,247116,13,Contato Teacher Poli,open,snoozed,2025-12-08 09:25:06
+266044,247127,13,Contato Teacher Poli,open,snoozed,2025-12-08 10:30:16
+271823,247126,13,Contato Teacher Poli,open,snoozed,2025-12-08 10:30:16
+271824,247133,13,Contato Teacher Poli,open,snoozed,2025-12-08 10:50:11
+266045,247134,13,Contato Teacher Poli,open,snoozed,2025-12-08 10:50:12
+266046,247151,13,Contato Teacher Poli,open,snoozed,2025-12-08 11:15:08
+271825,247150,13,Contato Teacher Poli,open,snoozed,2025-12-08 11:15:08
+271826,247154,13,Contato Teacher Poli,open,snoozed,2025-12-08 11:20:17
+266047,247155,13,Contato Teacher Poli,open,snoozed,2025-12-08 11:20:17
+266052,247203,13,Contato Teacher Poli,open,snoozed,2025-12-08 13:05:04
+266074,247313,13,Contato Teacher Poli,open,snoozed,2025-12-08 15:15:09
+266111,247473,13,Contato Teacher Poli,open,snoozed,2025-12-08 19:00:20
+271894,247486,13,Contato Teacher Poli,open,snoozed,2025-12-08 19:15:06
+271903,247535,13,Contato Teacher Poli,open,snoozed,2025-12-08 20:10:04
+271904,247536,13,Contato Teacher Poli,open,snoozed,2025-12-08 20:10:05
+266123,247539,13,Contato Teacher Poli,open,snoozed,2025-12-08 20:10:07
+266156,247695,13,Contato Teacher Poli,open,snoozed,2025-12-09 01:05:14
+271938,247700,13,Contato Teacher Poli,open,snoozed,2025-12-09 01:30:09
+266157,247701,13,Contato Teacher Poli,open,snoozed,2025-12-09 01:30:09
+271939,247715,13,Contato Teacher Poli,open,snoozed,2025-12-09 02:40:14
+266158,247714,13,Contato Teacher Poli,open,snoozed,2025-12-09 02:40:14
+266159,247716,13,Contato Teacher Poli,open,snoozed,2025-12-09 02:40:14
+266160,247718,13,Contato Teacher Poli,open,snoozed,2025-12-09 02:40:15
+271940,247717,13,Contato Teacher Poli,open,snoozed,2025-12-09 02:40:15
+271941,247719,13,Contato Teacher Poli,open,snoozed,2025-12-09 02:40:15
+271942,247722,13,Contato Teacher Poli,open,snoozed,2025-12-09 03:05:05
+266161,247721,13,Contato Teacher Poli,open,snoozed,2025-12-09 03:05:05
+266162,247724,13,Contato Teacher Poli,open,snoozed,2025-12-09 04:10:03
+271943,247725,13,Contato Teacher Poli,open,snoozed,2025-12-09 04:10:04
+266173,247760,13,Contato Teacher Poli,open,snoozed,2025-12-09 09:40:04
+266174,247763,13,Contato Teacher Poli,open,snoozed,2025-12-09 10:05:12
+271955,247764,13,Contato Teacher Poli,open,snoozed,2025-12-09 10:05:13
+271956,247779,13,Contato Teacher Poli,open,snoozed,2025-12-09 11:00:08
+266175,247780,13,Contato Teacher Poli,open,snoozed,2025-12-09 11:00:08
+271957,247783,13,Contato Teacher Poli,open,snoozed,2025-12-09 11:05:03
+266176,247784,13,Contato Teacher Poli,open,snoozed,2025-12-09 11:05:04
+266177,247797,13,Contato Teacher Poli,open,snoozed,2025-12-09 11:40:08
+271958,247798,13,Contato Teacher Poli,open,snoozed,2025-12-09 11:40:09
+266178,247801,13,Contato Teacher Poli,open,snoozed,2025-12-09 11:45:11
+271959,247800,13,Contato Teacher Poli,open,snoozed,2025-12-09 11:45:11
+271961,247804,13,Contato Teacher Poli,open,snoozed,2025-12-09 11:50:08
+266179,247805,13,Contato Teacher Poli,open,snoozed,2025-12-09 11:50:08
+271960,247803,13,Contato Teacher Poli,open,snoozed,2025-12-09 11:50:08
+266180,247806,13,Contato Teacher Poli,open,snoozed,2025-12-09 11:50:09
+266181,247808,13,Contato Teacher Poli,open,snoozed,2025-12-09 11:55:08
+271962,247809,13,Contato Teacher Poli,open,snoozed,2025-12-09 11:55:09
+266182,247816,13,Contato Teacher Poli,open,snoozed,2025-12-09 12:25:08
+271963,247815,13,Contato Teacher Poli,open,snoozed,2025-12-09 12:25:08
+266183,247834,13,Contato Teacher Poli,open,snoozed,2025-12-09 12:40:06
+271964,247833,13,Contato Teacher Poli,open,snoozed,2025-12-09 12:40:06
+271965,247838,13,Contato Teacher Poli,open,snoozed,2025-12-09 12:55:07
+266184,247839,13,Contato Teacher Poli,open,snoozed,2025-12-09 12:55:08
+266195,247903,13,Contato Teacher Poli,open,snoozed,2025-12-09 14:20:25
+266196,247909,13,Contato Teacher Poli,open,snoozed,2025-12-09 14:30:12
+271978,247908,13,Contato Teacher Poli,open,snoozed,2025-12-09 14:30:12
+271979,247919,13,Contato Teacher Poli,open,snoozed,2025-12-09 14:45:08
+271980,247920,13,Contato Teacher Poli,open,snoozed,2025-12-09 14:45:09
+266198,247922,13,Contato Teacher Poli,open,snoozed,2025-12-09 14:45:09
+266197,247921,13,Contato Teacher Poli,open,snoozed,2025-12-09 14:45:09
+266199,247923,13,Contato Teacher Poli,open,snoozed,2025-12-09 14:50:11
+266200,247924,13,Contato Teacher Poli,open,snoozed,2025-12-09 14:50:11
+271981,247925,13,Contato Teacher Poli,open,snoozed,2025-12-09 14:50:12
+271982,247926,13,Contato Teacher Poli,open,snoozed,2025-12-09 14:50:13
+266201,247953,13,Contato Teacher Poli,open,snoozed,2025-12-09 15:15:11
+271983,247954,13,Contato Teacher Poli,open,snoozed,2025-12-09 15:15:12
+271984,247964,13,Contato Teacher Poli,open,snoozed,2025-12-09 15:25:09
+271985,247966,13,Contato Teacher Poli,open,snoozed,2025-12-09 15:25:10
+266202,247967,13,Contato Teacher Poli,open,snoozed,2025-12-09 15:25:10
+266203,247968,13,Contato Teacher Poli,open,snoozed,2025-12-09 15:25:11
+271986,247986,13,Contato Teacher Poli,open,snoozed,2025-12-09 15:40:07
+266204,247985,13,Contato Teacher Poli,open,snoozed,2025-12-09 15:40:07
+271987,247988,13,Contato Teacher Poli,open,snoozed,2025-12-09 15:40:08
+266205,247987,13,Contato Teacher Poli,open,snoozed,2025-12-09 15:40:08
+266206,248004,13,Contato Teacher Poli,open,snoozed,2025-12-09 16:00:09
+266207,248006,13,Contato Teacher Poli,open,snoozed,2025-12-09 16:00:11
+272000,248074,13,Contato Teacher Poli,open,snoozed,2025-12-09 17:00:09
+272001,248076,13,Contato Teacher Poli,open,snoozed,2025-12-09 17:05:07
+266219,248077,13,Contato Teacher Poli,open,snoozed,2025-12-09 17:05:08
+272002,248086,13,Contato Teacher Poli,open,snoozed,2025-12-09 17:10:05
+272003,248087,13,Contato Teacher Poli,open,snoozed,2025-12-09 17:10:06
+266220,248088,13,Contato Teacher Poli,open,snoozed,2025-12-09 17:10:06
+266221,248089,13,Contato Teacher Poli,open,snoozed,2025-12-09 17:10:07
+272004,248099,13,Contato Teacher Poli,open,snoozed,2025-12-09 17:25:05
+272005,248100,13,Contato Teacher Poli,open,snoozed,2025-12-09 17:25:07
+266222,248101,13,Contato Teacher Poli,open,snoozed,2025-12-09 17:25:07
+266223,248102,13,Contato Teacher Poli,open,snoozed,2025-12-09 17:25:08
+272006,248109,13,Contato Teacher Poli,open,snoozed,2025-12-09 17:30:11
+266224,248110,13,Contato Teacher Poli,open,snoozed,2025-12-09 17:30:12
+266226,248150,13,Contato Teacher Poli,open,snoozed,2025-12-09 18:35:03
+272007,248151,13,Contato Teacher Poli,open,snoozed,2025-12-09 18:35:04
+272008,248154,13,Contato Teacher Poli,open,snoozed,2025-12-09 18:40:07
+266227,248153,13,Contato Teacher Poli,open,snoozed,2025-12-09 18:40:07
+272009,248155,13,Contato Teacher Poli,open,snoozed,2025-12-09 18:45:05
+266228,248156,13,Contato Teacher Poli,open,snoozed,2025-12-09 18:45:05
+272010,248158,13,Contato Teacher Poli,open,snoozed,2025-12-09 18:55:05
+266229,248159,13,Contato Teacher Poli,open,snoozed,2025-12-09 18:55:06
+266230,248163,13,Contato Teacher Poli,open,snoozed,2025-12-09 19:05:10
+272011,248164,13,Contato Teacher Poli,open,snoozed,2025-12-09 19:05:11
+272012,248165,13,Contato Teacher Poli,open,snoozed,2025-12-09 19:10:07
+266231,248167,13,Contato Teacher Poli,open,snoozed,2025-12-09 19:10:09
+272013,248169,13,Contato Teacher Poli,open,snoozed,2025-12-09 19:15:03
+266232,248168,13,Contato Teacher Poli,open,snoozed,2025-12-09 19:15:03
+266233,248174,13,Contato Teacher Poli,open,snoozed,2025-12-09 19:20:05
+266244,248237,13,Contato Teacher Poli,open,snoozed,2025-12-09 21:20:09
+272026,248242,13,Contato Teacher Poli,open,snoozed,2025-12-09 21:25:08
+266245,248243,13,Contato Teacher Poli,open,snoozed,2025-12-09 21:25:09
+272027,248246,13,Contato Teacher Poli,open,snoozed,2025-12-09 21:30:04
+266246,248247,13,Contato Teacher Poli,open,snoozed,2025-12-09 21:30:05
+272028,248254,13,Contato Teacher Poli,open,snoozed,2025-12-09 21:45:08
+266247,248253,13,Contato Teacher Poli,open,snoozed,2025-12-09 21:45:08
+272029,248260,13,Contato Teacher Poli,open,snoozed,2025-12-09 22:05:09
+266248,248259,13,Contato Teacher Poli,open,snoozed,2025-12-09 22:05:09
+266249,248268,13,Contato Teacher Poli,open,snoozed,2025-12-09 22:30:05
+272030,248269,13,Contato Teacher Poli,open,snoozed,2025-12-09 22:30:07
+272031,248275,13,Contato Teacher Poli,open,snoozed,2025-12-09 22:50:05
+266250,248274,13,Contato Teacher Poli,open,snoozed,2025-12-09 22:50:05
+272032,248277,13,Contato Teacher Poli,open,snoozed,2025-12-09 22:55:05
+266251,248278,13,Contato Teacher Poli,open,snoozed,2025-12-09 22:55:07
+272033,248284,13,Contato Teacher Poli,open,snoozed,2025-12-09 23:10:09
+266252,248285,13,Contato Teacher Poli,open,snoozed,2025-12-09 23:10:10
+272034,248288,13,Contato Teacher Poli,open,snoozed,2025-12-09 23:15:05
+272035,248289,13,Contato Teacher Poli,open,snoozed,2025-12-09 23:15:05
+266253,248291,13,Contato Teacher Poli,open,snoozed,2025-12-09 23:15:06
+272036,248290,13,Contato Teacher Poli,open,snoozed,2025-12-09 23:15:06
+266254,248292,13,Contato Teacher Poli,open,snoozed,2025-12-09 23:15:07
+266255,248293,13,Contato Teacher Poli,open,snoozed,2025-12-09 23:15:07
+266256,248295,13,Contato Teacher Poli,open,snoozed,2025-12-09 23:20:12
+272037,248296,13,Contato Teacher Poli,open,snoozed,2025-12-09 23:20:13
+266257,248300,13,Contato Teacher Poli,open,snoozed,2025-12-09 23:25:06
+266258,248301,13,Contato Teacher Poli,open,snoozed,2025-12-09 23:25:06
+272040,248309,13,Contato Teacher Poli,open,snoozed,2025-12-09 23:35:08
+266259,248310,13,Contato Teacher Poli,open,snoozed,2025-12-09 23:35:09
+266260,248313,13,Contato Teacher Poli,open,snoozed,2025-12-09 23:40:12
+266261,248323,13,Contato Teacher Poli,open,snoozed,2025-12-10 00:20:09
+272042,248324,13,Contato Teacher Poli,open,snoozed,2025-12-10 00:20:11
+266262,248341,13,Contato Teacher Poli,open,snoozed,2025-12-10 01:00:10
+266263,248343,13,Contato Teacher Poli,open,snoozed,2025-12-10 01:00:10
+272043,248342,13,Contato Teacher Poli,open,snoozed,2025-12-10 01:00:10
+272044,248344,13,Contato Teacher Poli,open,snoozed,2025-12-10 01:00:10
+272045,248350,13,Contato Teacher Poli,open,snoozed,2025-12-10 01:15:04
+266264,248351,13,Contato Teacher Poli,open,snoozed,2025-12-10 01:15:04
+266265,248358,13,Contato Teacher Poli,open,snoozed,2025-12-10 01:35:11
+272046,248357,13,Contato Teacher Poli,open,snoozed,2025-12-10 01:35:11
+272047,248361,13,Contato Teacher Poli,open,snoozed,2025-12-10 01:40:11
+266266,248362,13,Contato Teacher Poli,open,snoozed,2025-12-10 01:40:12
+266267,248367,13,Contato Teacher Poli,open,snoozed,2025-12-10 01:45:14
+272048,248368,13,Contato Teacher Poli,open,snoozed,2025-12-10 01:45:14
+266268,248376,13,Contato Teacher Poli,open,snoozed,2025-12-10 02:15:08
+272049,248387,13,Contato Teacher Poli,open,snoozed,2025-12-10 02:35:11
+266269,248388,13,Contato Teacher Poli,open,snoozed,2025-12-10 02:35:12
+266270,248393,13,Contato Teacher Poli,open,snoozed,2025-12-10 02:45:10
+272050,248394,13,Contato Teacher Poli,open,snoozed,2025-12-10 02:45:10
+266271,248410,13,Contato Teacher Poli,open,snoozed,2025-12-10 03:35:04
+272051,248411,13,Contato Teacher Poli,open,snoozed,2025-12-10 03:35:05
+266275,248454,13,Contato Teacher Poli,open,snoozed,2025-12-10 10:40:14
+272055,248455,13,Contato Teacher Poli,open,snoozed,2025-12-10 10:40:14
+266276,248460,13,Contato Teacher Poli,open,snoozed,2025-12-10 10:50:07
+272056,248461,13,Contato Teacher Poli,open,snoozed,2025-12-10 10:50:08
+272057,248472,13,Contato Teacher Poli,open,snoozed,2025-12-10 11:10:06
+266277,248473,13,Contato Teacher Poli,open,snoozed,2025-12-10 11:10:06
+266278,248477,13,Contato Teacher Poli,open,snoozed,2025-12-10 11:20:04
+272058,248478,13,Contato Teacher Poli,open,snoozed,2025-12-10 11:20:05
+266279,248480,13,Contato Teacher Poli,open,snoozed,2025-12-10 11:25:10
+272059,248479,13,Contato Teacher Poli,open,snoozed,2025-12-10 11:25:10
+272060,248485,13,Contato Teacher Poli,open,snoozed,2025-12-10 11:50:07
+266280,248484,13,Contato Teacher Poli,open,snoozed,2025-12-10 11:50:07
+272061,248494,13,Contato Teacher Poli,open,snoozed,2025-12-10 12:05:07
+266281,248496,13,Contato Teacher Poli,open,snoozed,2025-12-10 12:10:06
+272062,248501,13,Contato Teacher Poli,open,snoozed,2025-12-10 12:15:03
+266283,248500,13,Contato Teacher Poli,open,snoozed,2025-12-10 12:15:03
+266282,248499,13,Contato Teacher Poli,open,snoozed,2025-12-10 12:15:03
+272063,248502,13,Contato Teacher Poli,open,snoozed,2025-12-10 12:15:04
+266284,248510,13,Contato Teacher Poli,open,snoozed,2025-12-10 12:30:06
+272064,248511,13,Contato Teacher Poli,open,snoozed,2025-12-10 12:30:08
+266286,248515,13,Contato Teacher Poli,open,snoozed,2025-12-10 12:35:21
+272066,248516,13,Contato Teacher Poli,open,snoozed,2025-12-10 12:35:21
+266287,248517,13,Contato Teacher Poli,open,snoozed,2025-12-10 12:35:22
+272067,248518,13,Contato Teacher Poli,open,snoozed,2025-12-10 12:35:22
+272069,248525,13,Contato Teacher Poli,open,snoozed,2025-12-10 12:45:13
+266288,248524,13,Contato Teacher Poli,open,snoozed,2025-12-10 12:45:13
+272068,248523,13,Contato Teacher Poli,open,snoozed,2025-12-10 12:45:13
+266289,248526,13,Contato Teacher Poli,open,snoozed,2025-12-10 12:45:14
+266290,248531,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:05:12
+272071,248534,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:05:13
+266291,248532,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:05:13
+272070,248533,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:05:13
+266292,248536,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:15:03
+272072,248540,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:20:06
+266293,248541,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:20:07
+266294,248544,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:20:07
+272073,248542,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:20:07
+272074,248543,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:20:07
+266295,248548,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:25:19
+272076,248551,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:25:19
+272075,248549,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:25:19
+266296,248550,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:25:19
+272077,248554,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:30:12
+266297,248553,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:30:12
+272078,248567,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:50:04
+266298,248568,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:50:05
+266299,248570,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:50:05
+272079,248569,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:50:05
+272080,248571,13,Contato Teacher Poli,open,snoozed,2025-12-10 13:50:06
+272081,248576,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:00:19
+266300,248578,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:00:20
+266301,248582,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:05:10
+272082,248581,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:05:10
+266302,248588,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:10:05
+272083,248586,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:10:05
+266303,248594,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:15:17
+272084,248593,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:15:17
+266304,248595,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:15:20
+272085,248596,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:15:20
+272086,248599,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:20:14
+266305,248598,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:20:14
+266306,248603,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:25:05
+272087,248604,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:25:05
+272089,248620,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:40:09
+266308,248622,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:40:10
+266309,248633,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:50:13
+272090,248632,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:50:13
+272091,248634,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:50:14
+266310,248635,13,Contato Teacher Poli,open,snoozed,2025-12-10 14:50:15
+272092,248669,13,Contato Teacher Poli,open,snoozed,2025-12-10 15:30:26
+266311,248667,13,Contato Teacher Poli,open,snoozed,2025-12-10 15:30:26
+266312,248681,13,Contato Teacher Poli,open,snoozed,2025-12-10 15:45:23
+272093,248680,13,Contato Teacher Poli,open,snoozed,2025-12-10 15:45:23
+266313,248685,13,Contato Teacher Poli,open,snoozed,2025-12-10 15:50:03
+266314,248686,13,Contato Teacher Poli,open,snoozed,2025-12-10 15:50:03
+266315,248687,13,Contato Teacher Poli,open,snoozed,2025-12-10 15:50:03
+266316,248688,13,Contato Teacher Poli,open,snoozed,2025-12-10 15:50:03
+272097,248692,13,Contato Teacher Poli,open,snoozed,2025-12-10 15:50:04
+272095,248690,13,Contato Teacher Poli,open,snoozed,2025-12-10 15:50:04
+272096,248691,13,Contato Teacher Poli,open,snoozed,2025-12-10 15:50:04
+272094,248689,13,Contato Teacher Poli,open,snoozed,2025-12-10 15:50:04
+266317,248696,13,Contato Teacher Poli,open,snoozed,2025-12-10 15:55:06
+272098,248695,13,Contato Teacher Poli,open,snoozed,2025-12-10 15:55:06
+266318,248723,13,Contato Teacher Poli,open,snoozed,2025-12-10 16:40:13
+272099,248722,13,Contato Teacher Poli,open,snoozed,2025-12-10 16:40:13
+272100,248725,13,Contato Teacher Poli,open,snoozed,2025-12-10 16:50:16
+272101,248727,13,Contato Teacher Poli,open,snoozed,2025-12-10 17:00:04
+266319,248728,13,Contato Teacher Poli,open,snoozed,2025-12-10 17:00:05
+272102,248745,13,Contato Teacher Poli,open,snoozed,2025-12-10 17:55:13
+266320,248744,13,Contato Teacher Poli,open,snoozed,2025-12-10 17:55:13
+272103,248750,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:00:11
+272104,248752,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:00:11
+266321,248749,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:00:11
+266322,248751,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:00:11
+272105,248761,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:10:11
+266323,248762,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:10:12
+272106,248763,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:10:12
+266324,248764,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:10:13
+266325,248765,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:10:13
+272107,248766,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:10:14
+266326,248771,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:20:10
+272108,248772,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:20:11
+266327,248776,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:25:07
+272109,248775,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:25:07
+266328,248778,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:30:06
+272110,248779,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:30:07
+272111,248786,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:45:23
+266329,248785,13,Contato Teacher Poli,open,snoozed,2025-12-10 18:45:23
+266330,248793,13,Contato Teacher Poli,open,snoozed,2025-12-10 19:05:12
+272112,248794,13,Contato Teacher Poli,open,snoozed,2025-12-10 19:05:13
+266331,248796,13,Contato Teacher Poli,open,snoozed,2025-12-10 19:10:20
+272113,248797,13,Contato Teacher Poli,open,snoozed,2025-12-10 19:10:21
+272114,248807,13,Contato Teacher Poli,open,snoozed,2025-12-10 19:40:05
+266332,248808,13,Contato Teacher Poli,open,snoozed,2025-12-10 19:40:06
+272115,248814,13,Contato Teacher Poli,open,snoozed,2025-12-10 19:45:07
+266333,248813,13,Contato Teacher Poli,open,snoozed,2025-12-10 19:45:07
+266334,248815,13,Contato Teacher Poli,open,snoozed,2025-12-10 19:45:07
+272116,248816,13,Contato Teacher Poli,open,snoozed,2025-12-10 19:45:07
+266335,248823,13,Contato Teacher Poli,open,snoozed,2025-12-10 19:55:11
+272117,248824,13,Contato Teacher Poli,open,snoozed,2025-12-10 19:55:12
+266336,248825,13,Contato Teacher Poli,open,snoozed,2025-12-10 19:55:13
+272118,248826,13,Contato Teacher Poli,open,snoozed,2025-12-10 19:55:13
+266337,248829,13,Contato Teacher Poli,open,snoozed,2025-12-10 20:05:05
+272119,248828,13,Contato Teacher Poli,open,snoozed,2025-12-10 20:05:05
+272120,248830,13,Contato Teacher Poli,open,snoozed,2025-12-10 20:10:04
+266338,248831,13,Contato Teacher Poli,open,snoozed,2025-12-10 20:10:04
+272121,248832,13,Contato Teacher Poli,open,snoozed,2025-12-10 20:20:07
+266339,248833,13,Contato Teacher Poli,open,snoozed,2025-12-10 20:20:07
+266340,248842,13,Contato Teacher Poli,open,snoozed,2025-12-10 20:40:21
+272122,248844,13,Contato Teacher Poli,open,snoozed,2025-12-10 20:40:21
+272123,248866,13,Contato Teacher Poli,open,snoozed,2025-12-10 21:10:07
+266341,248867,13,Contato Teacher Poli,open,snoozed,2025-12-10 21:10:08
+272124,248868,13,Contato Teacher Poli,open,snoozed,2025-12-10 21:15:13
+266342,248869,13,Contato Teacher Poli,open,snoozed,2025-12-10 21:15:14
+266343,248883,13,Contato Teacher Poli,open,snoozed,2025-12-10 21:45:15
+272125,248882,13,Contato Teacher Poli,open,snoozed,2025-12-10 21:45:15
+266344,248890,13,Contato Teacher Poli,open,snoozed,2025-12-10 22:10:04
+266345,248892,13,Contato Teacher Poli,open,snoozed,2025-12-10 22:10:04
+272127,248895,13,Contato Teacher Poli,open,snoozed,2025-12-10 22:10:06
+272126,248894,13,Contato Teacher Poli,open,snoozed,2025-12-10 22:10:06
+272128,248909,13,Contato Teacher Poli,open,snoozed,2025-12-10 22:50:07
+266346,248910,13,Contato Teacher Poli,open,snoozed,2025-12-10 22:50:08
+266349,248915,13,Contato Teacher Poli,open,snoozed,2025-12-10 23:15:13
+272129,248916,13,Contato Teacher Poli,open,snoozed,2025-12-10 23:15:14
+272130,248929,13,Contato Teacher Poli,open,snoozed,2025-12-11 00:10:04
+266350,248930,13,Contato Teacher Poli,open,snoozed,2025-12-11 00:10:06
+266351,248940,13,Contato Teacher Poli,open,snoozed,2025-12-11 00:30:10
+266352,248942,13,Contato Teacher Poli,open,snoozed,2025-12-11 00:30:11
+272132,248943,13,Contato Teacher Poli,open,snoozed,2025-12-11 00:30:11
+272131,248941,13,Contato Teacher Poli,open,snoozed,2025-12-11 00:30:11
+266353,248947,13,Contato Teacher Poli,open,snoozed,2025-12-11 00:50:03
+272133,248946,13,Contato Teacher Poli,open,snoozed,2025-12-11 00:50:03
+266354,248949,13,Contato Teacher Poli,open,snoozed,2025-12-11 00:55:11
+272134,248948,13,Contato Teacher Poli,open,snoozed,2025-12-11 00:55:11
+272135,248955,13,Contato Teacher Poli,open,snoozed,2025-12-11 01:10:13
+266355,248954,13,Contato Teacher Poli,open,snoozed,2025-12-11 01:10:13
+266357,248964,13,Contato Teacher Poli,open,snoozed,2025-12-11 01:45:07
+272137,248965,13,Contato Teacher Poli,open,snoozed,2025-12-11 01:45:07
+272136,248963,13,Contato Teacher Poli,open,snoozed,2025-12-11 01:45:07
+266356,248962,13,Contato Teacher Poli,open,snoozed,2025-12-11 01:45:07
+272138,248966,13,Contato Teacher Poli,open,snoozed,2025-12-11 01:50:10
+266358,248967,13,Contato Teacher Poli,open,snoozed,2025-12-11 01:50:10
+272139,248968,13,Contato Teacher Poli,open,snoozed,2025-12-11 01:50:10
+266359,248969,13,Contato Teacher Poli,open,snoozed,2025-12-11 01:50:11
+272140,248974,13,Contato Teacher Poli,open,snoozed,2025-12-11 02:10:10
+266360,248975,13,Contato Teacher Poli,open,snoozed,2025-12-11 02:10:11
+266361,248991,13,Contato Teacher Poli,open,snoozed,2025-12-11 05:15:04
+272141,248990,13,Contato Teacher Poli,open,snoozed,2025-12-11 05:15:04
+266362,248997,13,Contato Teacher Poli,open,snoozed,2025-12-11 06:00:13
+272142,248996,13,Contato Teacher Poli,open,snoozed,2025-12-11 06:00:13
+272143,249000,13,Contato Teacher Poli,open,snoozed,2025-12-11 07:25:05
+266363,249001,13,Contato Teacher Poli,open,snoozed,2025-12-11 07:25:05
+272144,249008,13,Contato Teacher Poli,open,snoozed,2025-12-11 10:15:03
+266364,249009,13,Contato Teacher Poli,open,snoozed,2025-12-11 10:15:03
+266365,249012,13,Contato Teacher Poli,open,snoozed,2025-12-11 10:25:11
+272145,249013,13,Contato Teacher Poli,open,snoozed,2025-12-11 10:25:11
+266366,249018,13,Contato Teacher Poli,open,snoozed,2025-12-11 10:35:05
+266367,249020,13,Contato Teacher Poli,open,snoozed,2025-12-11 10:35:05
+272147,249019,13,Contato Teacher Poli,open,snoozed,2025-12-11 10:35:05
+272146,249017,13,Contato Teacher Poli,open,snoozed,2025-12-11 10:35:05
+272148,249023,13,Contato Teacher Poli,open,snoozed,2025-12-11 10:55:31
+266368,249024,13,Contato Teacher Poli,open,snoozed,2025-12-11 10:55:31
+266369,249025,13,Contato Teacher Poli,open,snoozed,2025-12-11 11:05:03
+272149,249026,13,Contato Teacher Poli,open,snoozed,2025-12-11 11:05:04
+272150,249042,13,Contato Teacher Poli,open,snoozed,2025-12-11 12:00:03
+266370,249041,13,Contato Teacher Poli,open,snoozed,2025-12-11 12:00:03
+272151,249043,13,Contato Teacher Poli,open,snoozed,2025-12-11 12:00:07
+266371,249044,13,Contato Teacher Poli,open,snoozed,2025-12-11 12:00:07
+266372,249045,13,Contato Teacher Poli,open,snoozed,2025-12-11 12:00:07
+266373,249047,13,Contato Teacher Poli,open,snoozed,2025-12-11 12:00:08
+272152,249046,13,Contato Teacher Poli,open,snoozed,2025-12-11 12:00:08
+272153,249048,13,Contato Teacher Poli,open,snoozed,2025-12-11 12:00:08
+266374,249054,13,Contato Teacher Poli,open,snoozed,2025-12-11 12:25:13
+272154,249055,13,Contato Teacher Poli,open,snoozed,2025-12-11 12:25:13
+266375,249062,13,Contato Teacher Poli,open,snoozed,2025-12-11 12:45:15
+272155,249063,13,Contato Teacher Poli,open,snoozed,2025-12-11 12:45:15
+266376,249064,13,Contato Teacher Poli,open,snoozed,2025-12-11 12:45:16
+266390,249141,13,Contato Teacher Poli,open,snoozed,2025-12-11 15:15:12
+266462,249556,13,Contato Teacher Poli,open,snoozed,2025-12-12 13:15:14
+266504,249794,13,Contato Teacher Poli,open,snoozed,2025-12-12 22:05:05
+266513,249830,13,Contato Teacher Poli,open,snoozed,2025-12-13 00:45:05
+272293,249831,13,Contato Teacher Poli,open,snoozed,2025-12-13 00:45:05
+266564,250215,13,Contato Teacher Poli,open,snoozed,2025-12-14 10:50:05
+266563,250213,13,Contato Teacher Poli,open,snoozed,2025-12-14 10:50:05
+272343,250216,13,Contato Teacher Poli,open,snoozed,2025-12-14 10:50:06
+266565,250221,13,Contato Teacher Poli,open,snoozed,2025-12-14 10:55:04
+272344,250222,13,Contato Teacher Poli,open,snoozed,2025-12-14 10:55:05
+272345,250226,13,Contato Teacher Poli,open,snoozed,2025-12-14 11:00:10
+266566,250227,13,Contato Teacher Poli,open,snoozed,2025-12-14 11:00:11
+272346,250232,13,Contato Teacher Poli,open,snoozed,2025-12-14 11:30:07
+266567,250233,13,Contato Teacher Poli,open,snoozed,2025-12-14 11:30:07
+272347,250239,13,Contato Teacher Poli,open,snoozed,2025-12-14 11:50:10
+266568,250238,13,Contato Teacher Poli,open,snoozed,2025-12-14 11:50:10
+266569,250241,13,Contato Teacher Poli,open,snoozed,2025-12-14 11:55:09
+272348,250240,13,Contato Teacher Poli,open,snoozed,2025-12-14 11:55:09
+272349,250244,13,Contato Teacher Poli,open,snoozed,2025-12-14 12:05:17
+266570,250245,13,Contato Teacher Poli,open,snoozed,2025-12-14 12:05:19
+272350,250250,13,Contato Teacher Poli,open,snoozed,2025-12-14 12:25:06
+266571,250251,13,Contato Teacher Poli,open,snoozed,2025-12-14 12:25:07
+272351,250254,13,Contato Teacher Poli,open,snoozed,2025-12-14 12:35:16
+266572,250253,13,Contato Teacher Poli,open,snoozed,2025-12-14 12:35:16
+266573,250260,13,Contato Teacher Poli,open,snoozed,2025-12-14 13:10:05
+272352,250259,13,Contato Teacher Poli,open,snoozed,2025-12-14 13:10:05
+266574,250275,13,Contato Teacher Poli,open,snoozed,2025-12-14 13:55:12
+272353,250274,13,Contato Teacher Poli,open,snoozed,2025-12-14 13:55:12
+272355,250284,13,Contato Teacher Poli,open,snoozed,2025-12-14 14:20:09
+272356,250287,13,Contato Teacher Poli,open,snoozed,2025-12-14 14:20:10
+266577,250286,13,Contato Teacher Poli,open,snoozed,2025-12-14 14:20:10
+266576,250285,13,Contato Teacher Poli,open,snoozed,2025-12-14 14:20:10
+272357,250291,13,Contato Teacher Poli,open,snoozed,2025-12-14 14:30:10
+266578,250292,13,Contato Teacher Poli,open,snoozed,2025-12-14 14:30:11
+266579,250295,13,Contato Teacher Poli,open,snoozed,2025-12-14 14:35:06
+272358,250294,13,Contato Teacher Poli,open,snoozed,2025-12-14 14:35:06
+272359,250305,13,Contato Teacher Poli,open,snoozed,2025-12-14 14:55:15
+266580,250306,13,Contato Teacher Poli,open,snoozed,2025-12-14 14:55:16
+266581,250314,13,Contato Teacher Poli,open,snoozed,2025-12-14 15:15:05
+272360,250315,13,Contato Teacher Poli,open,snoozed,2025-12-14 15:15:05
+266583,250320,13,Contato Teacher Poli,open,snoozed,2025-12-14 15:20:07
+272361,250321,13,Contato Teacher Poli,open,snoozed,2025-12-14 15:20:07
+266582,250319,13,Contato Teacher Poli,open,snoozed,2025-12-14 15:20:07
+272362,250322,13,Contato Teacher Poli,open,snoozed,2025-12-14 15:20:08
+266586,250339,13,Contato Teacher Poli,open,snoozed,2025-12-14 15:50:10
+266587,250341,13,Contato Teacher Poli,open,snoozed,2025-12-14 15:50:10
+272364,250338,13,Contato Teacher Poli,open,snoozed,2025-12-14 15:50:10
+272366,250342,13,Contato Teacher Poli,open,snoozed,2025-12-14 15:50:10
+272365,250340,13,Contato Teacher Poli,open,snoozed,2025-12-14 15:50:10
+266585,250337,13,Contato Teacher Poli,open,snoozed,2025-12-14 15:50:10
+272367,250352,13,Contato Teacher Poli,open,snoozed,2025-12-14 16:05:05
+266588,250353,13,Contato Teacher Poli,open,snoozed,2025-12-14 16:05:06
+272368,250358,13,Contato Teacher Poli,open,snoozed,2025-12-14 16:15:11
+266589,250357,13,Contato Teacher Poli,open,snoozed,2025-12-14 16:15:11
+266590,250359,13,Contato Teacher Poli,open,snoozed,2025-12-14 16:15:11
+272369,250360,13,Contato Teacher Poli,open,snoozed,2025-12-14 16:15:12
+272370,250364,13,Contato Teacher Poli,open,snoozed,2025-12-14 16:25:02
+266591,250365,13,Contato Teacher Poli,open,snoozed,2025-12-14 16:25:03
+272371,250388,13,Contato Teacher Poli,open,snoozed,2025-12-14 17:35:04
+266592,250389,13,Contato Teacher Poli,open,snoozed,2025-12-14 17:35:04
+272372,250395,13,Contato Teacher Poli,open,snoozed,2025-12-14 17:55:05
+266593,250396,13,Contato Teacher Poli,open,snoozed,2025-12-14 17:55:07
+272373,250400,13,Contato Teacher Poli,open,snoozed,2025-12-14 18:05:11
+266594,250401,13,Contato Teacher Poli,open,snoozed,2025-12-14 18:05:13
+266595,250402,13,Contato Teacher Poli,open,snoozed,2025-12-14 18:10:10
+272374,250403,13,Contato Teacher Poli,open,snoozed,2025-12-14 18:10:10
+266596,250410,13,Contato Teacher Poli,open,snoozed,2025-12-14 18:20:11
+272375,250411,13,Contato Teacher Poli,open,snoozed,2025-12-14 18:20:11
+266597,250415,13,Contato Teacher Poli,open,snoozed,2025-12-14 18:35:13
+266598,250417,13,Contato Teacher Poli,open,snoozed,2025-12-14 18:35:14
+272376,250416,13,Contato Teacher Poli,open,snoozed,2025-12-14 18:35:14
+272377,250418,13,Contato Teacher Poli,open,snoozed,2025-12-14 18:35:14
+272378,250429,13,Contato Teacher Poli,open,snoozed,2025-12-14 19:05:11
+266599,250430,13,Contato Teacher Poli,open,snoozed,2025-12-14 19:05:11
+266600,250433,13,Contato Teacher Poli,open,snoozed,2025-12-14 19:10:06
+272379,250432,13,Contato Teacher Poli,open,snoozed,2025-12-14 19:10:06
+266601,250439,13,Contato Teacher Poli,open,snoozed,2025-12-14 19:30:07
+272380,250440,13,Contato Teacher Poli,open,snoozed,2025-12-14 19:30:07
+272381,250449,13,Contato Teacher Poli,open,snoozed,2025-12-14 19:45:05
+266602,250448,13,Contato Teacher Poli,open,snoozed,2025-12-14 19:45:05
+272382,250460,13,Contato Teacher Poli,open,snoozed,2025-12-14 20:45:06
+266603,250461,13,Contato Teacher Poli,open,snoozed,2025-12-14 20:45:06
+272383,250465,13,Contato Teacher Poli,open,snoozed,2025-12-14 20:50:03
+266604,250464,13,Contato Teacher Poli,open,snoozed,2025-12-14 20:50:03
+272384,250467,13,Contato Teacher Poli,open,snoozed,2025-12-14 20:55:06
+266605,250468,13,Contato Teacher Poli,open,snoozed,2025-12-14 20:55:07
+272386,250471,13,Contato Teacher Poli,open,snoozed,2025-12-14 21:00:11
+266606,250470,13,Contato Teacher Poli,open,snoozed,2025-12-14 21:00:11
+266607,250472,13,Contato Teacher Poli,open,snoozed,2025-12-14 21:00:11
+272385,250469,13,Contato Teacher Poli,open,snoozed,2025-12-14 21:00:11
+266608,250491,13,Contato Teacher Poli,open,snoozed,2025-12-14 21:20:11
+272387,250490,13,Contato Teacher Poli,open,snoozed,2025-12-14 21:20:11
+272388,250495,13,Contato Teacher Poli,open,snoozed,2025-12-14 21:25:05
+266609,250496,13,Contato Teacher Poli,open,snoozed,2025-12-14 21:25:05
+266610,250499,13,Contato Teacher Poli,open,snoozed,2025-12-14 21:35:03
+272389,250498,13,Contato Teacher Poli,open,snoozed,2025-12-14 21:35:03
+272390,250503,13,Contato Teacher Poli,open,snoozed,2025-12-14 21:45:13
+266611,250504,13,Contato Teacher Poli,open,snoozed,2025-12-14 21:45:13
+272391,250506,13,Contato Teacher Poli,open,snoozed,2025-12-14 21:50:04
+266612,250507,13,Contato Teacher Poli,open,snoozed,2025-12-14 21:50:04
+272392,250512,13,Contato Teacher Poli,open,snoozed,2025-12-14 22:05:05
+266614,250513,13,Contato Teacher Poli,open,snoozed,2025-12-14 22:05:05
+266613,250511,13,Contato Teacher Poli,open,snoozed,2025-12-14 22:05:05
+266615,250514,13,Contato Teacher Poli,open,snoozed,2025-12-14 22:05:05
+272393,250515,13,Contato Teacher Poli,open,snoozed,2025-12-14 22:05:06
+272394,250516,13,Contato Teacher Poli,open,snoozed,2025-12-14 22:05:06
+266616,250520,13,Contato Teacher Poli,open,snoozed,2025-12-14 22:10:03
+272395,250519,13,Contato Teacher Poli,open,snoozed,2025-12-14 22:10:03
+266617,250524,13,Contato Teacher Poli,open,snoozed,2025-12-14 22:20:08
+272396,250523,13,Contato Teacher Poli,open,snoozed,2025-12-14 22:20:08
+272397,250529,13,Contato Teacher Poli,open,snoozed,2025-12-14 22:45:03
+266618,250530,13,Contato Teacher Poli,open,snoozed,2025-12-14 22:45:05
+266619,250541,13,Contato Teacher Poli,open,snoozed,2025-12-14 23:25:04
+272398,250542,13,Contato Teacher Poli,open,snoozed,2025-12-14 23:25:06
+266620,250544,13,Contato Teacher Poli,open,snoozed,2025-12-14 23:35:03
+272399,250545,13,Contato Teacher Poli,open,snoozed,2025-12-14 23:35:03
+266621,250548,13,Contato Teacher Poli,open,snoozed,2025-12-14 23:45:03
+272400,250547,13,Contato Teacher Poli,open,snoozed,2025-12-14 23:45:03
+272403,250563,13,Contato Teacher Poli,open,snoozed,2025-12-15 01:00:06
+266624,250562,13,Contato Teacher Poli,open,snoozed,2025-12-15 01:00:06
+272404,250582,13,Contato Teacher Poli,open,snoozed,2025-12-15 02:25:06
+266625,250583,13,Contato Teacher Poli,open,snoozed,2025-12-15 02:25:07
+272405,250596,13,Contato Teacher Poli,open,snoozed,2025-12-15 05:30:05
+266626,250597,13,Contato Teacher Poli,open,snoozed,2025-12-15 05:30:05
+272406,250601,13,Contato Teacher Poli,open,snoozed,2025-12-15 06:00:15
+266627,250602,13,Contato Teacher Poli,open,snoozed,2025-12-15 06:00:16
+266628,250606,13,Contato Teacher Poli,open,snoozed,2025-12-15 07:15:12
+272407,250607,13,Contato Teacher Poli,open,snoozed,2025-12-15 07:15:12
+272408,250609,13,Contato Teacher Poli,open,snoozed,2025-12-15 07:45:06
+266629,250610,13,Contato Teacher Poli,open,snoozed,2025-12-15 07:45:07
+266630,250617,13,Contato Teacher Poli,open,snoozed,2025-12-15 09:55:18
+272409,250618,13,Contato Teacher Poli,open,snoozed,2025-12-15 09:55:19
+266631,250626,13,Contato Teacher Poli,open,snoozed,2025-12-15 10:40:05
+272410,250627,13,Contato Teacher Poli,open,snoozed,2025-12-15 10:40:05
+266632,250630,13,Contato Teacher Poli,open,snoozed,2025-12-15 10:50:07
+272411,250631,13,Contato Teacher Poli,open,snoozed,2025-12-15 10:50:07
+272413,250638,13,Contato Teacher Poli,open,snoozed,2025-12-15 11:00:06
+266633,250635,13,Contato Teacher Poli,open,snoozed,2025-12-15 11:00:06
+272412,250637,13,Contato Teacher Poli,open,snoozed,2025-12-15 11:00:06
+266641,250665,13,Contato Teacher Poli,open,snoozed,2025-12-15 11:45:07
+272420,250666,13,Contato Teacher Poli,open,snoozed,2025-12-15 11:45:07
+266649,250721,13,Contato Teacher Poli,open,snoozed,2025-12-15 13:25:07
+266650,250728,13,Contato Teacher Poli,open,snoozed,2025-12-15 13:35:06
+272429,250729,13,Contato Teacher Poli,open,snoozed,2025-12-15 13:35:07
+266651,250736,13,Contato Teacher Poli,open,snoozed,2025-12-15 13:45:20
+272430,250735,13,Contato Teacher Poli,open,snoozed,2025-12-15 13:45:20
+266652,250749,13,Contato Teacher Poli,open,snoozed,2025-12-15 14:05:06
+272431,250750,13,Contato Teacher Poli,open,snoozed,2025-12-15 14:05:06
+266653,250757,13,Contato Teacher Poli,open,snoozed,2025-12-15 14:20:18
+272432,250758,13,Contato Teacher Poli,open,snoozed,2025-12-15 14:20:19
+272433,250759,13,Contato Teacher Poli,open,snoozed,2025-12-15 14:25:05
+266654,250760,13,Contato Teacher Poli,open,snoozed,2025-12-15 14:25:05
+266671,250847,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:00:07
+272450,250856,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:10:06
+266672,250855,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:10:06
+272449,250854,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:10:06
+266673,250857,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:10:07
+266674,250862,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:15:07
+272451,250861,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:15:07
+266675,250867,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:25:17
+266676,250868,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:25:18
+272452,250869,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:25:18
+266677,250870,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:25:19
+272454,250873,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:25:20
+272455,250879,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:35:08
+266678,250881,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:35:08
+266679,250889,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:40:06
+272456,250890,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:40:06
+266680,250895,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:45:18
+272457,250894,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:45:18
+266681,250900,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:50:10
+272458,250899,13,Contato Teacher Poli,open,snoozed,2025-12-15 16:50:10
+272459,250908,13,Contato Teacher Poli,open,snoozed,2025-12-15 17:05:05
+272460,250909,13,Contato Teacher Poli,open,snoozed,2025-12-15 17:05:05
+266682,250911,13,Contato Teacher Poli,open,snoozed,2025-12-15 17:05:05
+266683,250912,13,Contato Teacher Poli,open,snoozed,2025-12-15 17:05:06
+266687,250939,13,Contato Teacher Poli,open,snoozed,2025-12-15 17:55:22
+266690,250949,13,Contato Teacher Poli,open,snoozed,2025-12-15 18:05:08
+272467,250950,13,Contato Teacher Poli,open,snoozed,2025-12-15 18:05:09
+266707,251022,13,Contato Teacher Poli,open,snoozed,2025-12-15 19:45:07
+266708,251026,13,Contato Teacher Poli,open,snoozed,2025-12-15 19:50:11
+272485,251025,13,Contato Teacher Poli,open,snoozed,2025-12-15 19:50:11
+266709,251029,13,Contato Teacher Poli,open,snoozed,2025-12-15 19:55:17
+272486,251028,13,Contato Teacher Poli,open,snoozed,2025-12-15 19:55:17
+272488,251038,13,Contato Teacher Poli,open,snoozed,2025-12-15 20:15:04
+266711,251039,13,Contato Teacher Poli,open,snoozed,2025-12-15 20:15:06
+272489,251043,13,Contato Teacher Poli,open,snoozed,2025-12-15 20:25:15
+266712,251044,13,Contato Teacher Poli,open,snoozed,2025-12-15 20:25:16
+272490,251052,13,Contato Teacher Poli,open,snoozed,2025-12-15 20:40:08
+266713,251053,13,Contato Teacher Poli,open,snoozed,2025-12-15 20:40:08
+266714,251054,13,Contato Teacher Poli,open,snoozed,2025-12-15 20:50:21
+272491,251055,13,Contato Teacher Poli,open,snoozed,2025-12-15 20:50:21
+266715,251057,13,Contato Teacher Poli,open,snoozed,2025-12-15 20:55:10
+272492,251056,13,Contato Teacher Poli,open,snoozed,2025-12-15 20:55:10
+266716,251059,13,Contato Teacher Poli,open,snoozed,2025-12-15 21:00:12
+272493,251058,13,Contato Teacher Poli,open,snoozed,2025-12-15 21:00:12
+272494,251063,13,Contato Teacher Poli,open,snoozed,2025-12-15 21:20:10
+266717,251062,13,Contato Teacher Poli,open,snoozed,2025-12-15 21:20:10
+272495,251066,13,Contato Teacher Poli,open,snoozed,2025-12-15 21:30:06
+266719,251069,13,Contato Teacher Poli,open,snoozed,2025-12-15 21:30:07
+272496,251067,13,Contato Teacher Poli,open,snoozed,2025-12-15 21:30:07
+266718,251068,13,Contato Teacher Poli,open,snoozed,2025-12-15 21:30:07
+272498,251073,13,Contato Teacher Poli,open,snoozed,2025-12-15 21:35:09
+272497,251071,13,Contato Teacher Poli,open,snoozed,2025-12-15 21:35:09
+266720,251070,13,Contato Teacher Poli,open,snoozed,2025-12-15 21:35:09
+266721,251072,13,Contato Teacher Poli,open,snoozed,2025-12-15 21:35:09
+266724,251087,13,Contato Teacher Poli,open,snoozed,2025-12-15 21:55:10
+272501,251088,13,Contato Teacher Poli,open,snoozed,2025-12-15 21:55:10
+266725,251095,13,Contato Teacher Poli,open,snoozed,2025-12-15 22:15:04
+272507,251113,13,Contato Teacher Poli,open,snoozed,2025-12-15 22:45:03
+272508,251114,13,Contato Teacher Poli,open,snoozed,2025-12-15 22:45:04
+266731,251116,13,Contato Teacher Poli,open,snoozed,2025-12-15 22:45:05
+272512,251129,13,Contato Teacher Poli,open,snoozed,2025-12-15 23:10:07
+266735,251128,13,Contato Teacher Poli,open,snoozed,2025-12-15 23:10:07
+272527,251213,13,Contato Teacher Poli,open,snoozed,2025-12-16 08:35:19
+266750,251214,13,Contato Teacher Poli,open,snoozed,2025-12-16 08:35:19
+272528,251223,13,Contato Teacher Poli,open,snoozed,2025-12-16 09:55:03
+266751,251224,13,Contato Teacher Poli,open,snoozed,2025-12-16 09:55:03
+266753,251232,13,Contato Teacher Poli,open,snoozed,2025-12-16 11:00:10
+272530,251231,13,Contato Teacher Poli,open,snoozed,2025-12-16 11:00:10
+272550,251364,13,Contato Teacher Poli,open,snoozed,2025-12-16 16:00:09
+266774,251366,13,Contato Teacher Poli,open,snoozed,2025-12-16 16:00:09
+266784,251428,13,Contato Teacher Poli,open,snoozed,2025-12-16 17:45:05
+272559,251429,13,Contato Teacher Poli,open,snoozed,2025-12-16 17:45:06
+266785,251439,13,Contato Teacher Poli,open,snoozed,2025-12-16 18:15:07
+272560,251441,13,Contato Teacher Poli,open,snoozed,2025-12-16 18:15:08
+272561,251461,13,Contato Teacher Poli,open,snoozed,2025-12-16 19:15:06
+266786,251463,13,Contato Teacher Poli,open,snoozed,2025-12-16 19:15:07
+272562,251466,13,Contato Teacher Poli,open,snoozed,2025-12-16 19:25:11
+266787,251467,13,Contato Teacher Poli,open,snoozed,2025-12-16 19:25:11
+272563,251472,13,Contato Teacher Poli,open,snoozed,2025-12-16 19:40:11
+266788,251473,13,Contato Teacher Poli,open,snoozed,2025-12-16 19:40:12
+272564,251474,13,Contato Teacher Poli,open,snoozed,2025-12-16 19:40:12
+266789,251475,13,Contato Teacher Poli,open,snoozed,2025-12-16 19:40:12
+266790,251479,13,Contato Teacher Poli,open,snoozed,2025-12-16 20:05:11
+272565,251478,13,Contato Teacher Poli,open,snoozed,2025-12-16 20:05:11
+272566,251480,13,Contato Teacher Poli,open,snoozed,2025-12-16 20:10:11
+266791,251481,13,Contato Teacher Poli,open,snoozed,2025-12-16 20:10:11
+272567,251492,13,Contato Teacher Poli,open,snoozed,2025-12-16 20:40:04
+266792,251491,13,Contato Teacher Poli,open,snoozed,2025-12-16 20:40:04
+266805,251553,13,Contato Teacher Poli,open,snoozed,2025-12-16 23:25:15
+266806,251567,13,Contato Teacher Poli,open,snoozed,2025-12-17 00:05:10
+272581,251568,13,Contato Teacher Poli,open,snoozed,2025-12-17 00:05:10
+266807,251578,13,Contato Teacher Poli,open,snoozed,2025-12-17 00:50:04
+272582,251579,13,Contato Teacher Poli,open,snoozed,2025-12-17 00:50:05
+266808,251588,13,Contato Teacher Poli,open,snoozed,2025-12-17 01:50:05
+272583,251589,13,Contato Teacher Poli,open,snoozed,2025-12-17 01:50:05
+272584,251591,13,Contato Teacher Poli,open,snoozed,2025-12-17 02:00:05
+266809,251592,13,Contato Teacher Poli,open,snoozed,2025-12-17 02:00:06
+272585,251594,13,Contato Teacher Poli,open,snoozed,2025-12-17 02:15:04
+266810,251595,13,Contato Teacher Poli,open,snoozed,2025-12-17 02:15:05
+272586,251600,13,Contato Teacher Poli,open,snoozed,2025-12-17 02:50:03
+266811,251601,13,Contato Teacher Poli,open,snoozed,2025-12-17 02:50:03
+272587,251603,13,Contato Teacher Poli,open,snoozed,2025-12-17 03:10:15
+266812,251604,13,Contato Teacher Poli,open,snoozed,2025-12-17 03:10:15
+272588,251606,13,Contato Teacher Poli,open,snoozed,2025-12-17 03:15:04
+266813,251607,13,Contato Teacher Poli,open,snoozed,2025-12-17 03:15:05
+266814,251608,13,Contato Teacher Poli,open,snoozed,2025-12-17 03:20:08
+272589,251609,13,Contato Teacher Poli,open,snoozed,2025-12-17 03:20:09
+266815,251610,13,Contato Teacher Poli,open,snoozed,2025-12-17 03:30:07
+272590,251611,13,Contato Teacher Poli,open,snoozed,2025-12-17 03:30:07
+266816,251620,13,Contato Teacher Poli,open,snoozed,2025-12-17 06:15:07
+272591,251621,13,Contato Teacher Poli,open,snoozed,2025-12-17 06:15:07
+266817,251624,13,Contato Teacher Poli,open,snoozed,2025-12-17 06:55:11
+272592,251623,13,Contato Teacher Poli,open,snoozed,2025-12-17 06:55:11
+272594,251628,13,Contato Teacher Poli,open,snoozed,2025-12-17 07:15:15
+266819,251627,13,Contato Teacher Poli,open,snoozed,2025-12-17 07:15:15
+266825,251666,13,Contato Teacher Poli,open,snoozed,2025-12-17 11:50:09
+272600,251667,13,Contato Teacher Poli,open,snoozed,2025-12-17 11:50:10
+266832,251709,13,Contato Teacher Poli,open,snoozed,2025-12-17 13:40:06
+272607,251708,13,Contato Teacher Poli,open,snoozed,2025-12-17 13:40:06
+272608,251715,13,Contato Teacher Poli,open,snoozed,2025-12-17 13:55:08
+266833,251716,13,Contato Teacher Poli,open,snoozed,2025-12-17 13:55:09
+272609,251734,13,Contato Teacher Poli,open,snoozed,2025-12-17 14:35:09
+266834,251735,13,Contato Teacher Poli,open,snoozed,2025-12-17 14:35:09
+272611,251739,13,Contato Teacher Poli,open,snoozed,2025-12-17 14:40:04
+272610,251737,13,Contato Teacher Poli,open,snoozed,2025-12-17 14:40:04
+266835,251738,13,Contato Teacher Poli,open,snoozed,2025-12-17 14:40:04
+272612,251741,13,Contato Teacher Poli,open,snoozed,2025-12-17 14:40:05
+266836,251740,13,Contato Teacher Poli,open,snoozed,2025-12-17 14:40:05
+272613,251743,13,Contato Teacher Poli,open,snoozed,2025-12-17 14:50:14
+266838,251744,13,Contato Teacher Poli,open,snoozed,2025-12-17 14:50:15
+272614,251745,13,Contato Teacher Poli,open,snoozed,2025-12-17 14:50:15
+266839,251746,13,Contato Teacher Poli,open,snoozed,2025-12-17 14:50:16
+266841,251754,13,Contato Teacher Poli,open,snoozed,2025-12-17 15:05:06
+272616,251755,13,Contato Teacher Poli,open,snoozed,2025-12-17 15:05:06
+266842,251756,13,Contato Teacher Poli,open,snoozed,2025-12-17 15:05:06
+272617,251757,13,Contato Teacher Poli,open,snoozed,2025-12-17 15:05:07
+266843,251768,13,Contato Teacher Poli,open,snoozed,2025-12-17 15:35:23
+272619,251769,13,Contato Teacher Poli,open,snoozed,2025-12-17 15:35:23
+272618,251767,13,Contato Teacher Poli,open,snoozed,2025-12-17 15:35:23
+266844,251770,13,Contato Teacher Poli,open,snoozed,2025-12-17 15:35:25
+266845,251776,13,Contato Teacher Poli,open,snoozed,2025-12-17 16:00:06
+272620,251775,13,Contato Teacher Poli,open,snoozed,2025-12-17 16:00:06
+266846,251784,13,Contato Teacher Poli,open,snoozed,2025-12-17 16:30:06
+272621,251783,13,Contato Teacher Poli,open,snoozed,2025-12-17 16:30:06
+266847,251790,13,Contato Teacher Poli,open,snoozed,2025-12-17 16:40:15
+266867,251902,13,Contato Teacher Poli,open,snoozed,2025-12-17 21:15:08
+272642,251904,13,Contato Teacher Poli,open,snoozed,2025-12-17 21:15:09
+272658,252018,13,Contato Teacher Poli,open,snoozed,2025-12-18 12:00:03
+266883,252019,13,Contato Teacher Poli,open,snoozed,2025-12-18 12:00:04
+266884,252026,13,Contato Teacher Poli,open,snoozed,2025-12-18 12:30:04
+272663,252038,13,Contato Teacher Poli,open,snoozed,2025-12-18 13:10:04
+266888,252039,13,Contato Teacher Poli,open,snoozed,2025-12-18 13:10:05
+272664,252044,13,Contato Teacher Poli,open,snoozed,2025-12-18 13:15:11
+266889,252045,13,Contato Teacher Poli,open,snoozed,2025-12-18 13:15:12
+272665,252048,13,Contato Teacher Poli,open,snoozed,2025-12-18 13:30:05
+266890,252049,13,Contato Teacher Poli,open,snoozed,2025-12-18 13:30:05
+272666,252070,13,Contato Teacher Poli,open,snoozed,2025-12-18 14:35:14
+266891,252069,13,Contato Teacher Poli,open,snoozed,2025-12-18 14:35:14
+266893,252075,13,Contato Teacher Poli,open,snoozed,2025-12-18 14:40:06
+266892,252073,13,Contato Teacher Poli,open,snoozed,2025-12-18 14:40:06
+272668,252074,13,Contato Teacher Poli,open,snoozed,2025-12-18 14:40:06
+272667,252072,13,Contato Teacher Poli,open,snoozed,2025-12-18 14:40:06
+266894,252077,13,Contato Teacher Poli,open,snoozed,2025-12-18 14:40:07
+272669,252076,13,Contato Teacher Poli,open,snoozed,2025-12-18 14:40:07
+266895,252079,13,Contato Teacher Poli,open,snoozed,2025-12-18 14:45:24
+272670,252078,13,Contato Teacher Poli,open,snoozed,2025-12-18 14:45:24
+272671,252081,13,Contato Teacher Poli,open,snoozed,2025-12-18 14:50:12
+266896,252082,13,Contato Teacher Poli,open,snoozed,2025-12-18 14:50:13
+266897,252093,13,Contato Teacher Poli,open,snoozed,2025-12-18 15:15:06
+272672,252095,13,Contato Teacher Poli,open,snoozed,2025-12-18 15:15:08
+272674,252097,13,Contato Teacher Poli,open,snoozed,2025-12-18 15:20:04
+272673,252096,13,Contato Teacher Poli,open,snoozed,2025-12-18 15:20:04
+266898,252098,13,Contato Teacher Poli,open,snoozed,2025-12-18 15:20:04
+266899,252099,13,Contato Teacher Poli,open,snoozed,2025-12-18 15:20:05
+266900,252102,13,Contato Teacher Poli,open,snoozed,2025-12-18 15:30:05
+272675,252103,13,Contato Teacher Poli,open,snoozed,2025-12-18 15:30:06
+272676,252104,13,Contato Teacher Poli,open,snoozed,2025-12-18 15:35:04
+266914,252170,13,Contato Teacher Poli,open,snoozed,2025-12-18 19:05:06
+272689,252171,13,Contato Teacher Poli,open,snoozed,2025-12-18 19:05:06
+272691,252178,13,Contato Teacher Poli,open,snoozed,2025-12-18 19:35:03
+272692,252193,13,Contato Teacher Poli,open,snoozed,2025-12-18 20:30:08
+266917,252194,13,Contato Teacher Poli,open,snoozed,2025-12-18 20:30:08
+266919,252215,13,Contato Teacher Poli,open,snoozed,2025-12-18 21:35:08
+272694,252214,13,Contato Teacher Poli,open,snoozed,2025-12-18 21:35:08
+272695,252216,13,Contato Teacher Poli,open,snoozed,2025-12-18 21:50:08
+266920,252217,13,Contato Teacher Poli,open,snoozed,2025-12-18 21:50:09
+272696,252218,13,Contato Teacher Poli,open,snoozed,2025-12-18 21:55:12
+266921,252219,13,Contato Teacher Poli,open,snoozed,2025-12-18 21:55:13
+272697,252223,13,Contato Teacher Poli,open,snoozed,2025-12-18 22:00:07
+266922,252221,13,Contato Teacher Poli,open,snoozed,2025-12-18 22:00:07
+266923,252222,13,Contato Teacher Poli,open,snoozed,2025-12-18 22:00:07
+272698,252225,13,Contato Teacher Poli,open,snoozed,2025-12-18 22:00:08
+272699,252226,13,Contato Teacher Poli,open,snoozed,2025-12-18 22:00:08
+266924,252224,13,Contato Teacher Poli,open,snoozed,2025-12-18 22:00:08
+272700,252227,13,Contato Teacher Poli,open,snoozed,2025-12-18 22:05:11
+266925,252228,13,Contato Teacher Poli,open,snoozed,2025-12-18 22:05:11
+266926,252230,13,Contato Teacher Poli,open,snoozed,2025-12-18 22:10:05
+272701,252231,13,Contato Teacher Poli,open,snoozed,2025-12-18 22:10:05
+266927,252234,13,Contato Teacher Poli,open,snoozed,2025-12-18 22:40:05
+272703,252236,13,Contato Teacher Poli,open,snoozed,2025-12-18 22:40:05
+272702,252235,13,Contato Teacher Poli,open,snoozed,2025-12-18 22:40:05
+266928,252238,13,Contato Teacher Poli,open,snoozed,2025-12-18 22:40:07

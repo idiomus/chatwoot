@@ -322,6 +322,33 @@ WHERE inbox_id = 1
 | Conversas pending (Histórico Evolvy) | 8.846 | 0 |
 | Conversas snoozed (Histórico Evolvy) | 21.314 | 30.161 |
 
+### 8.3 Adiamento de Todas Conversas Pré-Migração (20/01/2026)
+
+Todas as conversas abertas e pendentes criadas **antes de 19/12/2025** (data da migração completa) foram adiadas em todos os inboxes.
+
+**Ação executada:**
+```sql
+UPDATE conversations
+SET status = 3  -- snoozed
+WHERE created_at < '2025-12-19'
+  AND status IN (0, 2);
+-- 2789 rows affected
+```
+
+**Orientação:** Juliana
+
+**Log da transação:** `docs/log_migrados_para_snoozed_20260120.csv`
+
+**Resultado por inbox:**
+| Inbox | Open | Pending | Total |
+|-------|------|---------|-------|
+| Idiomus | 2 | 0 | 2 |
+| Suporte Oficial | 9 | 1.008 | 1.017 |
+| Grupo Idiomus | 13 | 3 | 16 |
+| Contato Idiomus | 748 | 2 | 750 |
+| Contato Teacher Poli | 1.004 | 0 | 1.004 |
+| **Total** | **1.776** | **1.013** | **2.789** |
+
 ---
 
 ## ANEXOS
