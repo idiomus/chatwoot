@@ -101,3 +101,6 @@ CLAUDE.local.md
 .histoire
 .pnpm-store/*
 local/
+
+# Evolvy migration dump (download manually for import)
+12_12_2025_evolvy_dump/
